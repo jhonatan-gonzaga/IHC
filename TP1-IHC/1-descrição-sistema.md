@@ -18,3 +18,6 @@
 
 ## Imagem representativa
 
+<img src="https://raw.githubusercontent.com/jhonatan-gonzaga/IHC/9e876c9cfab03bb27468b6d33708ee9927c4eeec/img/Imagem%20representativa.png" alt="Imagem representativa" width="700"/>
+
+
