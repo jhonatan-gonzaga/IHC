@@ -14,4 +14,7 @@
 - Fornecer recursos que facilitam lidar e manipular grandes volumes de dados de forma simples e organizada  
 - Possibilitar cálculos matemáticos, estatísticos e financeiros  
 - Apoiar a criação de relatórios visuais (gráficos) para análise de dados  
-- Servir como alternativa gratuita e de código aberto ao Microsoft Excel 
+- Servir como alternativa gratuita e de código aberto ao Microsoft Excel
+
+## Imagem representativa
+
