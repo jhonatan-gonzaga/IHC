@@ -41,6 +41,8 @@ Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
 - Data: 19/09/2025
 - local: Sala 202 - Bloco A - UFAM
 - formato: presencial
+- Duração por sessão: 1 hora
+- Numero de sessões: 2
 - [Comprovação do teste (Fotos)](#)
 
 ## 3.3 Equipamentos necessários
