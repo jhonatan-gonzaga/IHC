@@ -43,14 +43,23 @@ Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
 - formato: presencial
 - Duração por sessão: 1 hora
 - Numero de sessões: 2
-- [Comprovação do teste (Fotos)](#)
+- [Comprovação do teste (Fotos)](https://drive.google.com/drive/folders/1U_dc_S3NL_z5usbxX6F0WpYQifdc6vR9?usp=drive_link)
 
 ## 3.3 Equipamentos necessários
 - 4 celulares com cronometro
 - 4 computadores, sendo 2 com o sistema operacional Windows 11 e os outros 2 com Linux (Ubuntu)
 - 8 folhas para anotação das Métricas
 
-# 2. Registro por tarefa e por participante
+## 3.4 Ferramentas extras
+- questionario UEQ e SUS digital:
+     - autor: Jhonatan Gonzaga Galdino
+     - disponivel em [questionario UEQ e SUS](https://github.com/jhonatan-gonzaga/questionario-UEQ-SUS)
+## 3.5 resultados brutos após o teste
+- [Tabela física com Métricas](#)
+- [questionário UEQ](https://drive.google.com/drive/folders/1va2pGc1WqZX_tlC-GERU0tk9oHLz8jJM?usp=drive_link)
+- [questionário SUS](https://drive.google.com/drive/folders/1va2pGc1WqZX_tlC-GERU0tk9oHLz8jJM?usp=drive_link)
+
+# 4. Registro por tarefa e por participante
 - [Registro por tarefa e por participante - P01](https://www.notion.so/26a6bcc1a58a809f8af6ed94713a5fff?v=26a6bcc1a58a80989b10000c9c784ba5&source=copy_link)
 - [Registro por tarefa e por participante - P02](https://www.notion.so/26a6bcc1a58a8082b520dec8a12e7aaa?v=26a6bcc1a58a817ea5c7000cdf26fa3d&source=copy_link)
 - [Registro por tarefa e por participante - P03](https://www.notion.so/26a6bcc1a58a803fb1a8f1cd666812f5?v=26a6bcc1a58a8128ae54000c434ad097&source=copy_link)
@@ -60,7 +69,7 @@ Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
 - [Registro por tarefa e por participante - P07](https://www.notion.so/26a6bcc1a58a807a9203d5f6c2c26b19?v=26a6bcc1a58a8169abec000c51e776e8&source=copy_link)
 - [Registro por tarefa e por participante - P08](https://www.notion.so/26a6bcc1a58a8049b66dc62187cc259e?v=26a6bcc1a58a816fb77f000cca59431f&source=copy_link)
 
-# 3. Resumo por participante
+# 5. Resumo por participante
 - [Resumo por participante - P01](https://www.notion.so/26a6bcc1a58a80ffb37eda8f154097ae?v=26a6bcc1a58a80e482e5000c5939a57a&source=copy_link)
 - [Resumo por participante - P02](https://www.notion.so/26a6bcc1a58a80d58445ddd89577d378?v=26a6bcc1a58a818bad44000c8291590b&source=copy_link)
 - [Resumo por participante - P03](https://www.notion.so/26a6bcc1a58a804da3f9f623fa0b1ef4?v=26a6bcc1a58a818ab277000c9739ccb5&source=copy_link)
@@ -70,9 +79,12 @@ Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
 - [Resumo por participante - P07](https://www.notion.so/26a6bcc1a58a80c2ba55d8c27d371024?v=26a6bcc1a58a819ea89e000c573ce2e2&source=copy_link)
 - [Resumo por participante - P08](https://www.notion.so/26a6bcc1a58a80069ee0c1c567cdcce3?v=26a6bcc1a58a81b29e7a000c5fc478ca&source=copy_link)
 
-# 4. Consolidação por tarefa (todos os participantes)
+# 6. Consolidação por tarefa (todos os participantes)
 - [Consolidação por tarefa (todos os participantes)](https://www.notion.so/26a6bcc1a58a80ad9871f7c2b5cba1cf?v=26a6bcc1a58a802fb2cb000cd3072856&source=copy_link)
 
 
-# 5. Relato dos resultados
+# 7. Relato dos resultados
 - [Tabela — Mapeamento de respostas abertas a fatores de usabilidade](https://www.notion.so/26a6bcc1a58a8018a3aec94d711bb56c?v=26a6bcc1a58a807dbb03000c15d0549e&source=copy_link)
+
+# 8. conclusão
+[Resultado Final](https://www.notion.so/Resultado-Final-2786bcc1a58a80f08cffdf556efd3335?pvs=25)
