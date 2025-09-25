@@ -12,7 +12,7 @@ Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
 6.  Verificar se usuários vindos do Excel/Google Sheets conseguem se adaptar ao Calc sem instruções extras. 
 7. Avaliar se os usuários conseguem personalizar a barra de ferramentas ou menus.
 8. Avaliar se os usuários sabem criar atalhos personalizados.
-9. Comparar a performance e a percepção de usabilidade entre usuários de Windows e Linux, identificando se a integração do software com o sistema operacional (aparência visual, gerenciador de arquivos, atalhos de sistema) impacta a experiência de cada grupo
+9. Comparar a performance e a percepção de usabilidade entre usuários de Windows e Linux, identificando se a integração do software com o sistema operacional (aparência visual, gerenciador de arquivos, atalhos de sistema) impacta a experiência de cada grupo.
 
 
 
@@ -47,7 +47,7 @@ Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
 - [Comprovação do teste (Fotos)](https://drive.google.com/drive/folders/1U_dc_S3NL_z5usbxX6F0WpYQifdc6vR9?usp=drive_link)
 
 ## 3.3 Equipamentos necessários
-- 4 celulares com cronometro
+- 4 celulares com cronômetro
 - 4 computadores, sendo 2 com o sistema operacional Windows 11 e os outros 2 com Linux (Ubuntu)
 - 8 folhas para anotação das Métricas
 
@@ -106,6 +106,5 @@ Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
 
 ## 8.4. recomentações finais 
 
-&emsp;O LibreOffice Calc é uma ferramenta poderosa, porém sua usabilidade é severamente prejudicada por uma interface pouco intuitiva, inconsistências com padrões de mercado e um sistema de feedback deficiente. As barreiras identificadas superam os aspectos positivos, resultando em uma experiência de usuário frequentemente ineficiente e frustrante para tarefas de complexidade intermediária a avançada.
-&emsp; &emsp;Recomenda-se que a equipe de design e desenvolvimento se concentre nas melhorias estratégicas prioritárias, com ênfase na redução da curva de aprendizado para usuários migrantes e no aumento da clareza e visibilidade da interface. Após a implementação das mudanças, um novo ciclo de testes de usabilidade é fortemente aconselhado para validar a eficácia das soluções e quantificar a melhoria na experiência do usuário.
+&emsp;O LibreOffice Calc é uma ferramenta poderosa, porém sua usabilidade é severamente prejudicada por uma interface pouco intuitiva, inconsistências com padrões de mercado e um sistema de feedback deficiente. As barreiras identificadas superam os aspectos positivos, resultando em uma experiência de usuário frequentemente ineficiente e frustrante para tarefas de complexidade intermediária a avançada. Recomenda-se que a equipe de design e desenvolvimento se concentre nas melhorias estratégicas prioritárias, com ênfase na redução da curva de aprendizado para usuários migrantes e no aumento da clareza e visibilidade da interface. Após a implementação das mudanças, um novo ciclo de testes de usabilidade é fortemente aconselhado para validar a eficácia das soluções e quantificar a melhoria na experiência do usuário.
 </div>
