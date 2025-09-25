@@ -295,6 +295,10 @@ A análise de benchmark eleva a necessidade de melhorias de "importante" para "u
 
 ### Análise de KPIs (Indicadores-Chave): O Mapa Estratégico para o Futuro
 
+<img width="748" height="631" alt="image" src="https://github.com/user-attachments/assets/1594e697-1258-4bca-970d-cae4ae9f1b9e" />
+
+---
+
 Esta análise revela a "hierarquia de necessidades" dos usuários do LibreOffice Calc. Ela nos diz onde devemos focar nossos esforços para gerar o maior impacto e satisfação.
 
 **1. O Que Mais Importa para os Usuários? A Hierarquia de Necessidades**
