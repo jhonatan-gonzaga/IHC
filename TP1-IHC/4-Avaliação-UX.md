@@ -68,6 +68,42 @@
 
 ---
 
+### Análise Granular: Item por Item do Relatório UEQ
+
+Esta análise revela os "heróis" e "vilões" da experiência do usuário no LibreOffice Calc. Identificamos os adjetivos específicos que os usuários mais associam ao software.
+
+**Destaques Principais (As Pontuações Mais Extremas)**
+
+* **Os Melhores Atributos:** Os usuários consideram o Calc extremamente **Eficiente (+1,3)** e **Seguro (+1,3)**. Estes são os pilares da sua reputação atual.
+* **Os Piores Atributos:** A experiência é fortemente marcada por ser **Convencional/Comum (-1,1)**, **Chato (-1,1)** e, acima de tudo, **Confuso (-1,0)**.
+
+**Análise Detalhada por Escala**
+
+**Perspicuidade (Média: -0,781) - O Principal Problema Confirmado**
+Os itens individuais aqui mostram um consenso claro e forte de que a interface é difícil de decifrar.
+* **Item 21 (claro / confuso): -1,0**
+    * **Interpretação:** Esta é a pontuação negativa mais forte relacionada à usabilidade. Os usuários não estão apenas com dificuldades; eles se sentem ativamente confusos ao usar o software. Isso aponta para uma interface poluída, menus com nomenclaturas vagas e fluxos de tarefas pouco lógicos.
+* **Item 13 (complicado / fácil): -0,9**
+    * **Interpretação:** As tarefas no Calc são percebidas como inerentemente complicadas. Mesmo que o resultado final seja alcançável, o caminho para chegar lá é visto como complexo e com muitos obstáculos.
+* **Item 4 (fácil de aprender / difícil de aprender): -0,8**
+    * **Interpretação:** Confirma que a barreira de entrada para novos usuários é muito alta. O software não guia o aprendizado, exigindo esforço proativo do usuário para se tornar proficiente.
+
+**Eficiência (Média: 0,625) - O Herói Inesperado**
+Esta escala mostra uma dualidade fascinante. Apesar de ser confuso, uma vez que o usuário aprende, a sensação de produtividade é altíssima.
+* **Item 20 (ineficiente / eficiente): +1,3**
+    * **Interpretação:** Esta é a melhor pontuação de todo o questionário! Usuários experientes, que já superaram a barreira da confusão, sentem-se extremamente eficientes. Isso indica que o motor do software e os fluxos de trabalho (uma vez aprendidos) são poderosos e rápidos. A eficiência não é o problema; o acesso a essa eficiência é.
+* **Item 22 (impraticável / prático): +0,4 e Item 9 (rápido / lento): +0,3**
+    * **Interpretação:** Apoiam a ideia de que o Calc é uma ferramenta prática e com bom desempenho para realizar o trabalho.
+
+**Novidade (Média: -0,500) - A Percepção de Ser Ultrapassado**
+Os usuários veem o Calc como uma ferramenta antiga, presa ao passado.
+* **Item 15 (usual / vanguarda): -1,1**
+    * **Interpretação:** Uma pontuação extremamente negativa. Os usuários veem o Calc como "o de sempre", o "comum", e muito distante de ser uma ferramenta de vanguarda (leading edge).
+* **Item 10 (inventivo / convencional): -0,9**
+    * **Interpretação:** Reforça a ideia de que o software é altamente convencional. Não há percepção de criatividade ou de soluções inovadoras para os problemas dos usuários.
+* **Item 3 (criativo / maçante): -0,4 e Item 26 (conservador / inovador): -0,4**
+    * **Interpretação:** Ambas as pontuações pendem para o lado negativo, pintando a imagem de um software maçante e conservador.
+
 
   
 </div>
