@@ -249,6 +249,11 @@ Estes são os pontos mais interessantes para uma investigação futura. Eles sug
 
 ### Análise Comparativa (Benchmark): O Veredito Incontestável
 
+<img width="1260" height="413" alt="image" src="https://github.com/user-attachments/assets/359de52c-3264-4295-8db5-8da508f629ab" />
+<img width="1170" height="627" alt="image" src="https://github.com/user-attachments/assets/27d4deec-ca6e-44ad-b527-970162f3d2f2" />
+
+---
+
 Se as análises anteriores foram um diagnóstico interno, esta comparação com um banco de dados de mais de 21.000 avaliações é o parecer do mercado. E o parecer é claro: a experiência do usuário do LibreOffice Calc está significativamente atrás da grande maioria dos outros softwares.
 
 **Diagnóstico Comparativo: Uma Experiência na Categoria Inferior do Mercado**
