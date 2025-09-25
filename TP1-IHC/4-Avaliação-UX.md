@@ -104,6 +104,42 @@ Os usuários veem o Calc como uma ferramenta antiga, presa ao passado.
 * **Item 3 (criativo / maçante): -0,4 e Item 26 (conservador / inovador): -0,4**
     * **Interpretação:** Ambas as pontuações pendem para o lado negativo, pintando a imagem de um software maçante e conservador.
 
+**Estímulo (Média: -0,250) - Funcional, mas Chato**
+A ferramenta é útil, mas seu uso não é nada prazeroso ou empolgante.
+* **Item 6 (chato / empolgante): -1,1**
+    * **Interpretação:** Outra pontuação extremamente negativa. Os usuários acham a experiência de usar o Calc explicitamente chata. A interface e a interação não oferecem nenhum elemento de prazer ou engajamento.
+* **Item 5 (valioso / inferior): +0,4 e Item 18 (motivador / desmotivador): +0,4**
+    * **Interpretação:** Aqui há uma nuance interessante. Apesar de ser chato, os usuários o consideram valioso e até ligeiramente motivador. Isso sugere que a motivação vem do poder da ferramenta em si e da capacidade de realizar um trabalho importante, e não da experiência de uso.
+
+**Atratividade (Média: -0,042) - A Indiferença Geral**
+A avaliação geral é a mais neutra de todas, mas com uma leve tendência negativa.
+* **Item 1 (irritante / agradável): -0,4**
+    * **Interpretação:** A experiência tende a ser mais irritante do que agradável, muito provavelmente como um efeito colateral direto da confusão (Perspicuidade) encontrada na interface.
+* **Item 2 (não compreensível / compreensível): +0,5**
+    * **Interpretação:** Este resultado positivo parece contradizer a baixa Perspicuidade, mas revela algo importante: os usuários entendem o que é o LibreOffice Calc e para que serve (uma planilha é um conceito compreensível), mas eles não entendem como usar sua interface específica.
+* As demais pontuações (bom/ruim, antipático/simpático, etc.) são muito próximas de zero, confirmando que os usuários não têm sentimentos fortes sobre a atratividade do software - ele é simplesmente indiferente.
+
+**Confiabilidade (Média: 0,281) - O Pilar da Segurança**
+Apesar de não ter uma média alta, esta escala esconde a segunda melhor pontuação de todo o teste.
+* **Item 17 (não seguro / seguro): +1,3**
+    * **Interpretação:** Uma pontuação espetacularmente positiva. Os usuários se sentem extremamente seguros usando o LibreOffice Calc. Eles confiam que seus dados e seu trabalho estão protegidos, o que é um ativo fundamental para qualquer software de produtividade.
+* **Item 19 (atende às expectativas / não atende às expectativas): +0,5**
+    * **Interpretação:** O software cumpre o que promete e atende às expectativas funcionais dos usuários.
+
+### Conclusão e Roteiro de Ação
+
+A análise item a item nos dá um diagnóstico preciso:
+
+O LibreOffice Calc é um "motor" extremamente eficiente e seguro, mas está dentro de uma "carcaça" confusa, convencional e chata.
+
+O caminho para a melhoria é claro e não se trata de reinventar as funcionalidades principais, mas sim de redesenhar a experiência de acesso a elas:
+
+1.  **Foco Total na Clareza (Combater a Confusão):** A prioridade número um deve ser um redesenho da interface focado na clareza. Simplificar menus, melhorar ícones e usar rótulos mais diretos para atacar as pontuações de -1.0 (confuso) e -0.9 (complicado).
+2.  **Modernizar a Experiência (Combater o Tédio):** A segunda prioridade é uma atualização visual e de interação para combater as pontuações de -1.1 (chato) e -1.1 (usual). Isso inclui melhores gráficos, modelos mais atraentes e uma interface mais moderna.
+3.  **Comunicar e Alavancar os Pontos Fortes:** A equipe deve se orgulhar e comunicar ativamente que o Calc é uma ferramenta extremamente eficiente e segura (+1,3 em ambos). As melhorias na interface não devem comprometer esses dois pilares, mas sim torná-los mais acessíveis a todos.
+
+---
+
 
   
 </div>
