@@ -1,3 +1,3 @@
 # IHC
 ## RESUMO
-O trabalho foi constituído a partir da avaliação de um determinado sistema, no qual, à avalição seguiu alguns padrões de critério, sendo eles a Usabilidade, que avalia a facilidade de uso de uma interface a partir da perspectiva de usuários, para garantir que o produto seja eficaz, eficiente e satisfatório para quem o utiliza, a Comunicabilidade, que 
+O trabalho foi constituído a partir da avaliação de um determinado sistema, no qual, à avalição seguiu alguns padrões de critério, sendo eles a Usabilidade, que avalia a facilidade do uso de uma interface a partir da perspectiva do usuário, para garantir que o produto seja eficaz, eficiente e satisfatório para quem o utiliza, a Comunicabilidade, que a capacidade de uma interface de se comunicar de forma clara e eficaz com o usuário e a UX, que mede a experiência do usuário 
