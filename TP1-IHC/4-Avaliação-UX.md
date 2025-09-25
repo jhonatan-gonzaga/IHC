@@ -1,4 +1,5 @@
 <div align="justify">
+   
 # Análise da UEQ
 
 ### Resultados da UEQ:
@@ -34,6 +35,38 @@
     **Na Prática**, isso significa que:
     * O design da interface (ícones, cores, fontes) é considerado básico ou sem inspiração.
     * O software não transmite uma imagem de modernidade ou alta qualidade, o que pode levar os usuários a, inconscientemente, duvidarem de sua capacidade.
+
+5.  **Confiabilidade (Dependability): 0,281 (Neutra)**
+    **Diagnóstico:** O software se comporta de maneira previsível, mas sem inspirar grande confiança. Os usuários não se sentem totalmente no controle da ferramenta.
+    **Na Prática**, isso significa que:
+    * O Calc geralmente funciona como esperado, sem grandes surpresas ou travamentos constantes.
+    * No entanto, pode haver momentos de comportamento inesperado (ex: uma formatação que não se aplica corretamente, uma fórmula que retorna um erro pouco claro) que minam a sensação de controle total do usuário.
+
+6.  **Eficiência: 0,625 (Neutra, com tendência Positiva)**
+    **Diagnóstico:** ESTE É O PONTO FORTE RELATIVO. Uma vez que os usuários aprendem onde as coisas estão e como funcionam (superando a baixa Perspicuidade), eles sentem que conseguem realizar suas tarefas de forma rápida e sem esforço desnecessário.
+    **Na Prática**, isso significa que:
+    * Os fluxos de trabalho para usuários experientes são eficazes.
+    * O software responde rapidamente aos comandos (não há percepção de lentidão excessiva).
+    * Para tarefas repetitivas, os usuários que conhecem os atalhos ou os métodos corretos se sentem produtivos.
+
+### Recomendações e Plano de Ação Priorizado
+
+1.  **Prioridade Máxima: Melhorar a Perspicuidade (-0,781)**
+    * Ação: Realizar testes de usabilidade focados em encontrar funcionalidades.
+    * Ação: Revisar a terminologia de menus e diálogos para usar uma linguagem mais simples e universal.
+    * Ação: Reorganizar a barra de ferramentas e os menus para agrupar funções de forma mais lógica.
+    * Ação: Implementar um campo de busca de funcionalidades ("Diga-me o que fazer").
+
+2.  **Prioridade Média: Aumentar a Novidade (-0,500) e o Estímulo (-0,250)**
+    * Ação: Modernizar a interface de usuário (UI), atualizando ícones, cores e espaçamentos.
+    * Ação: Aprimorar a galeria de gráficos com novos tipos e estilos mais modernos e visualmente atraentes.
+    * Ação: Criar e destacar uma biblioteca de modelos prontos (orçamentos, planejamentos, dashboards) para inspirar os usuários.
+
+3.  **Manutenção e Melhoria Contínua: Alavancar a Eficiência (0,625)**
+    * Ação: Tornar os recursos eficientes mais fáceis de descobrir. Por exemplo, mostrar dicas de atalhos de teclado na interface.
+    * Ação: Continuar otimizando o desempenho do software, especialmente com grandes conjuntos de dados, para manter essa percepção positiva.
+
+---
 
 
   
