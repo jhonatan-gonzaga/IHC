@@ -4,6 +4,9 @@
 
 ### Resultados da UEQ:
 
+<img width="677" height="416" alt="image" src="https://github.com/user-attachments/assets/ed7ceeea-12a2-40fe-808f-be1157e4da93" />
+<img width="675" height="415" alt="image" src="https://github.com/user-attachments/assets/992c8f8d-d84e-4ae0-952a-fe9c9be9ccd4" />
+
 ---
 
 ### Interpretação por Escala
@@ -69,6 +72,11 @@
 ---
 
 ### Análise Granular: Item por Item do Relatório UEQ
+
+<img width="1130" height="1059" alt="image" src="https://github.com/user-attachments/assets/f42569c2-738c-44b4-baa3-ac23563b6b60" />
+
+
+---
 
 Esta análise revela os "heróis" e "vilões" da experiência do usuário no LibreOffice Calc. Identificamos os adjetivos específicos que os usuários mais associam ao software.
 
