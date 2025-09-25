@@ -1,3 +1,4 @@
+<div align="justify">
 Produto: LibreOffice Calc, versão 25.2.6.2 <br>
 Ambiente: Desktop <br>
 Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
@@ -87,4 +88,24 @@ Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
 - [Tabela — Mapeamento de respostas abertas a fatores de usabilidade](https://www.notion.so/26a6bcc1a58a8018a3aec94d711bb56c?v=26a6bcc1a58a807dbb03000c15d0549e&source=copy_link)
 
 # 8. conclusão
-[Resultado Final](https://www.notion.so/Resultado-Final-2786bcc1a58a80f08cffdf556efd3335?pvs=25)
+## 8.1. Síntese de Usabilidade
+&emsp; &emsp; A presente avaliação de usabilidade do LibreOffice Calc revela uma experiência de usuário dicotômica. Embora o software se mostre capaz de executar funções essenciais de planilha, ele apresenta barreiras de usabilidade significativas que comprometem a eficiência, a satisfação e a facilidade de aprendizado. O veredito conciso é que o produto, em seu estado atual, não atende plenamente às expectativas de usabilidade para um software de sua categoria. As dificuldades são evidenciadas pelas baixas taxas de sucesso em múltiplas tarefas, com seis das dez tarefas avaliadas apresentando um índice de sucesso sem ajuda inferior a 40%. Isso indica que, para além das operações mais básicas, os usuários encontram atritos consideráveis que os impedem de completar seus objetivos de forma autônoma e eficiente.
+
+## 8.2. Análise do Cumprimento dos Objetivos do Teste
+| Objetivo do Teste | Status de Cumprimento | Detalhes e Justificativas |
+| :--- | :--- | :--- |
+| **1. Avaliar operações básicas de planilha** | **Parcialmente atingido** | Tarefas que envolviam a criação de fórmulas, como a função "SE" (Tarefa 5), e a formatação e mesclagem de células (Tarefa 6), apresentaram baixas taxas de sucesso, de 37,5% e 25%, respectivamente. Isso sugere que mesmo operações consideradas fundamentais possuem uma curva de aprendizado íngreme. |
+| **2. Entender a lógica de menus, atalhos e ícones** | **Não atingido** | Problemas como a ausência de ícones para diversas funções (L-01) e a falta de dicas de ferramenta (tooltips) explicativas (L-02) aumentam a carga cognitiva. As dificuldades de navegação se refletem no baixo desempenho em múltiplas tarefas que dependiam da exploração da interface. |
+| **3. Medir a facilidade de encontrar funções menos comuns** | **Não atingido** | As tarefas de aplicar filtros (T4), mesclar células (T6), criar atalhos (T8) e alterar unidades de medida (T10) tiveram taxas de sucesso de 37,5%, 25%, 25% e 25%, respectivamente. O problema L-18 corrobora essa descoberta, apontando que funções importantes estão "escondidas em menus longos". |
+| **4. Criar e manipular gráficos** | **Parcialmente atingido** | A criação inicial de um gráfico (Tarefa 1) obteve uma alta taxa de sucesso (75%). No entanto, a manipulação desse gráfico (Tarefa 2) viu o sucesso cair para 62,5% e a média de erros aumentar para 3,25 por usuário, indicando que a edição é menos intuitiva que a criação. |
+| **5. Identificar pontos de frustração** | **Atingido** | Foram identificados múltiplos pontos de frustração, incluindo a inconsistência de atalhos (L-19), a falta de feedback de progresso para operações pesadas (L-16), e mensagens de erro pouco claras (L-03, L-05). |
+| **6. Verificar a adaptação de usuários do Excel/Google Sheets** | **Não atingido** | A quebra de padrões de atalhos consolidados no mercado, como o `Ctrl` + ` ; `, foi citada como uma barreira direta à adaptação (L-19), forçando um reaprendizado que gera frustração. |
+| **7. Avaliar a personalização da barra de ferramentas** | **Não atingido** | A Tarefa 9 obteve 62,5% de sucesso, mas com 37,5% dos usuários necessitando de ajuda para completá-la, indicando que o processo não é totalmente intuitivo. |
+| **8. Avaliar a criação de atalhos personalizados** | **Não atingido** | A Tarefa 8 demonstrou ser uma das mais difíceis, com uma taxa de sucesso de apenas 25% e uma taxa de falha de 25%. Os problemas L-04 e L-12 confirmam a dificuldade ao apontar a ausência de atalhos para funções importantes e a falta de meios para personalizá-los. |
+| **9. Comparar performance entre Windows e Linux** | **Atingido** | Foi identificada uma inconsistência no funcionamento da ferramenta de ajuda "O que é isto?" entre os dois sistemas operacionais (L-11), confirmando que a integração com o SO impacta a experiência do usuário. |
+
+## 8.4. recomentações finais 
+
+&emsp;O LibreOffice Calc é uma ferramenta poderosa, porém sua usabilidade é severamente prejudicada por uma interface pouco intuitiva, inconsistências com padrões de mercado e um sistema de feedback deficiente. As barreiras identificadas superam os aspectos positivos, resultando em uma experiência de usuário frequentemente ineficiente e frustrante para tarefas de complexidade intermediária a avançada.
+&emsp; &emsp;Recomenda-se que a equipe de design e desenvolvimento se concentre nas melhorias estratégicas prioritárias, com ênfase na redução da curva de aprendizado para usuários migrantes e no aumento da clareza e visibilidade da interface. Após a implementação das mudanças, um novo ciclo de testes de usabilidade é fortemente aconselhado para validar a eficácia das soluções e quantificar a melhoria na experiência do usuário.
+</div>
