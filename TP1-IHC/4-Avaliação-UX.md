@@ -272,5 +272,43 @@ A análise de benchmark eleva a necessidade de melhorias de "importante" para "u
 3.  **O Caminho a Seguir é Claro:** O objetivo não pode ser apenas fazer pequenas melhorias incrementais. A meta estratégica deve ser, no mínimo, tirar todas as escalas da zona "Ruim" e elevá-las para "Abaixo da Média" ou "Acima da Média".
 
 ---
+
+### Análise de KPIs (Indicadores-Chave): O Mapa Estratégico para o Futuro
+
+Esta análise revela a "hierarquia de necessidades" dos usuários do LibreOffice Calc. Ela nos diz onde devemos focar nossos esforços para gerar o maior impacto e satisfação.
+
+**1. O Que Mais Importa para os Usuários? A Hierarquia de Necessidades**
+
+Primeiro, vamos ordenar as escalas da mais para a menos importante, de acordo com os usuários:
+
+1.  **Eficiência (6,44):** A coisa mais importante de todas. Os usuários querem, acima de tudo, ser rápidos e produtivos.
+2.  **Confiabilidade (6,22):** Quase tão importante quanto. Eles precisam de um software previsível e seguro, em que possam confiar.
+3.  **Perspicuidade (6,15):** Extremamente importante. O software precisa ser claro e fácil de aprender a usar.
+4.  **Atratividade (5,64):** Importante. A aparência geral e o prazer no uso contam.
+5.  **Novidade (5,32):** Importante. Os usuários valorizam inovação e recursos modernos.
+6.  **Estímulo (5,09):** A menos importante do grupo, mas ainda valorizada. A experiência deve ser motivadora.
+
+A mensagem é cristalina: os usuários priorizam massivamente a **Qualidade Pragmática** (Eficiência, Confiabilidade, Perspicuidade). Eles querem primeiro uma ferramenta que funcione de forma impecável. Só depois se preocupam com a **Qualidade Hedônica** (Atratividade, Novidade, Estímulo). Eles querem um "carro" que seja rápido, seguro e fácil de dirigir; só depois se preocupam se ele é bonito, moderno ou divertido.
+
+**2. A Matriz de Ação: Cruzando Importância com Performance**
+
+Agora, vamos cruzar o que os usuários querem (Importância) com o que o LibreOffice Calc entrega (Performance, baseada no benchmark).
+
+**Prioridade 1: CRÍTICO - Alta Importância, Péssima Performance**
+Estes são os pontos que causam a maior frustração. Existe um abismo entre o que os usuários exigem e o que o Calc entrega. Ações aqui são urgentes.
+
+* **Perspicuidade:**
+    * **Importância:** 6,15 (Muito Alta)
+    * **Performance:** Ruim (nos 25% piores do mercado)
+    * **Diagnóstico:** ESTE É O FOCO Nº 1. Os usuários valorizam imensamente a facilidade de uso, e é exatamente aqui que o Calc apresenta sua pior performance em usabilidade. Cada minuto gasto corrigindo este problema terá um impacto massivo.
+
+* **Confiabilidade:**
+    * **Importância:** 6,22 (Muito Alta)
+    * **Performance:** Ruim (nos 25% piores do mercado)
+    * **Diagnóstico:** ESTE É O FOCO Nº 2. Os usuários exigem um software em que possam confiar, mas a performance do Calc nesta área está no quartil inferior do mercado. Aumentar a previsibilidade e a clareza do feedback do sistema é crucial para construir a confiança do usuário.
+
+**Prioridade 2: OPORTUNIDADE ESTRATÉGICA - Altíssima Importância, Performance Medíocre**
+Esta é a área com o maior potencial de crescimento. Melhorar aqui pode transformar a percepção do produto.
+
   
 </div>
