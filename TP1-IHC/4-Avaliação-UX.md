@@ -185,6 +185,52 @@ Resolver esses dois pontos transformará a impressão geral de "indiferença" pa
 
 ---
 
+### Análise da Distribuição de Respostas: Consenso e Polarização
+
+Vamos analisar as descobertas mais importantes que esta visão nos proporciona. (Assumindo a escala de 0 = muito negativo a 6 = muito positivo, com 3 sendo o ponto neutro).
+
+**1. Onde Todos Concordam: Os Consensos Mais Fortes**
+
+Esta é a evidência mais poderosa do relatório. Não se trata de uma média, mas de um acordo quase unânime entre os usuários.
+
+* **Item 20 (ineficiente / eficiente): CONSENSO POSITIVO ESMAGADOR**
+    * **Distribuição:** 8 de 8 usuários deram uma nota positiva (acima de 3). Sete deles deram notas 5 ou 6 (muito eficiente).
+    * **Interpretação:** Não há nenhuma dúvida aqui. Os usuários são unánimes em afirmar que, uma vez que sabem o que fazer, o LibreOffice Calc é uma ferramenta extremamente eficiente.
+
+* **Item 17 (não seguro / seguro): CONSENSO POSITIVO ESMAGADOR**
+    * **Distribuição:** Dos 6 usuários que responderam, todos os 6 deram notas 5 ou 6 (muito seguro).
+    * **Interpretação:** Assim como na eficiência, a percepção de segurança é unânime e forte. Os usuários confiam plenamente no software para guardar seus dados.
+
+* **Item 21 (confuso / claro): CONSENSO NEGATIVO FORTE**
+    * **Distribuição:** 6 de 8 usuários deram uma nota negativa (0, 1 ou 2). Apenas 1 foi neutro e 1 ligeiramente positivo.
+    * **Interpretação:** A média negativa de -1,0 não foi causada por opiniões divididas. A grande maioria dos usuários concorda ativamente que a interface é confusa. A necessidade de melhoria aqui é inquestionável.
+
+* **Item 15 (usual / vanguarda): CONSENSO NEGATIVO FORTE**
+    * **Distribuição:** 5 de 8 usuários deram notas 1 ou 2. Os outros 3 foram neutros. Ninguém considerou o software de vanguarda.
+    * **Interpretação:** É um consenso que o Calc é uma ferramenta comum, sem inovação. A percepção de ser "ultrapassado" é compartilhada pela maioria.
+
+* **Item 6 (chato / empolgante): CONSENSO NEGATIVO FORTE**
+    * **Distribuição:** 5 de 8 usuários deram notas negativas (0, 1 ou 2). Apenas 1 pessoa deu uma nota positiva.
+    * **Interpretação:** A maioria dos usuários concorda que a experiência de uso é chata e pouco estimulante.
+
+**2. Onde as Opiniões se Dividem: A Polarização**
+
+Estes são os pontos mais interessantes para uma investigação futura. Eles sugerem que diferentes tipos de usuários podem ter experiências radicalmente diferentes.
+
+* **Item 3 (maçante / criativo): OPINIÃO DIVIDIDA**
+    * **Distribuição:** 3 usuários deram notas negativas, enquanto 5 deram notas positivas. Ninguém foi neutro.
+    * **Interpretação:** Este é um caso clássico de polarização. Há um grupo que acha o software maçante e outro que o acha criativo.
+    * **Hipótese:** Talvez usuários avançados, que dominam fórmulas complexas e macros, vejam o Calc como uma tela em branco cheia de possibilidades criativas. Em contrapartida, usuários iniciantes ou intermediários, que lutam com a interface confusa, veem apenas uma ferramenta maçante para inserir dados. Entender esses dois grupos é crucial.
+
+* **Item 25 (antipático / amigável): OPINIÃO DIVIDIDA**
+    * **Distribuição:** 3 usuários avaliaram como antipático (negativo), 2 como neutro e 3 como amigável (positivo).
+    * **Interpretação:** A percepção de "simpatia" da interface divide o grupo. O que para alguns é uma interface direta e sem rodeios, para outros pode ser rude e pouco acolhedora.
+
+* **Item 7 (desinteressante / interessante): OPINIÃO DIVIDIDA**
+    * **Distribuição:** 3 usuários acharam desinteressante, 2 foram neutros e 3 acharam interessante.
+    * **Interpretação:** Similar à polarização em "criativo/maçante", o que constitui uma ferramenta "interessente" depende muito do perfil do usuário e do seu nível de domínio sobre o software.
+
+---
 
   
 </div>
