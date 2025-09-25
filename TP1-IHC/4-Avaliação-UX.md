@@ -310,5 +310,31 @@ Estes são os pontos que causam a maior frustração. Existe um abismo entre o q
 **Prioridade 2: OPORTUNIDADE ESTRATÉGICA - Altíssima Importância, Performance Medíocre**
 Esta é a área com o maior potencial de crescimento. Melhorar aqui pode transformar a percepção do produto.
 
+* **Eficiência:**
+    * **Importância:** 6,44 (A mais alta de todas)
+    * **Performance:** Abaixo da Média
+    * **Diagnóstico:** Os usuários valorizam a rapidez acima de tudo. Embora a Eficiência seja a melhor característica do Calc, ela ainda está abaixo da média do mercado. Otimizar os fluxos de trabalho e, principalmente, tornar os recursos eficientes mais fáceis de encontrar (melhorando a Perspicuidade) pode transformar a maior demanda dos usuários no maior trunfo do produto.
+
+**Prioridade 3: MELHORIAS DE FUNDO - Menor Importância, Péssima Performance**
+Estas áreas têm uma performance terrível, mas como os usuários as consideram menos críticas, as melhorias aqui podem ser planejadas para um segundo momento, após os problemas pragmáticos serem resolvidos.
+
+* **Atratividade, Novidade e Estímulo:**
+    * **Importância:** 5,64 a 5,09 (Moderada a Baixa)
+    * **Performance:** Ruim (todas nos 25% piores do mercado)
+    * **Diagnóstico:** Sim, o Calc é percebido como feio, chato e antiquado, e isso precisa ser corrigido. Contudo, os usuários deixaram claro que preferem um software feio que funciona bem a um software bonito que é confuso e pouco confiável. A modernização da interface e da experiência deve vir depois da resolução dos problemas de usabilidade e confiança.
+
+### O Roteiro Estratégico Final
+
+Esta jornada completa de análise, do geral ao detalhado e do interno ao comparativo, nos deixa com um plano de ação claro e hierarquizado:
+
+1.  **FASE 1 (Urgente - Foco na Qualidade Pragmática):**
+    * **Consertar a Usabilidade (Perspicuidade):** Simplificar a interface, clarear menus, melhorar ícones.
+    * **Aumentar a Confiança (Confiabilidade):** Melhorar o feedback, tornar as ações mais previsíveis, criar mensagens de erro úteis.
+
+2.  **FASE 2 (Estratégico - Alavancar o Ponto Forte):**
+    * **Capitalizar a Eficiência:** Uma vez que o software é fácil de usar, otimizar os fluxos de trabalho para torná-lo o mais rápido do mercado, alinhando o produto à principal demanda do usuário.
+
+3.  **FASE 3 (Refinamento - Foco na Qualidade Hedônica):**
+    * **Modernizar a Experiência:** Com uma base funcional sólida e confiável, investir em um redesenho visual (Atratividade), introduzir recursos inovadores (Novidade) e tornar a experiência mais prazerosa (Estímulo).
   
 </div>
