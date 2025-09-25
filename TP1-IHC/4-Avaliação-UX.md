@@ -75,7 +75,6 @@
 
 <img width="1130" height="1059" alt="image" src="https://github.com/user-attachments/assets/f42569c2-738c-44b4-baa3-ac23563b6b60" />
 
-
 ---
 
 Esta análise revela os "heróis" e "vilões" da experiência do usuário no LibreOffice Calc. Identificamos os adjetivos específicos que os usuários mais associam ao software.
@@ -150,6 +149,10 @@ O caminho para a melhoria é claro e não se trata de reinventar as funcionalida
 
 ### A Visão Geral: Qualidade Pragmática vs. Hedônica no LibreOffice Calc
 
+<img width="677" height="441" alt="image" src="https://github.com/user-attachments/assets/f9bf85e6-848a-40c3-ae26-736055d7e471" />
+
+---
+
 Esta análise resume toda a experiência do usuário em três pilares: a capacidade de realizar tarefas (Qualidade Pragmática), a experiência emocional e estética (Qualidade Hedônica) e a impressão geral (Atratividade).
 
 **Diagnóstico Geral: O Motor Potente em uma Carcaça Complicada e Sem Graça**
@@ -194,6 +197,10 @@ Resolver esses dois pontos transformará a impressão geral de "indiferença" pa
 ---
 
 ### Análise da Distribuição de Respostas: Consenso e Polarização
+
+<img width="1470" height="1048" alt="image" src="https://github.com/user-attachments/assets/e74b4e1a-eae8-4b5f-a412-d3ed6e23b0b2" />
+
+---
 
 Vamos analisar as descobertas mais importantes que esta visão nos proporciona. (Assumindo a escala de 0 = muito negativo a 6 = muito positivo, com 3 sendo o ponto neutro).
 
