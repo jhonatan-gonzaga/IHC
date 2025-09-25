@@ -232,5 +232,30 @@ Estes são os pontos mais interessantes para uma investigação futura. Eles sug
 
 ---
 
+### Análise Comparativa (Benchmark): O Veredito Incontestável
+
+Se as análises anteriores foram um diagnóstico interno, esta comparação com um banco de dados de mais de 21.000 avaliações é o parecer do mercado. E o parecer é claro: a experiência do usuário do LibreOffice Calc está significativamente atrás da grande maioria dos outros softwares.
+
+**Diagnóstico Comparativo: Uma Experiência na Categoria Inferior do Mercado**
+
+O que antes interpretamos como "neutro" ou "com tendência negativa", o benchmark reclassifica de forma incontestável como Ruim. Com exceção da Eficiência, todas as outras cinco escalas do LibreOffice Calc estão no quartil inferior, ou seja, entre os 25% piores resultados de todos os produtos avaliados.
+
+O gráfico de barras e o gráfico de linha ilustram isso de forma dramática. As pontuações médias (os losangos pretos) estão profundamente inseridas na zona vermelha ("Bad") para quase todas as escalas.
+
+**Interpretação Detalhada do Benchmark**
+
+**1. As "Bandeiras Vermelhas": As Escalas na Categoria "Ruim"**
+
+Cinco das seis métricas não são apenas pontos a melhorar; são desvantagens competitivas críticas.
+
+* **Perspicuidade (-0,78 | Ruim):**
+    * **O que significa:** Não se trata apenas de "ser difícil de aprender". Significa que o LibreOffice Calc está entre os softwares mais confusos e menos intuitivos do mercado. A experiência de aprendizado que ele oferece está no mesmo nível dos 25% piores produtos já testados. Este é, sem dúvida, o problema mais urgente a ser resolvido.
+
+* **Atratividade (-0,04 | Ruim), Estímulo (-0,25 | Ruim) e Novidade (-0,50 | Ruim):**
+    * **O que significa:** O design, a experiência de uso e a percepção de inovação não são apenas "neutros" ou "chatos". Eles são objetivamente ruins quando comparados com o padrão atual do mercado. Os usuários hoje interagem com dezenas de aplicativos (no celular, na web, etc.) que estabelecem um padrão alto de qualidade visual e de interação. O Calc não está nem perto de atingir esse padrão.
+
+* **Confiabilidade (0,28 | Ruim):**
+    * **O que significa:** Esta é talvez a revelação mais surpreendente. Uma pontuação que parecia "neutra-positiva" por ser acima de zero (0,28) é, na verdade, classificada como Ruim. Isso acontece porque as expectativas dos usuários para a confiabilidade de um software são altíssimas. A maioria dos softwares no benchmark tem pontuações muito altas nesta escala. Estar nos 25% piores, mesmo com uma nota positiva, indica que o Calc apresenta mais comportamentos inesperados e transmite menos controle ao usuário do que a grande maioria dos produtos concorrentes.
+
   
 </div>
