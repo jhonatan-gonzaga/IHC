@@ -10,6 +10,13 @@ A Usabilidade é bastante precária em comparação a outros programas já renom
 
 Logo, nota-se que o LibreOffice Calc é um produto que pode melhorar em vários aspectos e que, apesar das falhas, possui potencial de crescimento.
 
+## Integrantes
+- 22552726 - Alyce Benevides Lima
+- xxxxxxx - Jhonatan Gonzaga Galdino
+- 22550449 - Oliviê Kalil de Menezes Miranda
+- 22550444 - Rodrigo Torres Rodrigues
+- 22552381 - Victor dos Santos Cardoso
+
 <div align="center">
   <h1>Sumário</h1>
 </div>
