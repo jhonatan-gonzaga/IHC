@@ -87,11 +87,8 @@ Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
 # 7. Relato dos resultados
 - [Tabela — Mapeamento de respostas abertas a fatores de usabilidade](https://www.notion.so/26a6bcc1a58a8018a3aec94d711bb56c?v=26a6bcc1a58a807dbb03000c15d0549e&source=copy_link)
 
-# 8. conclusão
-## 8.1. Síntese de Usabilidade
-&emsp; &emsp; A presente avaliação de usabilidade do LibreOffice Calc revela uma experiência de usuário dicotômica. Embora o software se mostre capaz de executar funções essenciais de planilha, ele apresenta barreiras de usabilidade significativas que comprometem a eficiência, a satisfação e a facilidade de aprendizado. O veredito conciso é que o produto, em seu estado atual, não atende plenamente às expectativas de usabilidade para um software de sua categoria. As dificuldades são evidenciadas pelas baixas taxas de sucesso em múltiplas tarefas, com seis das dez tarefas avaliadas apresentando um índice de sucesso sem ajuda inferior a 40%. Isso indica que, para além das operações mais básicas, os usuários encontram atritos consideráveis que os impedem de completar seus objetivos de forma autônoma e eficiente.
 
-## 8.2. Análise do Cumprimento dos Objetivos do Teste
+# 8. Análise do Cumprimento dos Objetivos do Teste
 | Objetivo do Teste | Status de Cumprimento | Detalhes e Justificativas |
 | :--- | :--- | :--- |
 | **1. Avaliar operações básicas de planilha** | **Parcialmente atingido** | Tarefas que envolviam a criação de fórmulas, como a função "SE" (Tarefa 5), e a formatação e mesclagem de células (Tarefa 6), apresentaram baixas taxas de sucesso, de 37,5% e 25%, respectivamente. Isso sugere que mesmo operações consideradas fundamentais possuem uma curva de aprendizado íngreme. |
@@ -104,7 +101,17 @@ Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
 | **8. Avaliar a criação de atalhos personalizados** | **Não atingido** | A Tarefa 8 demonstrou ser uma das mais difíceis, com uma taxa de sucesso de apenas 25% e uma taxa de falha de 25%. Os problemas L-04 e L-12 confirmam a dificuldade ao apontar a ausência de atalhos para funções importantes e a falta de meios para personalizá-los. |
 | **9. Comparar performance entre Windows e Linux** | **Atingido** | Foi identificada uma inconsistência no funcionamento da ferramenta de ajuda "O que é isto?" entre os dois sistemas operacionais (L-11), confirmando que a integração com o SO impacta a experiência do usuário. |
 
-## 8.4. recomentações finais 
+# 9. Conclusão 
+&nbsp;&nbsp;&nbsp;&nbsp;O LibreOffice Calc, em sua versão avaliada, apresenta barreiras de usabilidade críticas que o posicionam abaixo do limiar de aceitação para uma experiência de usuário satisfatória. Essa afirmação é sustentada de forma inequívoca pelo score de 40 no System Usability Scale (SUS), que classifica o software como "Não aceitável" e "Péssimo" na percepção geral dos usuários.
+Este resultado quantitativo é um reflexo direto das severas dificuldades qualitativas e de desempenho observadas durante os testes. Os usuários demonstraram frustração e ineficiência ao tentar realizar tarefas de complexidade intermediária, evidenciado pela taxa de sucesso inferior a 40% em seis das dez tarefas propostas. As principais causas para este desempenho insatisfatório são:
 
-&emsp;O LibreOffice Calc é uma ferramenta poderosa, porém sua usabilidade é severamente prejudicada por uma interface pouco intuitiva, inconsistências com padrões de mercado e um sistema de feedback deficiente. As barreiras identificadas superam os aspectos positivos, resultando em uma experiência de usuário frequentemente ineficiente e frustrante para tarefas de complexidade intermediária a avançada. Recomenda-se que a equipe de design e desenvolvimento se concentre nas melhorias estratégicas prioritárias, com ênfase na redução da curva de aprendizado para usuários migrantes e no aumento da clareza e visibilidade da interface. Após a implementação das mudanças, um novo ciclo de testes de usabilidade é fortemente aconselhado para validar a eficácia das soluções e quantificar a melhoria na experiência do usuário.
+- Quebra de Padrões e Alta Curva de Aprendizado: A inconsistência com atalhos e funcionalidades de softwares consolidados no mercado, como o Microsoft Excel, cria uma barreira imediata para novos usuários. Isso força um reaprendizado desnecessário e frustrante, impactando diretamente a produtividade.
+
+- Baixa Visibilidade de Funções: Ferramentas essenciais estão frequentemente ocultas em menus extensos e não são acompanhadas por ícones ou dicas de ferramentas claras, o que aumenta a carga cognitiva do usuário.
+
+- Feedback Inadequado do Sistema: O software falha em comunicar seu estado de forma eficaz, seja durante operações longas, que não exibem uma barra de progresso , ou ao apresentar mensagens de erro técnicas e pouco orientativas.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Em suma, o score SUS de 40 valida e resume as extensas evidências coletadas: o Calc é percebido como um sistema complexo, pouco intuitivo e inconsistente. Embora seja funcionalmente capaz, sua usabilidade deficiente representa um obstáculo significativo para sua adoção e uso eficiente. A implementação das recomendações estratégicas, com foco na compatibilidade de atalhos, melhoria da visibilidade da interface e aprimoramento do feedback do sistema, é fundamental e urgente para elevar a experiência do usuário a um nível competitivo e aceitável.
+
+
 </div>
