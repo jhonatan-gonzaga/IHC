@@ -9,7 +9,12 @@ O sistema avaliado foi o LibreOffice Calc, o programa de planilhas eletrônicas 
 A Usabilidade é bastante precária em comparação a outros programas já renomados no mercado. A Comunicabilidade mostra-se debilitada, pois, muitas vezes, as informações dentro do programa não são suficientes para ajudar o usuário. Consequentemente, a UX torna-se pouco atrativa para quem o utiliza.
 
 Logo, nota-se que o LibreOffice Calc é um produto que pode melhorar em vários aspectos e que, apesar das falhas, possui potencial de crescimento.
-</div>
+
 <div align="center">
   <h1>Sumário</h1>
+</div>
+#Primeira avaliação — Inspeção de Usabilidade
+
+# Segunda avaliação – Teste de Usabilidade
+  [1. Objetivos do teste](3-Teste-Usabilidade.md#1-objetivos-do-teste)
 </div>
