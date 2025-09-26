@@ -12,11 +12,17 @@ Logo, nota-se que o LibreOffice Calc é um produto que pode melhorar em vários 
 
 ## Integrantes
 - 22552726 - Alyce Benevides Lima
-- xxxxxxx - Jhonatan Gonzaga Galdino
+- 22552010 - Jhonatan Gonzaga Galdino
 - 22550449 - Oliviê Kalil de Menezes Miranda
 - 22550444 - Rodrigo Torres Rodrigues
 - 22552381 - Victor dos Santos Cardoso
 
+## Curso
+- Engenharia de Software
+
+## Docente
+- Andrey Antonio de Oliveira Rodrigues
+  
 <div align="center">
   <h1>Sumário</h1>
 </div>
