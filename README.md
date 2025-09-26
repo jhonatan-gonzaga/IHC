@@ -40,10 +40,10 @@ Logo, nota-se que o LibreOffice Calc é um produto que pode melhorar em vários 
 # 5 Avaliação Comunicabilidade
 
 # 6-Conclusões
-- [OLIVIÊ KALIL DE MENEZES MIRANDA]()
-- [ALYCE BENEVIDES LIMA]()
-- [RODRIGO TORRES RODRIGUES]()
-- [VICTOR DOS SANTOS CARDOSO]()
-- [JHONATAN GONZAGA GALDINO]()
+- [OLIVIÊ KALIL DE MENEZES MIRANDA](https://github.com/jhonatan-gonzaga/IHC/blob/main/TP1-IHC/6-Conclus%C3%B5es.md#olivi%C3%AA-kalil-de-menezes-miranda)
+- [ALYCE BENEVIDES LIMA](https://github.com/jhonatan-gonzaga/IHC/blob/main/TP1-IHC/6-Conclus%C3%B5es.md#alyce-benevides-lima)
+- [RODRIGO TORRES RODRIGUES](https://github.com/jhonatan-gonzaga/IHC/blob/main/TP1-IHC/6-Conclus%C3%B5es.md#rodrigo-torres-rodrigues)
+- [VICTOR DOS SANTOS CARDOSO](https://github.com/jhonatan-gonzaga/IHC/blob/main/TP1-IHC/6-Conclus%C3%B5es.md#victor-dos-santos-cardoso)
+- [JHONATAN GONZAGA GALDINO](https://github.com/jhonatan-gonzaga/IHC/blob/main/TP1-IHC/6-Conclus%C3%B5es.md#jhonatan-gonzaga-galdino)
 
 </div>
