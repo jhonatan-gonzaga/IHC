@@ -3,7 +3,7 @@ Produto: LibreOffice Calc, versão 25.2.6.2 <br>
 Ambiente: Desktop <br>
 Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
 
-<h1 id = "Objetivos"> 1. Objetivos do teste</h1>
+ # 1. Objetivos do teste
 1. Avaliar se os usuários conseguem realizar operações básicas de planilha (ex.: inserir dados, formatar células, criar fórmulas).
 2. Verificar se os usuários entendem a lógica de menus, atalhos e ícones disponíveis na interface.
 3. Medir a facilidade/dificuldade de encontrar funções menos comuns (ex.: mesclar células, aplicar estilos, usar filtros). 
