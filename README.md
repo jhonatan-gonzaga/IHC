@@ -10,3 +10,6 @@ A Usabilidade é bastante precária em comparação a outros programas já renom
 
 Logo, nota-se que o LibreOffice Calc é um produto que pode melhorar em vários aspectos e que, apesar das falhas, possui potencial de crescimento.
 </div>
+<div align="center">
+  <h1>Sumário</h1>
+</div>
