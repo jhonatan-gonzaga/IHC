@@ -16,15 +16,19 @@ No final, este projeto foi um divisor de águas no meu desenvolvimento de compet
   
 # VICTOR DOS SANTOS CARDOSO 
 
-Este projeto representou uma jornada de aprendizado intensa e altamente recompensadora, transformando conceitos teóricos de design de interação em vivências práticas valiosas. A maior sacada foi perceber como cada método de avaliação de usabilidade e UX não é um fim em si mesmo, mas se integra a um processo maior, oferecendo uma visão completa e fundamentada sobre a complexa interação entre o usuário e um sistema.
-
-Inicialmente, ao abordar a Inspeção de Usabilidade no LibreOffice Calc, confesso que senti certa hesitação em apontar falhas significativas. Minha perspectiva, no entanto, mudou drasticamente ao empregar as Heurísticas de Nielsen como um fator analítica. Ele me deu a estrutura técnica para desvendar problemas que, embora simples, eram cruciais para a experiência do usuário. Comecei a identificar violações claras, como a falta de "visibilidade do status do sistema" durante cálculos demorados ou a inconsistência de ícones que feria a "consistência e os padrões" da interface. A validação desses achados pelos demais integrantes da equipe foi fundamental, pois não apenas confirmou a relevância dos problemas, mas também solidificou minha confiança na eficácia do método e na minha própria capacidade de análise crítica.
-
-Na etapa seguinte, a condução do Teste de Usabilidade foi particularmente esclarecedora, pois representou a transição da teoria para a prática. As tarefas propostas aos participantes, cuidadosamente desenhadas a partir das falhas heurísticas que descobrimos, confirmaram que as dificuldades mapeadas eram realmente obstáculos concretos, gerando frustração e abandono de tarefas. Foi revelador observar diretamente os usuários e perceber pontos comprometedores no sistema.
-
-A aplicação do System Usability Scale (SUS) ao final do processo foi um verdadeiro divisor de águas. Ele elevou nossa análise do campo qualitativo e subjetivo para o universo quantitativo e objetivo. Deixar de dizer que o software "parece difícil" e passar a afirmar que ele possui um "score SUS de 58, abaixo da média aceitável da indústria" nos forneceu uma base numérica incontestável. Essa métrica é uma ferramenta poderosa para comunicar a severidade dos problemas e solucionar problemas
-
-Em suma, este trabalho prático foi fundamental para consolidar o conhecimento adquirido em sala de aula. Ele me equipou com as ferramentas e a mentalidade para abordar o aprimoramento de softwares de maneira estratégica, utilizando validações para alcançar resultados eficazes.
+&nbsp;&nbsp;&nbsp;&nbsp;Este projeto representou uma jornada de aprendizado intensa e altamente recompensadora, transformando conceitos teóricos de design de interação em vivências práticas valiosas. A maior sacada foi perceber como cada método de avaliação de usabilidade e UX não é um fim em si mesmo, mas se integra a um processo maior, oferecendo uma visão completa e fundamentada sobre a complexa interação entre o usuário e um sistema.
+</br>
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;Inicialmente, ao abordar a Inspeção de Usabilidade no LibreOffice Calc, confesso que senti certa hesitação em apontar falhas significativas. Minha perspectiva, no entanto, mudou drasticamente ao empregar as Heurísticas de Nielsen como um fator analítica. Ele me deu a estrutura técnica para desvendar problemas que, embora simples, eram cruciais para a experiência do usuário. Comecei a identificar violações claras, como a falta de "visibilidade do status do sistema" durante cálculos demorados ou a inconsistência de ícones que feria a "consistência e os padrões" da interface. A validação desses achados pelos demais integrantes da equipe foi fundamental, pois não apenas confirmou a relevância dos problemas, mas também solidificou minha confiança na eficácia do método e na minha própria capacidade de análise crítica.
+</br>
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;Na etapa seguinte, a condução do Teste de Usabilidade foi particularmente esclarecedora, pois representou a transição da teoria para a prática. As tarefas propostas aos participantes, cuidadosamente desenhadas a partir das falhas heurísticas que descobrimos, confirmaram que as dificuldades mapeadas eram realmente obstáculos concretos, gerando frustração e abandono de tarefas. Foi revelador observar diretamente os usuários e perceber pontos comprometedores no sistema.
+</br>
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;A aplicação do System Usability Scale (SUS) ao final do processo foi um verdadeiro divisor de águas. Ele elevou nossa análise do campo qualitativo e subjetivo para o universo quantitativo e objetivo. Deixar de dizer que o software "parece difícil" e passar a afirmar que ele possui um "score SUS de 58, abaixo da média aceitável da indústria" nos forneceu uma base numérica incontestável. Essa métrica é uma ferramenta poderosa para comunicar a severidade dos problemas e solucionar problemas
+</br>
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;Em suma, este trabalho prático foi fundamental para consolidar o conhecimento adquirido em sala de aula. Ele me equipou com as ferramentas e a mentalidade para abordar o aprimoramento de softwares de maneira estratégica, utilizando validações para alcançar resultados eficazes.
 
 # JHONATAN GONZAGA GALDINO 
 
