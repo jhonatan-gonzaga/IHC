@@ -17,10 +17,12 @@ No final, este projeto foi um divisor de águas no meu desenvolvimento de compet
 # VICTOR DOS SANTOS CARDOSO 
 
 Este projeto representou uma jornada de aprendizado intensa e altamente recompensadora, transformando conceitos teóricos em vivências práticas valiosas. A maior sacada foi perceber como cada método de avaliação de usabilidade e UX se integra, oferecendo uma visão completa e fundamentada sobre a interação do usuário com um sistema.
-
 Inicialmente, ao aplicar a Inspeção de Usabilidade no LibreOffice Calc, senti certa hesitação em apontar falhas significativas. Minha perspectiva mudou drasticamente ao empregar as Heurísticas de Nielsen, que me capacitaram a desvendar problemas simples, mas cruciais. A validação desses achados pelos demais integrantes solidificou minha confiança na eficácia do método e na minha própria capacidade de análise.
-  
-  
+
+Na próxima etapa, o Teste de Usabilidade, foi particularmente esclarecedora. As tarefas, cuidadosamente desenhadas a partir das descobertas da inspeção, confirmaram que as dificuldades mapeadas eram realmente obstáculos para os usuários. Além disso, a observação direta dos participantes revelou pontos de comprometedores do programa. A aplicação do System Usability Scale (SUS) foi um divisor de águas, fornecendo uma base numérica e objetiva para quantificar a percepção de usabilidade do software.
+
+Em suma, este trabalho prático foi fundamental para consolidar o conhecimento adquirido em sala de aula. Ele me equipou com as ferramentas e a mentalidade para abordar o aprimoramento de softwares de maneira estratégica, utilizando validações para alcançar resultados eficazes.
+
 # JHONATAN GONZAGA GALDINO 
 
 &nbsp;&nbsp;&nbsp;&nbsp;O trabalho foi uma experiência desafiadora e trabalhosa, mas, ao mesmo tempo, extremamente gratificante, pois o principal aprendizado foi compreender a aplicação prática das métricas em cada etapa das avaliações de usabilidade e experiência do usuário. No início da avaliação do LibreOffice Calc, durante a Inspeção de Usabilidade, tive dificuldade em encontrar problemas. Contudo, ao analisar e metrificar a ferramenta com base nas Heurísticas de Nielsen, ficou evidente que a planilha apresentava diversas falhas de usabilidade. A percepção de que meus colegas de grupo identificaram os mesmos pontos que eu confirmou meu entendimento sobre a aplicação do método.
