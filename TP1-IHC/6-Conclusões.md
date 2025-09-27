@@ -15,6 +15,9 @@ No final, este projeto foi um divisor de águas no meu desenvolvimento de compet
 # RODRIGO TORRES RODRIGUES
   
 # VICTOR DOS SANTOS CARDOSO 
+
+Este projeto representou uma jornada de aprendizado intensa e altamente recompensadora, transformando conceitos teóricos em vivências práticas valiosas. A maior sacada foi perceber como cada método de avaliação de usabilidade e UX se integra, oferecendo uma visão completa e fundamentada sobre a interação do usuário com um sistema.
+
   
 # JHONATAN GONZAGA GALDINO 
 
