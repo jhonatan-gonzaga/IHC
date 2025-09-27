@@ -20,4 +20,17 @@
 
 <img src="https://raw.githubusercontent.com/jhonatan-gonzaga/IHC/9e876c9cfab03bb27468b6d33708ee9927c4eeec/img/Imagem%20representativa.png" alt="Imagem representativa" width="700"/>
 
+## Perfil dos Usuários-Alvo
 
+- Quem são os usuários?
+
+O perfil predominante continua sendo de estudantes universitários. O conjunto de tarefas do teste simula um fluxo de trabalho completo, desde a inserção de dados até a visualização final, que é típico de um projeto ou trabalho acadêmico.
+
+- Conhecimentos prévios e experiência
+
+O nível de habilidade dos usuários se concentra entre iniciantes e intermediários. Eles são capazes de realizar operações fundamentais e algumas análises mais estruturadas. No entanto, tarefas que exigem personalização profunda da interface ou configurações avançadas (Tarefas 8, 9 e 10) estão, provavelmente, fora de seu escopo de conhecimento, reforçando que são usuários focados no resultado final, e não na otimização da ferramenta.
+
+- Identifique tarefas-chave do usuário
+
+As tarefas-chave para este perfil estão focadas em coletar, organizar, analisar e apresentar dados. As atividades do teste de usabilidade se encaixam neste fluxo da seguinte maneira:
+Estruturação e Formatação, Utilização de Fórmulas e Funções, Classificação e Filtragem de Dados, Criação e Edição de Gráficos.
