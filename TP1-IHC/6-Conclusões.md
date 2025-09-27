@@ -18,6 +18,8 @@ No final, este projeto foi um divisor de águas no meu desenvolvimento de compet
 
 Este projeto representou uma jornada de aprendizado intensa e altamente recompensadora, transformando conceitos teóricos em vivências práticas valiosas. A maior sacada foi perceber como cada método de avaliação de usabilidade e UX se integra, oferecendo uma visão completa e fundamentada sobre a interação do usuário com um sistema.
 
+Inicialmente, ao aplicar a Inspeção de Usabilidade no LibreOffice Calc, senti certa hesitação em apontar falhas significativas. Minha perspectiva mudou drasticamente ao empregar as Heurísticas de Nielsen, que me capacitaram a desvendar problemas simples, mas cruciais. A validação desses achados pelos demais integrantes solidificou minha confiança na eficácia do método e na minha própria capacidade de análise.
+  
   
 # JHONATAN GONZAGA GALDINO 
 
