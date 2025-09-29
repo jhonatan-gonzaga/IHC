@@ -27,7 +27,7 @@ Em suma, este projeto de IHC foi uma jornada de profundo aprendizado técnico e 
 
 # RODRIGO TORRES RODRIGUES
 
-Ao analisar como um todo, o trabalho apresentou uma grade variedade de conteúdos relacionados a Interação Humano-Computador. Apesar da minha participação ser inconstante ao considerarmos individualmente as quatro avaliações que fazem parte deste trabalho, posso afirmar que tal trabalho me ajudou a entender todo o processo+.
+Ao analisar como um todo, o trabalho apresentou uma grade variedade de conteúdos relacionados a Interação Humano-Computador. Apesar da minha participação ser inconstante ao considerarmos individualmente as quatro avaliações que fazem parte deste trabalho, posso afirmar que tal trabalho me ajudou a entender detalhes e como as avaliações e os processos acontecem de fato.
   
 # VICTOR DOS SANTOS CARDOSO 
 
