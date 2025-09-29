@@ -22,7 +22,9 @@ Logo, nota-se que o LibreOffice Calc é um produto que pode melhorar em vários 
 
 ## Docente
 - Andrey Antonio de Oliveira Rodrigues
-  
+
+## Distribuição das tarefas
+[Distribuição das tarefas ](https://www.notion.so/Distribui-o-das-tarefas-2686bcc1a58a8079a3f2e2e76835c14f?source=copy_link)
 <div align="center">
   <h1>Sumário</h1>
 </div>
