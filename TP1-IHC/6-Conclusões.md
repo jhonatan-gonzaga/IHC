@@ -27,10 +27,10 @@ Em suma, este projeto de IHC foi uma jornada de profundo aprendizado técnico e 
 
 # RODRIGO TORRES RODRIGUES
 
-&nbsp;&nbsp;Ao analisar como um todo, o trabalho apresentou uma grade variedade de conteúdos relacionados a Interação Humano-Computador. Apesar da minha participação ser inconstante ao considerarmos individualmente as quatro avaliações que fazem parte deste trabalho, posso afirmar que tal trabalho me ajudou a entender detalhes e como as avaliações e os processos acontecem de fato.
+&nbsp;&nbsp;&nbsp;&nbspAo analisar como um todo, o trabalho apresentou uma grade variedade de conteúdos relacionados a Interação Humano-Computador. Apesar da minha participação ser inconstante ao considerarmos individualmente as quatro avaliações que fazem parte deste trabalho, posso afirmar que tal trabalho me ajudou a entender detalhes e como as avaliações e os processos acontecem de fato.
 <br>
 <br>
-&nbsp;&nbsp;Quanto a primeira avaliação, a **Inspeção de Usabilidade**, 
+&nbsp;&nbsp;&nbsp;&nbspQuanto a primeira avaliação, a **Inspeção de Usabilidade**, 
 
 # VICTOR DOS SANTOS CARDOSO 
 
