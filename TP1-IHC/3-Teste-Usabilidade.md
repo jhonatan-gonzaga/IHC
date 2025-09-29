@@ -20,12 +20,14 @@ Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
 # 2. Teste Piloto
 ## 2.1 Participante do teste piloto
 - P00 - Jean Carlos dos Santos Baraúna
+
 ## 2.2 informações do teste
 - Local: UFAM, 313 BLOCO D
 - Horário: 13:00
 - Data: 18/09/2025
 - [Tarefas](https://www.notion.so/Tarefas-2776bcc1a58a80ee8255ee04ac9bb020?pvs=25)
 - [Observações](https://www.notion.so/2776bcc1a58a80c195b7f452a2b8afa6?v=2776bcc1a58a80ba8db6000c6bdfa78f&source=copy_link)
+- [Comprovação do teste (Fotos)](https://drive.google.com/drive/folders/1A6ci3UQa_TCof-0P5X7-7wYYRGUIVozA?usp=drive_link)
 
 # 3. Teste Oficial
 ## 3.1 Participantes do teste
