@@ -27,10 +27,10 @@ Em suma, este projeto de IHC foi uma jornada de profundo aprendizado técnico e 
 
 # RODRIGO TORRES RODRIGUES
 
-&nbsp;&nbsp;&nbsp;&nbsp;Ao analisar como um todo, o trabalho apresentou uma grade variedade de conteúdos relacionados a Interação Humano-Computador. Apesar da minha participação ser inconstante ao considerarmos individualmente as quatro avaliações que fazem parte deste trabalho, posso afirmar que tal trabalho me ajudou a entender detalhes e como as avaliações e os processos acontecem de fato.
+&nbsp;&nbsp;&nbsp;&nbsp;Ao analisar como um todo, o trabalho prático apresentou uma grade variedade de conteúdos relacionados a Interação Humano-Computador. Apesar da minha participação ser inconstante ao considerarmos individualmente as quatro avaliações que fazem parte deste trabalho prático, posso afirmar que tal trabalho me ajudou a entender detalhes e como as avaliações e os processos acontecem de fato.
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Quanto a primeira avaliação, a **Inspeção de Usabilidade**, 
+&nbsp;&nbsp;&nbsp;&nbsp;A primeira avaliação, a Inspeção de Usabilidade, se apresentou para mim o primeiro contato real, fora de sala de aula, para analisar um sistema utilizando as Heurísticas de Nielsen. Apesar de incialmente ter muitas incertezas quanto ao que classificar como violações para a experiência do usuário, esse sentimento rapidamente se dissipou. Conforme pesquisava sobre as heurísticas e utilizava o LibreOffice, 
 
 # VICTOR DOS SANTOS CARDOSO 
 
