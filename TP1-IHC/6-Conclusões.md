@@ -18,7 +18,9 @@ Uns dos desafios que mais demorei para fazer foi a detecção, era individual, e
 
 Uma insegurança constante que tive, foi na segunda avaliação, o Teste de Usabilidade. Pela graça de Deus nossos colegas de turma se disponibilizaram para realizar as tarefas que fizemos, como eu disse no primeiro parágrafo, o primeiro usuário onde apliquei o teste se encheu de dúvidas, no entanto, não pude ajudar, apenas escrever cada observação dita por ele. O ultimo desafio tremendo que eu e minha equipe tivemos foi a quarta avaliação, a Comunicabilidade. Usamos o celular para fazer as gravações, microfone e gravamos a tela do pc do usuário. Tudo ocorreu bem até repassar os vídeos para o computador, o arquivo foi corrompido pois era grande demais e eu, na minha inocencia, não salvei em uma nuvem (já tinha usado todo a armazenamento da nuvem). Concluindo, perdemos o vídeo dos usuários gravados, apesar disso, tínhamos a autorização dos usuários para usar a imagem gravada do pc e a voz realizando as tarefas.
 
-Um fato engraçado foi retirar as etiquetagem da ruptura de comunicação (taggins). Quando o usuário errava, tinha dúvida, desistia da tarefa, pulava, tínhamos que escrever quais as taggins q ele rompeu. Editar o vídeo também foi um desafio, usei o aplicativo Capcut, para cortar, por as legendas e etc. Qunado o vídeo não ficava do jeito que eu queria, ou bu bugava do nada, muitas vezes reiniciei o app para melhorar a edição. 
+Um fato engraçado foi retirar as etiquetagem da ruptura de comunicação (taggins). Quando o usuário errava, tinha dúvida, desistia da tarefa, pulava, tínhamos que escrever quais as taggins q ele rompeu. Editar o vídeo também foi um desafio, usei o aplicativo Capcut, para cortar, por as legendas e etc. Quando o vídeo não ficava do jeito que eu queria, ou bugava do nada, muitas vezes reiniciei o app para melhorar a edição. 
+
+O TP foi essencial para melhorar as minhas habilidades em IHC, as inseguranças, os medos. 
 
 # RODRIGO TORRES RODRIGUES
   
