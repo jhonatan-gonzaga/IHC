@@ -36,7 +36,7 @@ Em suma, este projeto de IHC foi uma jornada de profundo aprendizado técnico e 
 &nbsp;&nbsp;&nbsp;&nbsp;A segunda avaliação
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;A quarta e última avaliação foi, de longe, a mais proveitosa para mim. Um dos motivos para isso foi o fato de estar encarregado da edição de um dos usuários (U2). Porém, antes de editar, primeiro tivemos que gravar, o que se provou ser um desafio significativo.
+&nbsp;&nbsp;&nbsp;&nbsp;A quarta e última avaliação foi, de longe, a mais proveitosa para mim. Um dos motivos para isso foi o fato de estar encarregado da edição de um dos usuários (U2). Porém, antes de editar, primeiro tivemos que gravar, o que se provou ser um desafio significativo. A organização foi meio apressada, pois tínhamos um tempo relativamente curto, porém conseguimos gravar sem muitos problemas.
 
 # VICTOR DOS SANTOS CARDOSO 
 
