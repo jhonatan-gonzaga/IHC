@@ -26,6 +26,8 @@ O Trabalho Prático (TP) foi crucial para o aprimoramento das minhas competênci
 Em suma, este projeto de IHC foi uma jornada de profundo aprendizado técnico e pessoal. Superei a insegurança inicial nos testes de usabilidade, lidei com imprevistos técnicos na avaliação de comunicabilidade e desenvolvi habilidades práticas essenciais — desde a detecção de erros até a edição de vídeos. Cada desafio, desde a análise heurística individual até a etiquetagem de rupturas de comunicação, reforçou a importância de colocar o usuário no centro do design. Apesar dos obstáculos, a experiência solidificou meu conhecimento em IHC e me mostrou que mesmo os contratempos, como a perda de um vídeo, tornam-se oportunidades valiosas de crescimento. Este trabalho não apenas aprimorou minhas habilidades analíticas, mas também confirmou que a empatia com o usuário e a resiliência são fundamentais para qualquer avaliador de usabilidade.
 
 # RODRIGO TORRES RODRIGUES
+
+Ao analisar como um todo, o trabalho apresentou uma grade variedade de conteúdos relacionados a Interação Humano-Computador. Apesar da minha participação ser inconstante ao considerarmos individualmente as quatro avaliações que fazem parte deste trabalho, posso afirmar que tal trabalho me ajudou a entender todo o processo+.
   
 # VICTOR DOS SANTOS CARDOSO 
 
