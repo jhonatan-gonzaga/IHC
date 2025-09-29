@@ -2,7 +2,7 @@
   
 ## Participantes
 - Rodrigo Torres Rodrigues
-- Alyce
+- Alyce Benevides Lima
   
 ## Gravação da iteração
 - [Assistir U1](https://youtu.be/dlkTeykH7lQ?si=zjsNKuCbAFf1itkN)
@@ -11,6 +11,8 @@
 
 ## Tabulação
 [Etiquetagem - Usuário 1](https://www.notion.so/27a6bcc1a58a8038bfe3d3a618cf2faf?v=27a6bcc1a58a8060ab9e000c7fe40824&source=copy_link)
+
+## Interpretação
 
 
 
