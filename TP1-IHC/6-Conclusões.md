@@ -20,7 +20,7 @@ Uma insegurança constante que tive, foi na segunda avaliação, o Teste de Usab
 
 Um fato engraçado foi retirar as etiquetagem da ruptura de comunicação (taggins). Quando o usuário errava, tinha dúvida, desistia da tarefa, pulava, tínhamos que escrever quais as taggins q ele rompeu. Editar o vídeo também foi um desafio, usei o aplicativo Capcut, para cortar, por as legendas e etc. Quando o vídeo não ficava do jeito que eu queria, ou bugava do nada, muitas vezes reiniciei o app para melhorar a edição. 
 
-O TP foi essencial para melhorar as minhas habilidades em IHC, as inseguranças, os medos. 
+O TP foi essencial para melhorar as minhas habilidades em IHC, vi de perto como eu poderia melhorar onde errei, como foi meu comportamento ao decorrer das avaliações, principalmente na Avaliação de Comunicabilidade
 
 # RODRIGO TORRES RODRIGUES
   
