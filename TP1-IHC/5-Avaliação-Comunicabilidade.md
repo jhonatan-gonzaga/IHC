@@ -23,4 +23,7 @@
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Apesar de haver três tarefas (T10, T7 e T4) das quais foram colocadas como as tarefas que mais aconteceram em um tipo específico de tag, podemos dizer que a T10 foi a tarefa que mais deu problema, simplesmente por ser a que mais apresentou a quantidade de tags "Cadê" em uma única tarefa. Assim, podemos dizer que o maior problema desta tarefa, e o que a tornou tão difícil foi simplesmente o processo de achar a opção para a mudança.
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Existe também uma quantitade muito grande de tags "Socorro!", com 5 aparições.
 </div>  
