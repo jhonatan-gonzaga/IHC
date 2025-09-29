@@ -13,7 +13,7 @@ No final, este projeto foi um divisor de águas no meu desenvolvimento de compet
 # ALYCE BENEVIDES LIMA
 Ao decorrer do projeto, tive medo de como eu poderia abordar meus colegas para fazer o teste de Usabilidade, como eles se sairiam a cada tarefa pois eu não iria poder ajudar nem dizer como fazer as tarefas. No final das contas, cada usuário conseguiu fazer, uns pularam, pediram ajuda, entretanto foi um sucesso, não só para mim mas para meus colegas de equipe. Cristo Jesus foi a base, ele me deu animo, coragem, ajuda para enfrentar cada avaliação (porque eu não sabia nem mexer no Notion).
 
-As aulas de IHC foram essenciais pois com a ajuda do Prof Andrey, minhas ideais foram se juntando a cada dúvida. Os desafios vinheram a cada avaliação pedida, a identificação das heuristicas no aplicativo LibreOffice Calc, percebemos cada erro e falhas do aplicativo, utilizamos isso a nosso favor. Percebemos como cada erro funciona e imaginamos comom podeíamos solucionar as informações encontradas. 
+As aulas de IHC foram essenciais pois com a ajuda do Prof Andrey, minhas ideais foram se juntando a cada dúvida. Os desafios vinheram a cada avaliação pedida, a identificação das heuristicas no aplicativo LibreOffice Calc, percebemos cada erro e falhas do aplicativo, utilizamos isso a nosso favor. Percebemos como cada erro funciona e imaginamos como podeíamos solucionar as informações encontradas. 
 
 # RODRIGO TORRES RODRIGUES
   
