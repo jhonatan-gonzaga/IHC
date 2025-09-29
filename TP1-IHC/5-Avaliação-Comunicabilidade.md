@@ -22,4 +22,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Podemos também analisar que certos tipos de quebra de comunicabilidade não foram ativados, como o "Não, obrigado". Enquanto isso pode indicar algo positivo, ao analisar que o usuário não tentou utilizar um caminho que o designer não quis, isso também pode ser algo ruim, tendo em vista que tivemos 5 "Para mim está bom". Ou seja, podemos interpretar que o usuário não percorreu outro caminho mesmo sabendo da existência desse simplesmente por que ele não quis, e sim que o usuário não sabia qual era o caminho que o desginer queria que ele fizesse para sequer percorrer outro. A partir disso, podemos interpretar que o caminho para certas tarefas não são muito claras. E, por causa disso, o usuário 'terminou' muitas tarefas com uma resposta insatisfatória ("Para mim está bom").
 <br>
 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Apesar de haver três tarefas (T10, T7 e T4) das quais foram colocadas como as tarefas que mais aconteceram um tipo específico de tag.
 </div>  
