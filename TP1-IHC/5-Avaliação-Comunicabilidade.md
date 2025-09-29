@@ -1,5 +1,7 @@
 <div align="justify">
-
+  # Participantes
+  - Rodrigo Torres Rodrigues
+  -
   # Gravação da iteração
   - U1: https://youtu.be/dlkTeykH7lQ?si=zjsNKuCbAFf1itkN
   - U2 (1-5): https://www.youtube.com/watch?v=MkHZwXxbmB4
