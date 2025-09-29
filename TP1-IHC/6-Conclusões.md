@@ -11,6 +11,7 @@ Este trabalho prático foi fundamental para solidificar o conhecimento teórico 
 No final, este projeto foi um divisor de águas no meu desenvolvimento de competências em Interação Humano-Computador. Ele aprimorou meu pensamento analítico e crítico, transformando-me de um simples usuário em um avaliador capaz de identificar falhas e propor melhorias fundamentadas. A necessidade de conectar teoria e prática solidificou meu entendimento de conceitos abstratos, e tive que desenvolver minha capacidade de argumentação para justificar minhas análises com base em evidências concretas dos testes. Acima de tudo, o trabalho reforçou a importância vital de colocar o usuário no centro de qualquer projeto de tecnologia, uma percepção que considero a mais valiosa para minha futura carreira.
   
 # ALYCE BENEVIDES LIMA
+Ao decorrer do projeto, tive medo de como eu poderia abordar meus colegas para fazer o teste de Usabilidade, como eles se sairiam a cada tarefa pois eu não iria poder ajudar nem dizer como fazer as tarefas.
   
 # RODRIGO TORRES RODRIGUES
   
