@@ -22,7 +22,7 @@ Um fato engraçado foi retirar as etiquetagem da ruptura de comunicação (taggi
 
 O TP foi essencial para melhorar as minhas habilidades em IHC, vi de perto como eu poderia melhorar onde errei, como foi meu comportamento ao decorrer das avaliações, principalmente na Avaliação de Comunicabilidade onde nos juntamos para realizar a tarefa, fazer as gravações, os erros tecnicos que surgiram, tudo foi um aprendizado.
 
-Em resumo
+Em suma, este projeto de IHC foi uma jornada de profundo aprendizado técnico e pessoal. Superei a insegurança inicial nos testes de usabilidade, lidei com imprevistos técnicos na avaliação de comunicabilidade e desenvolvi habilidades práticas essenciais — desde a detecção de erros até a edição de vídeos. Cada desafio, desde a análise heurística individual até a etiquetagem de rupturas de comunicação, reforçou a importância de colocar o usuário no centro do design. Apesar dos obstáculos, a experiência solidificou meu conhecimento em IHC e me mostrou que mesmo os contratempos, como a perda de um vídeo, tornam-se oportunidades valiosas de crescimento. Este trabalho não apenas aprimorou minhas habilidades analíticas, mas também confirmou que a empatia com o usuário e a resiliência são fundamentais para qualquer avaliador de usabilidade.
 
 # RODRIGO TORRES RODRIGUES
   
