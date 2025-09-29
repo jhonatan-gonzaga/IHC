@@ -30,7 +30,10 @@ Em suma, este projeto de IHC foi uma jornada de profundo aprendizado técnico e 
 &nbsp;&nbsp;&nbsp;&nbsp;Ao analisar como um todo, o trabalho prático apresentou uma grade variedade de conteúdos relacionados a Interação Humano-Computador. Apesar da minha participação ser inconstante ao considerarmos individualmente as quatro avaliações que fazem parte deste trabalho prático, posso afirmar que tal trabalho me ajudou a entender detalhes e como as avaliações e os processos acontecem de fato.
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;A primeira avaliação, a Inspeção de Usabilidade, se apresentou para mim o primeiro contato real, fora de sala de aula, para analisar um sistema utilizando as Heurísticas de Nielsen. Apesar de incialmente ter muitas incertezas quanto ao que classificar como violações para a experiência do usuário, esse sentimento rapidamente se dissipou. Conforme pesquisava sobre as heurísticas e utilizava o LibreOffice, 
+&nbsp;&nbsp;&nbsp;&nbsp;A primeira avaliação, a Inspeção de Usabilidade, se apresentou para mim o primeiro contato real, fora de sala de aula, para analisar um sistema utilizando as Heurísticas de Nielsen. Apesar de incialmente ter muitas incertezas quanto ao que classificar como violações para a experiência do usuário, esse sentimento se dissipou conforme eu idenficava infrações no sistema do LibreOffice Calc e as classificando nas Heurísticas de Nielsen. Assim, apesar de não saber dizer imediatamente qual era a heurística violada, eu pude identificar uma quantidade significativa de violações, bem como corretamente classificá-los.
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;A segunda avaliação foi 
 
 # VICTOR DOS SANTOS CARDOSO 
 
