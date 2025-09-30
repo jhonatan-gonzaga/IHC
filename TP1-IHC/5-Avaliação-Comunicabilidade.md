@@ -5,14 +5,15 @@
 - Alyce Benevides Lima
   
 ## Gravação da iteração
+
 - [Assistir U1](https://youtu.be/dlkTeykH7lQ?si=zjsNKuCbAFf1itkN)
 - [Assistir U2 (1–5)](https://www.youtube.com/watch?v=MkHZwXxbmB4)
 - [Assistir U2 (6–10)](https://www.youtube.com/watch?v=R1fWPr4xAR0)
 
 ## Tabulação
-[Etiquetagem - Usuário 1](https://www.notion.so/27a6bcc1a58a8038bfe3d3a618cf2faf?v=27a6bcc1a58a8060ab9e000c7fe40824&source=copy_link)
-[Etiquetagem - Usuário 2](https://www.notion.so/27a6bcc1a58a80d7b3ddeb7f8545c026?v=27a6bcc1a58a80bf8fc0000cf48ecb11&source=copy_link)
-[Frequência de Etiquetas](https://www.notion.so/27a6bcc1a58a80c3ab8ee6178f423576?v=27a6bcc1a58a808a93eb000c0b8dfd67&source=copy_link)
+- [Etiquetagem - Usuário 1](https://www.notion.so/27a6bcc1a58a8038bfe3d3a618cf2faf?v=27a6bcc1a58a8060ab9e000c7fe40824&source=copy_link)
+- [Etiquetagem - Usuário 2](https://www.notion.so/27a6bcc1a58a80d7b3ddeb7f8545c026?v=27a6bcc1a58a80bf8fc0000cf48ecb11&source=copy_link)
+- [Frequência de Etiquetas](https://www.notion.so/27a6bcc1a58a80c3ab8ee6178f423576?v=27a6bcc1a58a808a93eb000c0b8dfd67&source=copy_link)
 
 ## Interpretação
 &nbsp;&nbsp;&nbsp;&nbsp;O vídeo do Youtube relata com clareza como o usuário se sentiu ao realizar as tarefas, as tags foram aparecendo ao decorrer das indagações do usuário ao longo das tarefas.
