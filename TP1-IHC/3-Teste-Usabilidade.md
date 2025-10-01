@@ -19,7 +19,7 @@ Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
 
 # 2. Teste Piloto
 ## 2.1 Participante do teste piloto
-- P00 - Jean Carlos dos Santos Baraúna
+- P00 
 
 ## 2.2 informações do teste
 - Local: UFAM, 313 BLOCO D
@@ -31,14 +31,14 @@ Sistemas Operacionais (SO): Windows e Linux (Ubuntu) <br>
 
 # 3. Teste Oficial
 ## 3.1 Participantes do teste
-- P01 - Adriano Monteiro Rolim
-- P02 - Arthur Djan Pinheiro Pontes
-- P03 - Eduardo Tundis Carvalho Vilaça
-- P04 - Francisco José Pinheiro da Silva
-- P05 - Luiz Gustavo barros da Silva
-- P06 - Jeziel Monteiro Pessoa
-- P07-  Júlio Augusto de Almeida Ferreira Júnior
-- P08 - Thamires Fernanda Mendes
+- P01 
+- P02 
+- P03 
+- P04 
+- P05 
+- P06 
+- P07
+- P08 
   
 ## 3.2 informações do teste
 - Data: 19/09/2025
