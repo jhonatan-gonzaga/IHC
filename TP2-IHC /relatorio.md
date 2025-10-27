@@ -123,3 +123,4 @@ A distribuição das classes confirma o **balanceamento** entre as categorias:
 | **Total**       | **200**     |
 
 ## 4. Descrição dos Experimentos no Weka
+A análise de base "dataset_EAD_classificacao.arff" no Weka teve como objetivocompreender o comportamentoe e o desempenho de alunos em um ambiente de Ensino a Distância (EAD), os dados foram importados no módulo Explorer, onde foi poasível observar estatísticas básicas e histogramas dos atributos. Essa etapa permitiu identificar diferenças 
