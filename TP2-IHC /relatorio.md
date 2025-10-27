@@ -103,7 +103,7 @@ A base de dados foi gerada como artefato da **Etapa 2** do projeto, utilizando u
 | **Formato do Arquivo** | `.arff` — compatível com o software **Weka** |
 | **Número de Instâncias** | 200 registros (mínimo exigido) |
 | **Número de Atributos** | 6 preditores + 1 classe-alvo (total: 7) |
-| **Link para a Base** | [ /dataset/status_aluno.arff](./dataset/status_aluno.arff) |
+| **Link para a Base** | [dataset.arff](base_sintetica.arff) |
 ---
 ### 3.1 Validação e Verificação  
 Após a criação, o arquivo `dataset.csv` foi testado no ambiente **Google Colab**, utilizando o notebook disponível no link abaixo:  
