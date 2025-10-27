@@ -121,3 +121,5 @@ A distribuição das classes confirma o **balanceamento** entre as categorias:
 | com_dificuldade | 100         |
 | progredindo     | 100         |
 | **Total**       | **200**     |
+
+## 4. Descrição dos Experimentos no Weka
