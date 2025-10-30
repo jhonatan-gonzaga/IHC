@@ -6,7 +6,7 @@
 - 22550449 - Oliviê Kalil de Menezes Miranda
 - 22550444 - Rodrigo Torres Rodrigues
 - 22552381 - Victor dos Santos Cardoso
-#  Análise de Engajamento e Dificuldade de Alunos em Ambientes de Ensino a Distância (EAD)
+#  Classificação Supervisionada do Engajamento e Dificuldade de Alunos como Indicadores de UX em Sistemas EAD
 
 ##  1. Definição do Problema
 
