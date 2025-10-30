@@ -152,7 +152,8 @@ Utilizamos o Software WEKA para dividir os dados. (O WEKA (Waikato Environment f
 O datasete exigia o uso do Hold-out (66% para treino e 34% para teste)
 
 ### Algoritmos Utilizados: 
-
+- **J48 (Arvore de Decisão)**
+- **
 
 ---
 
