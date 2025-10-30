@@ -148,7 +148,7 @@ Na comparação de uso_busca com desvio_sequencia, percebe-se que alunos com_dif
 Por fim, a matriz de dispersão da aba “Visualize” apresenta de forma geral dois agrupamentos bem distintos de acordo com a classe. As variáveis tempo_medio_recurso, uso_busca e progresso_no_modulo estão fortemente associadas a bons resultados, enquanto revisitas_painel_principal e desvio_sequencia aparecem mais ligados aos alunos com dificuldades. Esses padrões visuais revelam uma separação nítida entre os perfis comportamentais, indicando que o desempenho pode ser previsto a partir das interações registradas na plataforma.
 
 ## 4.2 Metodologia de Classificação
-Utilizamos o Software WEKA para dividir os dados. O datasete exigia o uso do Hold-out
+Utilizamos o Software WEKA para dividir os dados. (O WEKA (Waikato Environment for Knowledge Analysis) é um software de código aberto usado para mineração de dados e aprendizado de máquina. Ele oferece uma interface gráfica simples e ferramentas para pré-processamento, classificação, regressão, agrupamento, visualização e seleção de atributos. Desenvolvido na Universidade de Waikato, o WEKA é amplamente utilizado em pesquisas e ensino por permitir a aplicação prática de algoritmos de IA sem necessidade de programação complexa)  O datasete exigia o uso do Hold-out
 
 ---
 
