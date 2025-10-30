@@ -154,6 +154,7 @@ O datasete exigia o uso do Hold-out (66% para treino e 34% para teste)
 ### Algoritmos Utilizados: 
 - **J48 (Arvore de Decisão)**
 - **IBk (k-NN)**
+- **Naive Bayes**
 
 ---
 
