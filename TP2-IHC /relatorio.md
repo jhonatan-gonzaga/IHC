@@ -156,6 +156,7 @@ O datasete exigia o uso do Hold-out (66% para treino e 34% para teste)
 - **IBk (k-NN)**
 - **Naive Bayes**
 - **ZeroR (baseline)**
+- **OneR (baseline)**
 
 ---
 
