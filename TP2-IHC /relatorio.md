@@ -22,8 +22,9 @@ Essa invisibilidade contribui para **altas taxas de evasão**, tornando urgente 
 ---
 
 ###  Motivação  
-A motivação deste trabalho reside na necessidade de **converter dados operacionais em indicadores pedagógicos úteis**.  
-O objetivo é criar um modelo capaz de **prever o status de engajamento do aluno**, permitindo **intervenções pedagógicas proativas** antes que o desempenho seja comprometido.  
+A motivação deste trabalho reside na necessidade de converter dados operacionais em indicadores pedagógicos úteis.
+<br>
+O objetivo é aplicar algoritmos de aprendizado de máquina, utilizando a ferramenta Weka, para treinar um modelo capaz de prever o status de engajamento do aluno, permitindo intervenções pedagógicas proativas antes que o desempenho seja comprometido. 
 
 Com isso, pretende-se:
 
