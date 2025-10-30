@@ -151,7 +151,7 @@ Por fim, a matriz de dispersão da aba “Visualize” apresenta de forma geral 
 Utilizamos o Software WEKA para dividir os dados. (O WEKA (Waikato Environment for Knowledge Analysis) é um software de código aberto usado para mineração de dados e aprendizado de máquina. Ele oferece uma interface gráfica simples e ferramentas para pré-processamento, classificação, regressão, agrupamento, visualização e seleção de atributos. Desenvolvido na Universidade de Waikato, o WEKA é amplamente utilizado em pesquisas e ensino por permitir a aplicação prática de algoritmos de IA sem necessidade de programação complexa).
 O datasete exigia o uso do Hold-out (66% para treino e 34% para teste)
 
-### 
+### Algoritmos Utilizados: 
 
 ---
 
