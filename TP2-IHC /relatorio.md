@@ -68,10 +68,12 @@ A classe-alvo foi definida com base em regras lógicas que traduzem padrões com
 Um aluno é classificado como **com dificuldade** quando demonstra **desorientação e falta de progresso**.
 
 **Regra Lógica:**  
-SE (revisitas_painel_principal > 3)
-E (progresso_no_modulo < 2)
-E (desvio_sequencia > 2)
-ENTÃO status_aluno = com_dificuldade
+SE<br>
+&nbsp;&nbsp;&nbsp;&nbsp;(revisitas_painel_principal > 3)E<br>
+&nbsp;&nbsp;&nbsp;&nbsp;(progresso_no_modulo < 2) E<br>
+&nbsp;&nbsp;&nbsp;&nbsp;(desvio_sequencia > 2)<br>
+ENTÃO<br>
+&nbsp;&nbsp;&nbsp;&nbsp;status_aluno = com_dificuldade
 
 
 **Justificativa:**  
@@ -83,10 +85,12 @@ O aluno retorna frequentemente ao início do curso, não avança significativame
 Um aluno é classificado como **progredindo** quando apresenta **avanço consistente e comportamento focado**.
 
 **Regra Lógica:**  
-SE (progresso_no_modulo > 4)
-E (tempo_medio_recurso > 30)
-E (desvio_sequencia = 0)
-ENTÃO status_aluno = progredindo
+SE <br>
+&nbsp;&nbsp;&nbsp;&nbsp;(progresso_no_modulo > 4) E <br>
+&nbsp;&nbsp;&nbsp;&nbsp;(tempo_medio_recurso > 30) E <br>
+&nbsp;&nbsp;&nbsp;&nbsp;(desvio_sequencia = 0) <br>
+ENTÃO <br>
+&nbsp;&nbsp;&nbsp;&nbsp;status_aluno = progredindo
 
 
 **Justificativa:**  
