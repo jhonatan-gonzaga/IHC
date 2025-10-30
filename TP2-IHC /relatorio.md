@@ -173,6 +173,7 @@ A tabela a seguir apresenta o percentual de acertos (acurácia) de cada um dos 5
 Abaixo estão as matrizes de confusão para os algoritmos principais (J48, IBk, Naive Bayes). Para esta análise, a classe "com_dificuldade" foi definida como a classe Positiva.
 
 **J48**
+<img width="427" height="166" alt="image" src="https://github.com/user-attachments/assets/1ba8c8e7-6022-4055-841b-b29cf5479307" />
 * **Verdadeiros Positivos (VP):** 38
 * **Falsos Positivos (FP):** 0
 * **Verdadeiros Negativos (VN):** 30
@@ -180,6 +181,7 @@ Abaixo estão as matrizes de confusão para os algoritmos principais (J48, IBk, 
 * **Comentário:** O modelo J48 acertou todas as 38 instâncias da classe "com_dificuldade" e todas as 30 instâncias da classe "progredindo". O modelo não confundiu nenhuma instância.
 
 **IBk**
+<img width="232" height="106" alt="image" src="https://github.com/user-attachments/assets/fcd83e05-fd17-41b7-8533-2467f14315a2" />
 * **Verdadeiros Positivos (VP):** 100
 * **Falsos Positivos (FP):** 0
 * **Verdadeiros Negativos (VN):** 100
@@ -187,11 +189,16 @@ Abaixo estão as matrizes de confusão para os algoritmos principais (J48, IBk, 
 * **Comentário:** O modelo IBk acertou todas as 100 instâncias da classe positiva (Verdadeiros Positivos) e todas as 100 instâncias da classe negativa (Verdadeiros Negativos), não cometendo nenhum erro de classificação.
 
 **Naive Bayes**
+<img width="233" height="107" alt="image" src="https://github.com/user-attachments/assets/93086a85-a7b4-44bd-82e7-ade5f750a15d" />
 * **Verdadeiros Positivos (VP):** 38
 * **Falsos Positivos (FP):** 0
 * **Verdadeiros Negativos (VN):** 30
 * **Falsos Negativos (FN):** 0
 * **Comentário:** O modelo Naive Bayes acertou todas as 38 instâncias da classe "com_dificuldade" e todas as 30 instâncias da classe "progredindo". O modelo não confundiu nenhuma instância.
+
+### 5.3. Árvore de Decisão (J48)
+<img width="901" height="347" alt="image" src="https://github.com/user-attachments/assets/52c6d7f2-4884-4598-8e23-56e032de483c" />
+
 
 
 
