@@ -153,7 +153,7 @@ Utilizamos o Software WEKA para dividir os dados. (O WEKA (Waikato Environment f
 O datasete exigia o uso do Hold-out (66% para treino e 34% para teste), utilizei os seguintes passos: 
 1. Carregar o conjunto de dados no painel "Preprocess".
 2. Ir até a aba "Classify".
-3. 
+3. Em "Teste options", selecionar "Porcentage split".
 
 ### Algoritmos Utilizados: 
 - **J48 (Arvore de Decisão)**
