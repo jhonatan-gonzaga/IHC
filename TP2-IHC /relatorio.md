@@ -150,4 +150,48 @@ Por fim, a matriz de dispersão da aba “Visualize” apresenta de forma geral 
 ## 4.2 Metodologia de Classificação
 Utilizamos o Software WEKA para dividir os dados. O datasete exigia o uso do Hold-out
 
+---
+
+## 5. Resultados
+
+### 5.1. Tabela Comparativa de Acurácia
+
+A tabela a seguir apresenta o percentual de acertos (acurácia) de cada um dos 5 algoritmos na base de teste.
+
+| Algoritmo | Acurácia |
+| :--- | :--- |
+| J48 | 100% |
+| IBk | 100% |
+| Naive Bayes | 100% |
+| OneR | 100% |
+| ZeroR | 50% |
+
+---
+
+### 5.2. Matrizes de Confusão
+
+Abaixo estão as matrizes de confusão para os algoritmos principais (J48, IBk, Naive Bayes). Para esta análise, a classe "com_dificuldade" foi definida como a classe Positiva.
+
+**J48**
+* **Verdadeiros Positivos (VP):** 38
+* **Falsos Positivos (FP):** 0
+* **Verdadeiros Negativos (VN):** 30
+* **Falsos Negativos (FN):** 0
+* **Comentário:** O modelo J48 acertou todas as 38 instâncias da classe "com_dificuldade" e todas as 30 instâncias da classe "progredindo". O modelo não confundiu nenhuma instância.
+
+**IBk**
+* **Verdadeiros Positivos (VP):** 100
+* **Falsos Positivos (FP):** 0
+* **Verdadeiros Negativos (VN):** 100
+* **Falsos Negativos (FN):** 0
+* **Comentário:** O modelo IBk acertou todas as 100 instâncias da classe positiva (Verdadeiros Positivos) e todas as 100 instâncias da classe negativa (Verdadeiros Negativos), não cometendo nenhum erro de classificação.
+
+**Naive Bayes**
+* **Verdadeiros Positivos (VP):** 38
+* **Falsos Positivos (FP):** 0
+* **Verdadeiros Negativos (VN):** 30
+* **Falsos Negativos (FN):** 0
+* **Comentário:** O modelo Naive Bayes acertou todas as 38 instâncias da classe "com_dificuldade" e todas as 30 instâncias da classe "progredindo". O modelo não confundiu nenhuma instância.
+
+
 
