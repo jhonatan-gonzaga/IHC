@@ -1,4 +1,4 @@
-# Relatório - TP2: IHC e Machine Learning
+k# Relatório - TP2: IHC e Machine Learning
 
 **Equipe:**
 - 22552726 - Alyce Benevides Lima
@@ -218,6 +218,9 @@ Abaixo estão as matrizes de confusão para os algoritmos principais (J48, IBk, 
 
 <img width="901" height="347" alt="image" src="https://github.com/user-attachments/assets/52c6d7f2-4884-4598-8e23-56e032de483c" />
 
+---
 
+# 6. Análise Crítica dos Resultados
 
+Como podemos ver na tabela presente no 5.1, todos os algoritmos, com a exceção do ZeroR apresentaram acurácias perfeitas, tendo 100% de acertos nas suas previsões para a parte da base de dados destinada para sua previsão. Podemos perceber que o ZeroR apresentou 50% de acerto pois metade da base de dados tem como classificação "Progredindo" (100 instâncias) e a outra metade é classificada como "Com dificuldade" (novamente, 100 instâncias). Ou seja, ele apenas pegou a classe alvo com maior quantidade de instâncias, que neste caso pode ser as duas, e presumiu que todas seriam daquela classe alvo.
 
