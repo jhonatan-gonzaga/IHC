@@ -1,4 +1,5 @@
-k# Relatório - TP2: IHC e Machine Learning
+<div align="justify">
+# Relatório - TP2: IHC e Machine Learning
 
 **Equipe:**
 - 22552726 - Alyce Benevides Lima
@@ -235,3 +236,4 @@ Além disso, podemos observar que a árvore de decisão do algoritmo J48, aprese
 Também podemos verificar que as condições originais para a classe alvo possuem mais dois atributos, além do "desvio_sequencia": "revisitas_painel_principal" e "progresso_no_modulo" para alunos "com dificuldade", e "tempo_medio_recurso" e "progresso_no_modulo" para alunos "progredindo". Mesmo assim, o algoritmo J48 utilizou apenas o terceiro atributo, e conseguiu discriminar completamente os dois grupos.
 
 Com base nos resultados apresentados, bem como suas análises, é possível concluir que a aplicação de algoritmos de inteligência artificial podem ser usados na área de Interação Humano Computador (IHC). Tal afirmativa se mostra como verdadeira ao considerarmos que a exploração de dados juntamente com a análise dos resultados dos algoritmos feitos na base de dados sintética trouxeram alguns padrões que discriminam alunos que estão com dificuldade daqueles que estão progredindo. Assim, conseguimos prever o desempenho do usuário, bem como se ele está com dificuldade ou não, a partir na análise de dados, como visto no algoritmo J48.
+</div>
