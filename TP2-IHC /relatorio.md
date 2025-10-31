@@ -150,7 +150,7 @@ Por fim, a matriz de dispersão da aba “Visualize” apresenta de forma geral 
 ## 4.2 Metodologia de Classificação
 Utilizamos o Software WEKA para dividir os dados. (O WEKA (Waikato Environment for Knowledge Analysis) é um software de código aberto usado para mineração de dados e aprendizado de máquina. Ele oferece uma interface gráfica simples e ferramentas para pré-processamento, classificação, regressão, agrupamento, visualização e seleção de atributos. Desenvolvido na Universidade de Waikato, o WEKA é amplamente utilizado em pesquisas e ensino por permitir a aplicação prática de algoritmos de IA sem necessidade de programação complexa).
 ### Abordagem de Avaliação:
-O datasete exigia o uso do Hold-out (66% para treino e 34% para teste), utilizei os seguintes passos: 
+O datasete exigia o uso do Hold-out (66% para treino e 34% para teste), utilizado os seguintes passos: 
 1. Carregar o conjunto de dados no painel "Preprocess".
 2. Ir até a aba "Classify".
 3. Em "Teste options", selecionar "Porcentage split".
