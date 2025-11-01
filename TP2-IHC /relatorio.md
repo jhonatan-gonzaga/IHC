@@ -136,7 +136,8 @@ Em seguida, na aba Visualize, foi gerada a matriz de dispersão, que mostrou gra
 
 ## 4.1 Exploração dos Dados
 Na aba “Visualize” do WEKA, foi possível observar de forma clara as relações entre os principais atributos do conjunto de dados e a classe-alvo status_aluno, que diferencia alunos progredindo (vermelho) e com_dificuldade (azul). Os gráficos de dispersão revelam padrões bem definidos de comportamento, indicando correlações entre engajamento nas atividades e desempenho no curso.
--> IMAGEM DA ABA "VISUALIZE" "PANORAMA"
+
+<img width="779" height="338" alt="image (1)" src="https://github.com/jhonatan-gonzaga/IHC/issues/2#issue-3578534674" />
 
 Na relação entre revisitas_painel_principal e uso_busca, nota-se que os alunos com_dificuldade tendem a revisitar mais vezes o painel e fazer pouco uso da busca. Já os alunos progredindo se concentram em níveis mais altos de uso da busca e revisitas menos frequentes, o que pode indicar uma navegação mais direcionada e eficiente.
 -> IMAGEM DA RELAÇAO "revisitas_painel_principal e uso_busca,"
