@@ -162,7 +162,7 @@ O datasete exigia o uso do Hold-out (66% para treino e 34% para teste), utilizad
 ### Algoritmos Utilizados: 
 - **J48 (Arvore de Decisão)**: cria uma árvore de decisão com base em divisões dos atributos, útil para interpretar regras de classificação.
 - **IBk (k-NN)**: classifica exemplos novos com base nos k vizinhos mais próximos do conjunto de treino.
-- **Naive Bayes**
+- **Naive Bayes**: usa probabilidade condicional assumindo independência entre atributos, sendo rápido e eficiente.
 - **ZeroR (baseline)**
 - **OneR (baseline)**
 
