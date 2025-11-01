@@ -160,8 +160,8 @@ O datasete exigia o uso do Hold-out (66% para treino e 34% para teste), utilizad
 5. Escolher algoritmo desejado em "Classifier" e clicar em "Start".
 
 ### Algoritmos Utilizados: 
-- **J48 (Arvore de Decisão)**
-- **IBk (k-NN)**
+- **J48 (Arvore de Decisão)**: cria uma árvore de decisão com base em divisões dos atributos, útil para interpretar regras de classificação.
+- **IBk (k-NN)**: 
 - **Naive Bayes**
 - **ZeroR (baseline)**
 - **OneR (baseline)**
