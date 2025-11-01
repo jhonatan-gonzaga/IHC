@@ -164,7 +164,7 @@ O datasete exigia o uso do Hold-out (66% para treino e 34% para teste), utilizad
 - **IBk (k-NN)**: classifica exemplos novos com base nos k vizinhos mais próximos do conjunto de treino.
 - **Naive Bayes**: usa probabilidade condicional assumindo independência entre atributos, sendo rápido e eficiente.
 - **ZeroR (baseline)**: classifica sempre pela classe mais frequente, servindo como modelo de referência.
-- **OneR (baseline)**
+- **OneR (baseline)**: gera uma regra simples baseada em um único atributo, servindo também como comparação inicial.
 
 ---
 
