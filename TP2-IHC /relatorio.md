@@ -137,20 +137,23 @@ Em seguida, na aba Visualize, foi gerada a matriz de dispersão, que mostrou gra
 ## 4.1 Exploração dos Dados
 Na aba “Visualize” do WEKA, foi possível observar de forma clara as relações entre os principais atributos do conjunto de dados e a classe-alvo status_aluno, que diferencia alunos progredindo (vermelho) e com_dificuldade (azul). Os gráficos de dispersão revelam padrões bem definidos de comportamento, indicando correlações entre engajamento nas atividades e desempenho no curso.
 
-<img width="779" height="338" alt="image (1)" src="https://github.com/user-attachments/assets/40f669a4-bb66-4e61-97cd-b2580111afc0" />
+<img width="850" height="450" alt="image (1)" src="https://github.com/user-attachments/assets/40f669a4-bb66-4e61-97cd-b2580111afc0" />
+<br><br>
 
 Na relação entre revisitas_painel_principal e uso_busca, nota-se que os alunos com_dificuldade tendem a revisitar mais vezes o painel e fazer pouco uso da busca. Já os alunos progredindo se concentram em níveis mais altos de uso da busca e revisitas menos frequentes, o que pode indicar uma navegação mais direcionada e eficiente.
 
-<img width="779" height="338" alt="image (1)" src="https://github.com/user-attachments/assets/cd441321-2d5e-4074-8628-d45f52ff29dc" />
+<img width="850" height="450" alt="image (1)" src="https://github.com/user-attachments/assets/cd441321-2d5e-4074-8628-d45f52ff29dc" />
+<br><br>
 
 O gráfico entre tempo_medio_recurso e progresso_no_modulo evidencia uma forte correlação positiva: quanto maior o tempo médio dedicado aos recursos, maior o progresso. Os alunos progredindo se concentram nas faixas mais altas desses atributos, enquanto os com_dificuldade aparecem agrupados nas menores médias. Esse padrão reforça a ideia de que o engajamento e o tempo de estudo influenciam diretamente o desempenho.
 
-<img width="779" height="338" alt="image (1)" src="https://github.com/user-attachments/assets/aa89816e-c40e-41b5-8513-9e5f837227ce" />
+<img width="850" height="450" alt="image (1)" src="https://github.com/user-attachments/assets/aa89816e-c40e-41b5-8513-9e5f837227ce" />
+<br><br>
 
 Na comparação de uso_busca com desvio_sequencia, percebe-se que alunos com_dificuldade apresentam maiores desvios da sequência esperada de estudo e menor uso da busca, sugerindo falta de foco ou navegação desordenada. Em contrapartida, os progredindo mostram comportamento mais estruturado, com baixo desvio e maior utilização da ferramenta de busca.
 
-<img width="779" height="338" alt="image (1)" src="https://github.com/user-attachments/assets/76003736-26b8-4db4-93e9-596c9a23cfaf" />
-
+<img width="850" height="450" alt="image (1)" src="https://github.com/user-attachments/assets/76003736-26b8-4db4-93e9-596c9a23cfaf" />
+<br><br>
 
 Por fim, a matriz de dispersão da aba “Visualize” apresenta de forma geral dois agrupamentos bem distintos de acordo com a classe. As variáveis tempo_medio_recurso, uso_busca e progresso_no_modulo estão fortemente associadas a bons resultados, enquanto revisitas_painel_principal e desvio_sequencia aparecem mais ligados aos alunos com dificuldades. Esses padrões visuais revelam uma separação nítida entre os perfis comportamentais, indicando que o desempenho pode ser previsto a partir das interações registradas na plataforma.
 
