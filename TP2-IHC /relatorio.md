@@ -130,7 +130,7 @@ A distribuição das classes confirma o **balanceamento** entre as categorias:
 | **Total**       | **200**     |
 
 ## 4. Descrição dos Experimentos no Weka
-A análise de base "dataset_EAD_classificacao.arff" no Weka teve como objetivocompreender o comportamentoe e o desempenho de alunos em um ambiente de Ensino a Distância (EAD), os dados foram importados no módulo Explorer, onde foi poasível observar estatísticas básicas e histogramas dos atributos. Essa etapa permitiu identificar diferenças iniciais entre alunos “progredindo” e “com dificuldade”, especialmente nos atributos ligados ao engajamento, como número de páginas visitadas, tempo médio nos recursos e revisitas ao painel principal.
+A análise de base "base_sintetica.arff" no Weka teve como objetivocompreender o comportamentoe e o desempenho de alunos em um ambiente de Ensino a Distância (EAD), os dados foram importados no módulo Explorer, onde foi poasível observar estatísticas básicas e histogramas dos atributos. Essa etapa permitiu identificar diferenças iniciais entre alunos “progredindo” e “com dificuldade”, especialmente nos atributos ligados ao engajamento, como número de páginas visitadas, tempo médio nos recursos e revisitas ao painel principal.
 
 Em seguida, na aba Visualize, foi gerada a matriz de dispersão, que mostrou graficamente as relações entre as variáveis. Observou-se que maior interação com os recursos e uso da busca estavam relacionados ao progresso, enquanto revisitas excessivas e desvio da sequência de estudo estavam associados às dificuldades. Essa análise visual evidenciou dois perfis distintos de alunos: os mais organizados e engajados, e os que apresentavam comportamentos desordenados e menor dedicação.
 
