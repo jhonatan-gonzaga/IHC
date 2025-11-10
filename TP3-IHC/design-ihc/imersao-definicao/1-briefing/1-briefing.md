@@ -1,6 +1,6 @@
 ## Briefing com Cliente
 ### Tres clientes:
-Mestre de Obras;
+Mestre de Obras;  
 Dono de Apartamento (kitnet, etc);  
 Dono de Material de Construção;   
 ### Realização do Briefing com:  
