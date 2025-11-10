@@ -7,6 +7,7 @@ Dono de Material de Construção: Alyce Benevides
 Reuniões presenciais ou onlines;  
 Evidencia (foto);
 
-## Mestre de Obras: Olivie 
+## Mestre de Obras:
+## Dono de Apartamento ou Kitnet:
 
 
