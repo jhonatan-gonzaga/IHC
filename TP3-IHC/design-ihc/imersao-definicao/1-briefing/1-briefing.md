@@ -4,7 +4,7 @@
 - Dono de Apartamento (kitnet, etc);  
 - Dono de Material de Construção;   
 ### Realização do Briefing com:  
-Reuniões presenciais ou onlines;  
+As reuniões podem ser presenciais ou onlines;  
 Evidencia (foto);
 
 ## Mestre de Obras:
