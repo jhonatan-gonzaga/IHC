@@ -1,5 +1,5 @@
 ## Briefing com Cliente
-### Tres clientes:
+### Perfil dos clientes:
 - Mestre de Obras;  
 - Dono de Apartamento (kitnet, etc);  
 - Dono de Material de Construção;   
