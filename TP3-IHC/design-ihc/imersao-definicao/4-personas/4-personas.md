@@ -15,8 +15,20 @@
 - Tipo exclusivo de conta: "Suporte".
 - Tela exclusiva para entrar em contato com os clientes que precisam de ajuda técnica.
 - Sistema para registrar todos os suportes que essa persona fez (Logs).
-- Trocar a forma de comunicação ().
-- Trocar o meio de comunicação ().
+- Trocar a forma de comunicação (Texto --> Chamada de áudio OU vice-versa).
+- Trocar o meio de comunicação (Whatsapp --> Aplicativo OU vice-versa).
+  
 # 4.4 Persona de Dono
 <img width="5607" height="6167" alt="Eric drawio" src="https://github.com/user-attachments/assets/278ed959-e58f-462a-ae50-33ef9b4f2b51" />
 
+## 4.4.1 Funcionalidades exclusiva da persona de Dono
+
+- Tipo de conta exclusiva para a persona.
+- Cadastrar a própria loja.
+- Exibir informações da loja.
+- Botão exclusivo para clientes tirarem dúvidas sobre os produtos com a persona.
+- Ter uma interface própria:
+    - Cadastrar a própria loja.
+    - Exibir informações da loja (horário de atendimento, telefone, endereço, etc.).
+    - Cadastrar/atualizar produtos próprios
+    - Visualizar o histórico de pedidos bem como as avaliações dos clientes.
