@@ -6,6 +6,14 @@
 # 4.2 Persona de Cliente
 <img width="5607" height="6027" alt="AnaPersona drawio" src="https://github.com/user-attachments/assets/901a7e5f-f9a3-4953-a0a2-58e7874e8576" />
 
+# 4.2.1 Funcionalidades exclusiva da persona de Cliente
+
+- Cadastro como "Cliente".
+- Capacidade de pesquisar por profissionais usando barra de pesquisa.
+- Deixar uma avaliação do serviço de um profissional específico após o termino do trabalho.
+- Visualizar perfis de profissionais.
+- Anunciar que está contratando profissionais para um determinado tipo de serviço (tipo de trabalho e descrição, opcionalmente foto).
+- Contratar um profissional para um serviço específico.
 
 # 4.3 Persona de Suporte
 <img width="5607" height="6027" alt="MarceloPersona drawio" src="https://github.com/user-attachments/assets/a15a3e8c-2436-4a9f-839e-2c9e4537b846" />
