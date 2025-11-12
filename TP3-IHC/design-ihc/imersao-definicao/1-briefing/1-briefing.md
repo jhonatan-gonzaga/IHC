@@ -35,7 +35,7 @@ As reuniões podem ser presenciais ou onlines.
 Durante o Briefing, algumas evidencia serão coletadas como fotos ou prints. 
 
 ## Pessoa Comum (Que já trabalhou na área de apartamento (kitnet, etc)): 
-### 🏠 Briefing com o Cliente – Ananda (Usuária Residencial)
+### Ananda (Usuária Residencial)
 
 **ANANDA (USUÁRIA RESIDENCIAL)** – Moradora da cidade de Itacoatiara, responsável pela manutenção do próprio lar. Costuma lidar com pequenos reparos domésticos, como trocar resistência do chuveiro, consertar tomadas ou pintar paredes. Relatou dificuldade em encontrar **profissionais de confiança e disponíveis rapidamente**, dependendo muitas vezes de indicações de amigos e vizinhos. Valoriza **avaliações reais**, **agilidade** e **facilidade de uso** nas plataformas. Guarda contatos de prestadores no WhatsApp, mas sem organização, o que gera confusão. Busca uma solução simples e prática para encontrar bons profissionais e resolver problemas do dia a dia sem complicações.
 
