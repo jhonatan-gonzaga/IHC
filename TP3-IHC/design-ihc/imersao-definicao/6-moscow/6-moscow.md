@@ -5,7 +5,7 @@
   &nbsp;
 </div>
 
-![MoSCoW - Quadro 2](https://github.com/user-attachments/assets/4940bd22-eec5-4a81-bb79-601af3ce8d96)
+
 
 # Priorização de Requisitos (MoSCoW) Detalhada para o Projeto
 
@@ -17,6 +17,7 @@ Estes são os requisitos **imprescindíveis** e não negociáveis. Sem eles, o p
 
 | Requisito | Explicação e Função |
 | :--- | :--- |
+| **Recurso Text-to-Speech (TTS) para leitura de textos críticos** | **Acessibilidade e Usabilidade:** É o recurso base que permite ao usuário com baixa literacia digital ouvir textos longos, instruções e dados sensíveis (códigos, termos) para minimizar erros e frustração. |
 | **Cadastro/Login Simples com Código de Verificação** | **Segurança e Acesso:** Garante a autenticação segura do usuário (Profissional, Cliente, Lojista), sendo a porta de entrada para todas as funcionalidades. |
 | **Criação e Edição de Perfil Profissional** | **Prontidão:** Permite ao profissional se qualificar e se apresentar, sendo um pré-requisito para receber ofertas. |
 | **Cadastro de Loja e Perfil (Lojista)** | **Presença:** Permite ao lojista inserir informações básicas da loja para aparecer na busca de materiais. |
