@@ -54,7 +54,6 @@ Durante o Briefing, algumas evidencia serão coletadas como fotos ou prints.
 ## Mestre de Obras:  
 ### Sr. José: Mestre de Obras
 
- Descrição do Entrevistado
 O Sr. José é pedreiro e mestre de obras em Itacoatiara, atuando de forma autônoma há muitos anos. Ele realiza obras de pequeno e médio porte e enfrenta períodos de inatividade entre os serviços. Durante a entrevista, destacou a importância de ter **maior visibilidade**, **acesso a novos clientes** e **facilidade na compra de materiais de construção**. Mostrou-se receptivo à ideia de um aplicativo que conecte profissionais da construção, lojistas e clientes, chamando atenção para a **simplicidade de uso** e **integração com o WhatsApp**.
 
 ---
