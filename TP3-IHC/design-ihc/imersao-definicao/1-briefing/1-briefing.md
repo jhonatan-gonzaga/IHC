@@ -9,7 +9,7 @@ O objetivo deste briefing é compreender as dificuldades e necessidades de três
 O público-alvo deste projeto é composto por três perfis principais relacionados ao setor da construção civil:
 ### Mestre de Obras:  
 Profissional responsável pela execução e supervisão das obras.
-Geralmente busca por novas oportunidades de trabalho e por meios de divulgar seus serviços de forma prática e acessível.
+Busca por novas oportunidades de trabalho e por meios de divulgar seus serviços de forma prática e acessível.
 
 ## Briefing com Cliente  
 ### Perfil dos clientes:
