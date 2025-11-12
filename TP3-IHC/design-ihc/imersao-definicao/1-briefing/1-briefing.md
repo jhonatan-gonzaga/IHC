@@ -14,7 +14,10 @@ Busca por novas oportunidades de trabalho e por meios de divulgar seus serviços
 Pessoa que precisa contratar profissionais para reformas, manutenções ou pequenas construções.
 Costuma ter pouco tempo e busca praticidade, confiança e bons preços na hora de contratar serviços.
 Enfrenta dificuldades em encontrar profissionais de qualidade de forma rápida.  
-### Dono de Material de Construção:
+### Dono de Material de Construção:  
+Empreendedor responsável por lojas que vendem materiais e ferramentas para construção.
+Busca formas de aumentar suas vendas e divulgar seus produtos para um público maior.
+Enfrenta desafios com a concorrência e a falta de divulgação online.
 
 ## Briefing com Cliente  
 ### Perfil dos clientes:
