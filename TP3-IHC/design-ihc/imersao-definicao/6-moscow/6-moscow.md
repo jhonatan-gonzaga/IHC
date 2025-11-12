@@ -5,6 +5,7 @@
   &nbsp;
 </div>
 
+![MoSCoW](https://github.com/user-attachments/assets/d3e987e0-4e08-4975-91e7-d40201c7b8d0)
 
 
 # Priorização de Requisitos (MoSCoW) Detalhada para o Projeto
