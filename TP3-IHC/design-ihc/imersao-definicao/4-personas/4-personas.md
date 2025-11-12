@@ -7,7 +7,7 @@ Persona do perfil de profissonal que pode atuar em qualquer área, como pintor o
 
 ## 4.1.1 Funcionalidades exclusiva da persona de Cliente
 
-- Cadstrar no aplicativo como "Profissional".
+- Cadastrar no aplicativo como "Cliente".
 - Ser notificado quando algum cliente anuncia algum tipo de trabalho.
 - Editar seu portifólio em seu perfil.
 - Aceitar propostas de anúncios de trabalho de clientes.
@@ -27,6 +27,7 @@ Persona do perfil do cliente, um contratante que pode contratar qualquer usuári
 - Visualizar perfis de profissionais.
 - Anunciar que está contratando profissionais para um determinado tipo de serviço (tipo de trabalho e descrição, opcionalmente foto).
 - Contratar um profissional para um serviço específico.
+- Acessar as lojas de materiais de construção.
 
 # 4.3 Persona de Suporte
 
@@ -42,13 +43,13 @@ Persona do perfil de suporte técnico. Ajuda todas as pessoas que forem utilizar
 - Trocar a forma de comunicação (Texto --> Chamada de áudio OU vice-versa).
 - Trocar o meio de comunicação (Whatsapp --> Aplicativo OU vice-versa).
   
-# 4.4 Persona de Dono
+# 4.4 Persona de Dono de loja de materiais de construção
 
 Persona do perfil de dono de uma loja de materiais. Busca no aplicativo uma forma mais fácil de vender seus produtos para um público interessado.
 
 <img width="5607" height="6167" alt="Eric drawio" src="https://github.com/user-attachments/assets/278ed959-e58f-462a-ae50-33ef9b4f2b51" />
 
-## 4.4.1 Funcionalidades exclusiva da persona de Dono
+## 4.4.1 Funcionalidades exclusiva da persona de Dono de loja de materiais de construção
 
 - Tipo de conta exclusiva para a persona.
 - Cadastrar a própria loja.
