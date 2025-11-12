@@ -9,7 +9,7 @@ Ele contém uma série de informações como: dados sobre a empresa, o mercado e
 - Dono de Material de Construção;   
 ### Realização do Briefing:  
 As reuniões podem ser presenciais ou onlines.  
-Durante o Briefing, algumas evidencia serão coletadas (fotos ou prints).
+Durante o Briefing, algumas evidencia serão coletadas como fotos ou prints.
 
 ## Mestre de Obras:
 ## Dono de Apartamento ou Kitnet:
