@@ -43,7 +43,6 @@ Durante o Briefing, algumas evidencia serão coletadas como fotos ou prints.
 
 
 ## Dono de Material de Construção:  
-### Erison Jones: Dono de Loja de Materiais de Construção
 ![Sem título (2)](https://github.com/user-attachments/assets/cd8e1662-d0d4-4c25-930d-7d721a5aab0e)
 
 
