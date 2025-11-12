@@ -35,21 +35,8 @@ As reuniões podem ser presenciais ou onlines.
 Durante o Briefing, algumas evidencia serão coletadas como fotos ou prints. 
 
 ## Pessoa Comum (Que já trabalhou na área de apartamento (kitnet, etc)): 
-### Ananda (Usuária Residencial)
+![Sem título](https://github.com/user-attachments/assets/e5fce8d0-c6a0-41be-865f-75dec7d4f41b)
 
-**ANANDA (USUÁRIA RESIDENCIAL)** – Moradora da cidade de Itacoatiara, responsável pela manutenção do próprio lar. Costuma lidar com pequenos reparos domésticos, como trocar resistência do chuveiro, consertar tomadas ou pintar paredes. Relatou dificuldade em encontrar **profissionais de confiança e disponíveis rapidamente**, dependendo muitas vezes de indicações de amigos e vizinhos. Valoriza **avaliações reais**, **agilidade** e **facilidade de uso** nas plataformas. Guarda contatos de prestadores no WhatsApp, mas sem organização, o que gera confusão. Busca uma solução simples e prática para encontrar bons profissionais e resolver problemas do dia a dia sem complicações.
-
-| **Campo** | **Descrição** |
-|------------|----------------|
-| **Funcionalidades Esperadas** | Um aplicativo simples e fácil de usar que permita encontrar **profissionais confiáveis** para pequenos reparos e manutenção doméstica. O usuário deve poder **anunciar o serviço** que precisa (ex: “trocar resistência do chuveiro”, “pintar uma parede”), **visualizar avaliações reais** de outros moradores da cidade e **entrar em contato direto com o profissional**, preferencialmente via **WhatsApp**. Deve permitir **definir valor e forma de pagamento** de modo prático e sem complicações. |
-| **Para quem?** | Usuários residenciais comuns da cidade (moradores, proprietários, inquilinos) que enfrentam dificuldades para encontrar profissionais de confiança e com agilidade. Também é útil para profissionais da construção, manutenção, eletricidade e pintura que queiram divulgar seus serviços com transparência. |
-| **Cenário** | Uso em **pequenos reparos domésticos frequentes**, como lâmpadas queimadas, tomadas com mau contato, torneiras pingando ou pintura de pequenas áreas. O usuário busca **agilidade e confiabilidade**, evitando ficar dias sem solução. |
-| **Problemas a Resolver** | Dificuldade em encontrar **profissionais confiáveis**, falta de **avaliações seguras**, **atendimentos demorados** e profissionais que **não cumprem compromissos**. Falta de organização dos contatos e insegurança quanto a preços justos. |
-| **Prioridades** | 1. **Confiança** baseada em avaliações reais e experiências locais.<br>2. **Agilidade** no atendimento e execução do serviço.<br>3. **Facilidade de uso**, com interface simples e comunicação direta via WhatsApp. |
-| **Fonte de Informação** | Contatos informais salvos no **WhatsApp**, com nomes genéricos (ex: “João Encanador”, “Eletricista da Rua 3”), sem organização nem histórico confiável das experiências anteriores. |
-| **Possíveis Integrações** | Integração direta com o **WhatsApp** para contato rápido com o profissional. Não requer funcionalidades complexas, como pagamento dentro do app ou cadastro extenso. Foco em **comunicação rápida e prática**. |
-| **Padrão Prévio** | Usuário acostumado com **aplicativos simples**, como WhatsApp e OLX. Prefere **interfaces limpas e diretas**, com poucos botões e informações claras para não se confundir. |
-| **Contato Técnico** | Usuária (cliente comum) disponível para esclarecimentos e validação de funcionalidades relacionadas à experiência de contratação e uso do aplicativo. |
 
 ## Mestre de Obras:  
 ### Sr. José: Mestre de Obras
