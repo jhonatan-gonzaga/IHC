@@ -3,7 +3,7 @@ Indo direto ao ponto, o briefing é um documento que servirá como um guia para 
 Ele contém uma série de informações como: dados sobre a empresa, o mercado em que ela atua, o público ao qual ela se direciona e os seus objetivos com o projeto. Assim, as equipes envolvidas terão um direcionamento mais claro para a realização dos seus trabalhos e planos de ação.
 
 ### Perfil dos clientes:
-- Pessoa Comum (Que já trabalhou na área de apartamento (kitnet, etc) );
+- Pessoa Comum (Que já trabalhou na área de apartamento (Qualquer pessoa que busca um profissional qualificado para realizar serviços ou projetos.) );
 - Mestre de Obras;   
 - Dono de Material de Construção;  
 ## Objetivo do Briefing neste trabalho  
