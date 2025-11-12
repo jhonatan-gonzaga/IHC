@@ -51,7 +51,33 @@ Durante o Briefing, algumas evidencia serão coletadas como fotos ou prints.
 | **Padrão Prévio** | Usuário acostumado com **aplicativos simples**, como WhatsApp e OLX. Prefere **interfaces limpas e diretas**, com poucos botões e informações claras para não se confundir. |
 | **Contato Técnico** | Usuária (cliente comum) disponível para esclarecimentos e validação de funcionalidades relacionadas à experiência de contratação e uso do aplicativo. |
 
-## Mestre de Obras:
+## Mestre de Obras:  
+### Sr. José: Mestre de Obras
+
+ Descrição do Entrevistado
+O Sr. José é pedreiro e mestre de obras em Itacoatiara, atuando de forma autônoma há muitos anos. Ele realiza obras de pequeno e médio porte e enfrenta períodos de inatividade entre os serviços. Durante a entrevista, destacou a importância de ter **maior visibilidade**, **acesso a novos clientes** e **facilidade na compra de materiais de construção**. Mostrou-se receptivo à ideia de um aplicativo que conecte profissionais da construção, lojistas e clientes, chamando atenção para a **simplicidade de uso** e **integração com o WhatsApp**.
+
+---
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Funcionalidades Esperadas** | O aplicativo deve permitir ao mestre de obras **criar um perfil profissional**, **publicar fotos das obras concluídas**, **receber orçamentos** e **entrar em contato com clientes**. Também deve incluir uma seção com **informações sobre lojas e promoções de materiais de construção**, ajudando o profissional a economizar tempo e dinheiro. |
+| **Para Quem?** | Destinado a **profissionais autônomos da construção civil** (pedreiros, pintores, eletricistas, serventes etc.), **clientes que desejam construir ou reformar**, e **lojistas de materiais de construção** que desejam anunciar seus produtos e promoções. |
+| **Cenário de Uso** | O profissional utiliza o aplicativo para ser encontrado por clientes e consultar onde comprar materiais. Exemplo: antes de iniciar uma reforma, o mestre de obras abre o app, encontra uma promoção em uma loja local e envia a lista de compras diretamente via WhatsApp. |
+| **Problemas a Resolver** | 1. **Inconstância de trabalho** – dificuldade de encontrar novos serviços.<br>2. **Falta de visibilidade e confiança** – ausência de um meio digital para divulgar serviços e avaliações.<br>3. **Tempo perdido com pesquisa de preços** – dificuldade em comparar valores de materiais em diferentes lojas. |
+| **Prioridades** | 1. **Facilidade para o cliente encontrar o profissional.**<br>2. **Interface simples e intuitiva, semelhante ao WhatsApp.**<br>3. **Sistema de avaliações e portfólio.** |
+| **Fontes de Informação** | Contato direto com profissionais em depósitos e lojas de materiais; sindicatos da categoria; SEBRAE local; comerciantes das principais avenidas da cidade. |
+| **Possíveis Integrações** | **WhatsApp** para contato direto entre cliente e profissional; **PIX** para pagamentos rápidos (ex: “Perfil Destaque”); integração futura com **Google Maps** para localizar obras e lojas próximas. |
+| **Padrão de Interface** | Aplicativo deve seguir a **simplicidade do WhatsApp**, com botões claros, textos grandes e menus diretos. Inspiração secundária em apps como o **Facebook** e o **aplicativo da Caixa Econômica Federal**. |
+| **Contato Técnico** | O Sr. José se colocou à disposição para futuras consultas sobre termos técnicos, etapas da obra e funcionamento do mercado local. |
+
+---
+
+### 💬 Citação do Entrevistado
+> “Se este aplicativo me trouxer serviço, já será excelente.  
+> E se ele for tão fácil quanto o WhatsApp, todos nós vamos usar.”  
+> — **Sr. José, mestre de obras em Itacoatiara**
+
 ## Dono de Material de Construção:
 
 
