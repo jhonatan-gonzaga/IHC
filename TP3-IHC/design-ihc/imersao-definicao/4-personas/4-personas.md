@@ -1,17 +1,18 @@
 
-# 4.1 Persona de Profissional
+# 4.1 Persona de Profissional (Acessibilidade)
 
-Persona do perfil de profissonal que pode atuar em qualquer área, como pintor ou eletricista. Busca trabalho de uma maneira mais facilitada no aplicativo e é contratado por clientes, que avaliam seu serviço.
+Persona do perfil de profissonal que pode atuar em qualquer área, como pintor ou eletricista. Busca trabalho de uma maneira mais facilitada no aplicativo e é contratado por clientes, que avaliam seu serviço. Também é a persona de acessibilidade. A acessibilidade consiste em fazer com que usuários com baixa visão consigam utilizar o aplicativo por meio da funcionalidade "text to speech", onde o profissional clica em funcionalidades, e uma voz lê para a pessoa.
 
 <img width="5607" height="6027" alt="JoãoPersona drawio" src="https://github.com/user-attachments/assets/f16775dc-a43e-44c5-b16b-5fc9a61b167d" />
 
-## 4.1.1 Funcionalidades exclusiva da persona de Cliente
+## 4.1.1 Funcionalidades exclusiva da persona de Profissional
 
-- Cadastrar no aplicativo como "Cliente".
+- Cadastrar no aplicativo como "Profissional".
 - Ser notificado quando algum cliente anuncia algum tipo de trabalho.
 - Editar seu portifólio em seu perfil.
 - Aceitar propostas de anúncios de trabalho de clientes.
 - Marcar trabalhos como concluído após finalalizar o serviço na qual foi contratado.
+- Funcionalidade "text to speech" em todas as partes exclusivas desta persona.
   
 # 4.2 Persona de Cliente
 
