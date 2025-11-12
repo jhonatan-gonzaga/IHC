@@ -10,7 +10,7 @@ O público-alvo deste projeto é composto por três perfis principais relacionad
 ### Mestre de Obras:  
 Profissional responsável pela execução e supervisão das obras.
 Busca por novas oportunidades de trabalho e por meios de divulgar seus serviços de forma prática e acessível. Tem dificuldade em encontrar clientes e em manter uma rotina estável de projetos.
-### 
+### Dono de Apartamento / Kitnet:
 
 ## Briefing com Cliente  
 ### Perfil dos clientes:
