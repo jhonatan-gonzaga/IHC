@@ -34,8 +34,8 @@ Enfrenta desafios com a concorrência e a falta de divulgação online.
 As reuniões podem ser presenciais ou onlines.  
 Durante o Briefing, algumas evidencia serão coletadas como fotos ou prints.
 
-## Mestre de Obras:
 ## Dono de Apartamento ou Kitnet:
+## Mestre de Obras:
 ## Dono de Material de Construção:
 
 
