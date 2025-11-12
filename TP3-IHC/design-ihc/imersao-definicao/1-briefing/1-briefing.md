@@ -32,7 +32,7 @@ Enfrenta desafios com a concorrência e a falta de divulgação online.
  
 ### Realização do Briefing:  
 As reuniões podem ser presenciais ou onlines.  
-Durante o Briefing, algumas evidencia serão coletadas como fotos ou prints.
+Durante o Briefing, algumas evidencia serão coletadas como fotos ou prints. 
 
 ## Dono de Apartamento ou Kitnet:  
 |Briefing com o Cliente – Ananda (Usuária Residencial)|
