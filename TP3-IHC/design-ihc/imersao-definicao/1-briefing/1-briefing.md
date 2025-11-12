@@ -13,7 +13,8 @@ Busca por novas oportunidades de trabalho e por meios de divulgar seus serviços
 ### Dono de Apartamento / Kitnet:
 Pessoa que precisa contratar profissionais para reformas, manutenções ou pequenas construções.
 Costuma ter pouco tempo e busca praticidade, confiança e bons preços na hora de contratar serviços.
-Enfrenta dificuldades em encontrar profissionais de qualidade de forma rápida.
+Enfrenta dificuldades em encontrar profissionais de qualidade de forma rápida.  
+### Dono de Material de Construção:
 
 ## Briefing com Cliente  
 ### Perfil dos clientes:
