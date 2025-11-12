@@ -11,7 +11,7 @@ O objetivo deste briefing é compreender as dificuldades e necessidades de três
 
 ## Público Alvo:  
 O público-alvo deste projeto é composto por três perfis principais relacionados ao setor da construção civil:
-### Pessoa Comum (Que já trabalhou na área de Apartamento):  
+### Pessoa Comum (qualquer pessoa que busca um profissional qualificado para realizar serviços ou projetos.):  
 Moradora que costuma lidar com pequenos reparos domésticos, como conserto de torneiras, tomadas e pintura.
 Enfrenta dificuldades para encontrar profissionais de confiança e disponíveis rapidamente.
 Costuma buscar indicações com amigos ou vizinhos, mas nem sempre tem sucesso, o que gera insegurança e atrasos.
