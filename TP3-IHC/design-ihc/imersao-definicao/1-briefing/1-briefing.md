@@ -36,6 +36,9 @@ Durante o Briefing, algumas evidencia serão coletadas como fotos ou prints.
 
 ## Pessoa Comum (Que já trabalhou na área de apartamento (kitnet, etc)): 
 ![Sem título](https://github.com/user-attachments/assets/e5fce8d0-c6a0-41be-865f-75dec7d4f41b)
+Evidencia:  
+<img width="375" height="833" alt="image" src="https://github.com/user-attachments/assets/efd2e853-73fe-44b9-8401-7e28079d3ba2" />
+
 
 
 ## Mestre de Obras:  
