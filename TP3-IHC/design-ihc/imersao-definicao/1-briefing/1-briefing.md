@@ -12,8 +12,13 @@ O objetivo deste briefing é compreender as dificuldades e necessidades de três
 
 ## Público Alvo:  
 O público-alvo deste projeto é composto por três perfis principais relacionados ao setor da construção civil:
-### Pessoa Comum:  
-
+### Pessoa Comum (Que já trabalhou na área de Apartamento):  
+Moradora que costuma lidar com pequenos reparos domésticos, como conserto de torneiras, tomadas e pintura.
+Enfrenta dificuldades para encontrar profissionais de confiança e disponíveis rapidamente.
+Costuma buscar indicações com amigos ou vizinhos, mas nem sempre tem sucesso, o que gera insegurança e atrasos.
+Guarda contatos no WhatsApp de forma desorganizada, o que dificulta lembrar quem prestou um bom serviço.
+Deseja um aplicativo simples e intuitivo, onde possa encontrar profissionais avaliados por outros moradores, anunciar serviços, e entrar em contato direto pelo WhatsApp.
+Valoriza confiança, agilidade e facilidade de uso acima de qualquer outro fator.
 ### Mestre de Obras:  
 Profissional responsável pela execução e supervisão das obras.
 Busca por novas oportunidades de trabalho e por meios de divulgar seus serviços de forma prática e acessível. Tem dificuldade em encontrar clientes e em manter uma rotina estável de projetos.
