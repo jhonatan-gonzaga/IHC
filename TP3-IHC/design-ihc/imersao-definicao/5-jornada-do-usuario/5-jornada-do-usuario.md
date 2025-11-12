@@ -38,7 +38,7 @@ Finalmente, após o Cliente registrar a nota, o App utiliza essa avaliação e a
 
 <img width="5607" height="6027" alt="JoãoPersona drawio" src="https://github.com/user-attachments/assets/c55e936b-fdc2-4c47-9260-28dab52757f6" />
 
-## Entar na Plataforma -> Flucxo Padrão
+## Entar na Plataforma -> Fluxo Padrão
 
 Ao abrir o aplicativo pela primeira vez, Ana faz um cadastro simples (login social ou número de telefone), garantindo segurança e autenticando o acesso às funções principais. Após inserir os dados necessários, um código de verificação é enviado e validado pelo seu dispositivo (Gatilho de acesso). O processo é ágil para não criar barreiras; uma vez cadastrada, Ana pode imediatamente anunciar serviços ou buscar profissionais disponíveis.
 
@@ -58,7 +58,7 @@ Imediatamente, o App libera o botão "WhatsApp/Ligar" no perfil do João, permit
 
 Após o acordo (preço e data) ser fechado verbalmente pelo WhatsApp, o profissional retorna ao App e clica em "Acordo Fechado! Iniciar Serviço" (Gatilho de Acordo). O sistema notifica Ana para confirmação do início do serviço. Ana então confirma no App, validando formalmente o trabalho. O Status permanece em Andamento enquanto o serviço é realizado.
 
-## Buca por Materiais
+## Busca por Materiais
 
 Após negociar com o profissional e receber a lista dos insumos, usa a guia "Onde Comprar" para cotar e comprar os produtos.
 
@@ -76,3 +76,52 @@ Se essa condição for marcada:
 - Caso Ana não tenha buscado ou separado materiais ainda, ela seguirá o fluxo padrão: após negociar com o profissional e receber a lista dos insumos, usa a guia "Onde Comprar" para cotar e comprar os produtos.
 
 Essa inteligência de fluxo facilita a rotina de usuárias ocupadas, tornando todo o processo ainda mais ágil e evitando passos desnecessários.
+
+# 5.3 Jornada Suporte
+
+<img width="5607" height="6027" alt="JoãoPersona drawio" src="https://github.com/user-attachments/assets/3e57ddf4-9489-44a5-b289-2f1ad73ecd7d" />
+
+## Pedido de Suporte
+
+Primeiro ele precisa receber uma notificação de que alguém quer suporte no aplicativo.
+
+## Logar Conta Suporte
+
+Depois, ele realmente entra no aplicativo para falar com a pessoa por meio de uma conta específica de suporte. Não é um aplicativo a parte, é na verdade um tipo de conta.
+
+## Inicialização do Suporte e Forma de Contato
+
+Depois, o suporte técnico estabelece qual é a melhor forma de comunicação, se o cliente quer que seja em formato de texto, ou se quer em chamada de áudio, ou se quer que seja por whatsapp ou no próprio aplicativo da empresa.
+
+## Compreensão e Ajuda
+
+Depois o suporte compreende e ajudo o cliente.
+
+## Registro de Suporte
+
+Na sexta etapa, ele precisa fazer registro de que teve uma pessoa que precisou de suporte com X, levou Y tempo, teve Z níveis de satisfação, etc. Pra isso, seria meio que necessário ter algum tipo de registro no aplicativo para que a pessoa possa registrar isso daí.
+
+# 5.4 Jornada Dono de Loja
+
+<img width="5607" height="6027" alt="JoãoPersona drawio" src="https://github.com/user-attachments/assets/01036c19-ac60-4d1a-877b-9833420a2dff" />
+
+## Entrar no Aplicativo
+
+Ao iniciar o uso do aplicativo, Erison realiza o cadastro da sua loja, inserindo informações básicas como nome, endereço, telefone e horário de funcionamento. Esse primeiro contato deve ser simples e intuitivo, transmitindo confiança e evitando formulários longos.
+
+## Casdastrar e Atualizar Produtos
+
+Em seguida, ele passa à etapa de cadastro e atualização dos produtos, onde adiciona fotos, preços e descrições de forma rápida e visual. Essa funcionalidade é essencial para manter o catálogo sempre atualizado e atrativo aos clientes.
+
+## Divulgação
+
+Depois disso, Erison utiliza a função de divulgar promoções, destacando produtos em oferta ou novidades diretamente no app. Essa etapa desperta entusiasmo, pois ele consegue promover os itens sem depender das redes sociais tradicionais.
+
+## Atendimento ao Cliente
+
+Com o catálogo e as promoções disponíveis, o próximo passo é o atendimento aos clientes, que ocorre por meio de mensagens integradas ou via botão direto para o WhatsApp. Esse momento traz praticidade e centraliza o contato em um único ambiente digital.
+
+## Avaliação
+
+Por fim, Erison acessa a seção de acompanhamento de vendas e feedbacks, onde visualiza o histórico de pedidos e as avaliações dos clientes. Essa última etapa gera satisfação e sentimento de progresso, já que o app facilita o controle das vendas e o relacionamento com o público.
+
