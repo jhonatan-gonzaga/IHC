@@ -14,10 +14,7 @@ O público-alvo deste projeto é composto por três perfis principais relacionad
 ### Mestre de Obras:  
 Profissional responsável pela execução e supervisão das obras.
 Busca por novas oportunidades de trabalho e por meios de divulgar seus serviços de forma prática e acessível. Tem dificuldade em encontrar clientes e em manter uma rotina estável de projetos.
-### Dono de Apartamento / Kitnet:
-Pessoa que precisa contratar profissionais para reformas, manutenções ou pequenas construções.
-Costuma ter pouco tempo e busca praticidade, confiança e bons preços na hora de contratar serviços.
-Enfrenta dificuldades em encontrar profissionais de qualidade de forma rápida.  
+
 ### Dono de Material de Construção:  
 Empreendedor responsável por lojas que vendem materiais e ferramentas para construção.
 Busca formas de aumentar suas vendas e divulgar seus produtos para um público maior.
