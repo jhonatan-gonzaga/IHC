@@ -4,6 +4,9 @@ Ele contém uma série de informações como: dados sobre a empresa, o mercado e
 
 ## Objetivo do Briefing neste trabalho  
 O objetivo deste briefing é compreender as dificuldades e necessidades de três tipos de clientes — mestre de obras, donos de apartamento/kitnet e donos de material de construção — a fim de definir soluções e funcionalidades que possam ser incluídas em um aplicativo que conecte profissionais, fornecedores e clientes.
+
+## Público Alvo: 
+
 ## Briefing com Cliente  
 ### Perfil dos clientes:
 - Mestre de Obras;  
