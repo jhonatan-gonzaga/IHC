@@ -11,7 +11,7 @@ Persona do perfil de profissonal que pode atuar em qualquer área, como pintor o
 - Ser notificado quando algum cliente anuncia algum tipo de trabalho.
 - Editar seu portifólio em seu perfil.
 - Aceitar propostas de anúncios de trabalho de clientes.
-- Marcar trabalhos como concluído após finalalizar o serviço na qual foi contratado.
+- Marcar trabalhos como concluído após finalizar o serviço na qual foi contratado.
 - Funcionalidade "text to speech" em todas as partes exclusivas desta persona (Acessibilidade).
   
 # 4.2 Persona de Cliente
@@ -61,3 +61,4 @@ Persona do perfil de dono de uma loja de materiais. Busca no aplicativo uma form
     - Exibir informações da loja (horário de atendimento, telefone, endereço, etc.).
     - Cadastrar/atualizar produtos próprios
     - Visualizar o histórico de pedidos bem como as avaliações dos clientes.
+    - Ter a capacidade de colocar promoções em itens da loja.
