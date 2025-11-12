@@ -77,6 +77,31 @@ O Sr. José é pedreiro e mestre de obras em Itacoatiara, atuando de forma autô
 > E se ele for tão fácil quanto o WhatsApp, todos nós vamos usar.”  
 > — **Sr. José, mestre de obras em Itacoatiara**
 
-## Dono de Material de Construção:
+## Dono de Material de Construção:  
+### Erison Jones: Dono de Loja de Materiais de Construção
+
+Erison Jones é proprietário da **Thalyta Material de Construção**, localizada no bairro São Francisco, em Itacoatiara. Atua há mais de 10 anos no ramo e possui ampla experiência no comércio de produtos de construção. Ele utiliza **WhatsApp e Facebook** como principais meios de divulgação, e reconhece a importância de ferramentas digitais que facilitem a comunicação com clientes e pedreiros. Durante a entrevista, mostrou interesse em um **aplicativo simples e funcional** para gerenciar produtos, promoções e contato direto com os consumidores.
+
+---
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Funcionalidades Esperadas** | Um aplicativo com **catálogo de produtos** (fotos, preços e descrições), **área de promoções**, **botão de contato direto via WhatsApp**, **localização da loja**, e **horário de funcionamento**. O sistema deve permitir que o lojista atualize os produtos **sem depender de suporte técnico**. |
+| **Para Quem?** | Voltado a **lojistas de materiais de construção**, **clientes** que desejam comprar produtos e **profissionais da área** (pedreiros, pintores, eletricistas etc.) que buscam ofertas e fornecedores locais. |
+| **Cenário de Uso** | O lojista atualiza o catálogo com promoções e produtos novos, enquanto o cliente acessa o aplicativo para comparar preços e entrar em contato via WhatsApp. Exemplo: o cliente visualiza uma oferta de cimento e envia mensagem direta para a loja pelo app. |
+| **Problemas a Resolver** | 1. **Divulgação limitada** — dificuldade em alcançar novos clientes além dos grupos de WhatsApp.<br>2. **Falta de centralização** — produtos e promoções espalhados em várias redes sociais.<br>3. **Atualização manual** — necessidade de um sistema simples para editar preços e adicionar produtos rapidamente. |
+| **Prioridades** | 1. **Facilidade de uso**, mesmo para usuários sem conhecimento técnico.<br>2. **Integração com WhatsApp** para atendimento rápido.<br>3. **Organização do catálogo** em um único ambiente digital. |
+| **Fontes de Informação** | Dados fornecidos pelo próprio lojista, listas de produtos das lojas locais, observação de promoções publicadas em redes sociais e visitas a comércios do setor. |
+| **Possíveis Integrações** | **WhatsApp** para contato direto; **Google Maps** para exibir a localização da loja; possibilidade de integração futura com **PIX** para pagamentos rápidos. |
+| **Padrão de Interface** | Interface visual semelhante ao **WhatsApp** e **Facebook Marketplace**, com botões grandes, textos claros e sistema intuitivo de atualização de produtos e promoções. |
+| **Contato Técnico** | O Sr. Erison se colocou à disposição para colaborar futuramente, oferecendo informações sobre o funcionamento do comércio local e o perfil dos clientes de Itacoatiara. |
+
+---
+
+### 💬 Citação do Entrevistado
+> “Se tivesse um aplicativo que deixasse tudo organizado num só lugar — produtos, preços e promoções — seria ótimo.  
+> O cliente podia olhar direto, sem precisar ficar perguntando o tempo todo.”  
+> — **Erison Jones, dono da Thalyta Material de Construção**
+
 
 
