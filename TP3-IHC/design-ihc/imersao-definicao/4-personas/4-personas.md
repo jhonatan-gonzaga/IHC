@@ -5,14 +5,14 @@ Persona do perfil de profissonal que pode atuar em qualquer área, como pintor o
 
 <img width="5607" height="6027" alt="JoãoPersona drawio" src="https://github.com/user-attachments/assets/f16775dc-a43e-44c5-b16b-5fc9a61b167d" />
 
-## 4.1.1 Funcionalidades exclusiva da persona de Profissional
+## 4.1.1 Funcionalidades exclusiva da persona de Profissional (Acessibilidade)
 
 - Cadastrar no aplicativo como "Profissional".
 - Ser notificado quando algum cliente anuncia algum tipo de trabalho.
 - Editar seu portifólio em seu perfil.
 - Aceitar propostas de anúncios de trabalho de clientes.
 - Marcar trabalhos como concluído após finalalizar o serviço na qual foi contratado.
-- Funcionalidade "text to speech" em todas as partes exclusivas desta persona.
+- Funcionalidade "text to speech" em todas as partes exclusivas desta persona (Acessibilidade).
   
 # 4.2 Persona de Cliente
 
