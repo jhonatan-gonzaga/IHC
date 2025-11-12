@@ -37,19 +37,19 @@ Durante o Briefing, algumas evidencia serão coletadas como fotos ou prints.
 ## Pessoa Comum (Que já trabalhou na área de apartamento (kitnet, etc)): 
 ![Sem título](https://github.com/user-attachments/assets/e5fce8d0-c6a0-41be-865f-75dec7d4f41b)
 ### Evidencia:  
-<img width="375" height="833" alt="image" src="https://github.com/user-attachments/assets/efd2e853-73fe-44b9-8401-7e28079d3ba2" />
+<img width="290" height="600" alt="image" src="https://github.com/user-attachments/assets/efd2e853-73fe-44b9-8401-7e28079d3ba2" />
 
  
 ## Mestre de Obras:  
 ![Sem título (1)](https://github.com/user-attachments/assets/21ffe917-106f-428a-9565-504be55a796f)
 ### Evidencia:
-<img width="790" height="1599" alt="image" src="https://github.com/user-attachments/assets/bff0ca76-ef93-4f94-8c75-e9f5c60b68ab" />
+<img width="290" height="600" alt="image" src="https://github.com/user-attachments/assets/bff0ca76-ef93-4f94-8c75-e9f5c60b68ab" />
 
 
 ## Dono de Material de Construção:  
 ![Sem título (2)](https://github.com/user-attachments/assets/cd8e1662-d0d4-4c25-930d-7d721a5aab0e)
 ### Evidencia:
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/08b82e96-b3f2-4e45-ae85-b5d59ad20993" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/08b82e96-b3f2-4e45-ae85-b5d59ad20993" />
 
 
 
