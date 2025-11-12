@@ -1,4 +1,5 @@
-## Briefing com Cliente
+## Briefing com Cliente  
+Oque é o Briefing?
 ### Perfil dos clientes:
 - Mestre de Obras;  
 - Dono de Apartamento (kitnet, etc);  
