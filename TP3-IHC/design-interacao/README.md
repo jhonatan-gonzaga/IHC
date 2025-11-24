@@ -16,10 +16,4 @@
 ## Docente
 - Andrey Antonio de Oliveira Rodrigues
 
-## Distribuição das tarefas
-
-<div align="center">
-  <h1>Sumário</h1>
-</div>
-
 </div>
