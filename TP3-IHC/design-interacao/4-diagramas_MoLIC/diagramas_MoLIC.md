@@ -3,7 +3,7 @@
 # Cadastro de Usuário 
 Modela o diálogo inicial de onboarding do usuário. O fluxo detalha a interação de entrada via número de telefone, a verificação de identidade por código SMS e a etapa de decisão onde o usuário seleciona seu tipo de perfil (Cliente, Profissional ou Loja) para concluir o registro.
 
-<img width="16384" height="7532" alt="molic: Cadastro de Usuário" src="https://github.com/user-attachments/assets/786512d4-eae1-4c10-84dd-eaa5129a5973" />
+<img width="16384" height="7528" alt="molic: Cadastro de Usuário" src="https://github.com/user-attachments/assets/887cfa41-dfaa-46f6-a769-c15b4f745aa7" />
 
 # Gerenciar Perfil Profissional 
 Representa a interação do prestador de serviços com seu próprio perfil. O diagrama mostra a navegação central para editar dados pessoais, o fluxo para adicionar ou remover fotos do portfólio e a visualização das avaliações recebidas.
