@@ -1,3 +1,5 @@
+<div align="justify">
+
 # Metamensagem do Sistema Conecta Obra Itacoatiara
 
 **[1]** **Caros moradores de Itacoatiara, profissionais da construção e lojistas de materiais.**
@@ -32,3 +34,5 @@ O objetivo é que o Conecta Obra Itacoatiara seja a solução para impulsionar a
 
 * **[4] Formas de utilizar a solução:**
     * **Descrição Correta para Conecta Obra:** Detalha como as diferentes personas devem interagir com o sistema para atingir seus objetivos, destacando a lógica de monetização (Perfil Destaque, Parceiro Destaque) e o canal de comunicação principal (WhatsApp/PIX).
+
+<div/>
