@@ -106,6 +106,8 @@ Input de Mensagem: Localizado na base da tela, com placeholder “Informar mensa
 Ações Complementares: Ícone de microfone permite entrada por voz, enquanto o botão de envio destacado garante rapidez no envio da mensagem, favorecendo comunicações dinâmicas.
 
 
-### 4. Usabilidade A disposição dos elementos prioriza o uso com uma mão, comum em dispositivos móveis, e assegura que a comunicação ocorra de maneira fluida, intuitiva e sem barreiras cognitivas.
+### 4. Usabilidade 
+
+A disposição dos elementos prioriza o uso com uma mão, comum em dispositivos móveis, e assegura que a comunicação ocorra de maneira fluida, intuitiva e sem barreiras cognitivas.
 
 
