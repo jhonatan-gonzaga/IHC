@@ -14,14 +14,13 @@ Nesta seção, detalhamos como o design da interface do Conecta Obra Itacoatiara
 </p>
 </p>
 
-| Heurística de Nielsen                             | Localização na Interface           | Justificativa do Uso                                                                                                                                                                                                                                                           |
-| ------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| #1 Visibilidade do estado do sistema              | Abas Superiores e Cards de Serviço | O sistema informa proativamente sobre novas demandas através do badge numérico "2" na aba "Novos Pedidos". Nos cards, o uso de etiquetas coloridas ("Concluído" em verde, "Em Andamento" em azul) comunica o status atual do trabalho sem necessidade de clique.               |
-| #2 Correspondência entre o sistema e o mundo real | Botões e Ícones de Navegação       | O botão "falar no WhatsApp" utiliza o nome e a logomarca do aplicativo real que o profissional usa para comunicação diária. O ícone de Martelo na barra inferior conecta-se metaforicamente ao conceito de "trabalho/obra" no mundo físico.                                    |
-| #3 Controle e liberdade do usuário                | Botões de Decisão e Navegação      | O botão "Recusar" (contorno vermelho) oferece uma saída clara para o profissional que não pode aceitar um serviço, dando-lhe controle sobre sua agenda. O botão "voltar" no topo permite retornar à navegação anterior a qualquer momento.                                     |
-| #4 Consistência e Padrões                         | Botões de Ação (Cards)             | Há uma consistência visual rigorosa: ações primárias/positivas ("Aceitar", "falar no WhatsApp") são sempre botões sólidos na cor da marca. Ações secundárias/negativas ("Recusar", "Finalizar") são sempre botões de contorno (outlined), mantendo o padrão mental do usuário. |
-| #6 Reconhecimento em vez de memorização           | Metadados do Card                  | O uso de ícones universais (Pin para localização, Calendário para data) permite que o usuário reconheça o tipo de dado visualmente, reduzindo a carga cognitiva de ler rótulos repetitivos como "Local:" ou "Data:".                                                           |
-| #8 Estética e design minimalista                  | Layout Geral                       | A interface exibe apenas o essencial para a tomada de decisão (Título, Local, Data), com amplo uso de espaço em branco e agrupamento lógico em cards, evitando ruído visual que distraia o profissional.                                                                       |
+| Heurística de Nielsen                   | Localização na Interface    | Justificativa do Uso                                                                                                                                                                                            |
+| --------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #3 Controle e liberdade do usuário      | Topo e Base da Tela         | O usuário tem múltiplas rotas de saída: um botão "voltar" (seta), um botão "X" (fechar) no cabeçalho e um botão "Cancelar" na base, permitindo abandonar a tarefa sem erros.                                    |
+| #4 Consistência e Padrões               | Botões de Ação              | A hierarquia visual é clara: o botão "Adicionar" (ação final) segue o padrão da marca (fundo vermelho), enquanto "Cancelar" é apenas contornado. Os ícones de Câmera e Galeria seguem padrões universais de UI. |
+| #6 Reconhecimento em vez de memorização | Botões de Categoria (Chips) | O uso de etiquetas selecionáveis ("Construção", "Elétrica", "Pintura") evita que o usuário precise lembrar ou digitar manualmente a categoria do serviço, reduzindo a carga cognitiva.                          |
+| #7 Flexibilidade e eficiência de uso    | Campo de Detalhes           | A presença do ícone de microfone dentro do campo de texto oferece um atalho para entrada de voz (Speech-to-Text), permitindo descrições mais ricas com menos esforço físico.                                    |
+| #8 Estética e design minimalista        | Layout Geral                | O formulário é segmentado em blocos lógicos (Mídia > Dados Básicos > Categoria > Detalhes), com amplo espaçamento, evitando a sensação de "formulário burocrático".                                             |
 
 ---
 
@@ -42,3 +41,94 @@ Nesta seção, detalhamos como o design da interface do Conecta Obra Itacoatiara
 
   -  O Badge numérico (2) na aba superior é um signo universal de notificação, indicando "quantidade de itens pendentes de atenção".
 
+---
+  ## Telas de Meu Projetos 
+<p float="left">
+<p align="center">
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/c0dc771c-8fdd-4093-a186-0a2d20f86329" />
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/673e4107-6531-4c62-ae32-04593f8dde0b" />
+</p>
+</p>
+A tabela abaixo mapeia a aplicação das heurísticas fundamentais de usabilidade nas telas desenvolvidas.
+
+| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
+| :--- | :--- | :--- |
+| **#1 Visibilidade do estado do sistema** | Abas de Pedidos e Cards de Serviço | O sistema utiliza **badges numéricos** (ex: "2") para alertar sobre novas oportunidades e **etiquetas coloridas** ("Concluído", "Em Andamento") para indicar o status do serviço em tempo real. |
+| **#2 Correspondência entre o sistema e o mundo real** | Botões e Ícones | O botão **"falar no WhatsApp"** utiliza a terminologia e marca familiar ao usuário. A seleção de mídia usa uma metáfora clara de **Câmera** (foto instantânea) vs **Quadro** (galeria). |
+| **#3 Controle e liberdade do usuário** | Navegação e Formulários | O usuário possui saídas claras: botão **"Recusar"** para declinar pedidos, botões de **"Editar/Excluir"** (ícones de lápis/lixeira) no portfólio e botão **"Cancelar"** em formulários. |
+| **#4 Consistência e Padrões** | Botões de Ação (CTA) | Existe um padrão visual rigoroso: ações primárias ("Aceitar", "Adicionar") são botões sólidos na cor da marca (Vermelho/Terracota). Ações secundárias ("Recusar", "Cancelar") são botões de contorno (*outlined*). |
+| **#6 Reconhecimento em vez de memorização** | Lista de Projetos e Pedidos | O uso de ícones universais (Pin de mapa, Calendário) elimina a necessidade de ler rótulos repetitivos. No portfólio, a foto da obra é o elemento principal de reconhecimento. |
+| **#7 Flexibilidade e eficiência de uso** | Formulário de Projeto | O campo de descrição inclui um ícone de **microfone**, permitindo entrada de dados por voz (*Speech-to-Text*), agilizando o preenchimento para usuários em movimento. |
+
+
+## Análise de UX/UI: Usabilidade, Comunicabilidade e Coerência
+
+### Usabilidade e Comunicabilidade
+A interface foi projetada para reduzir a carga cognitiva. Na tela de "Novos Pedidos", apenas as informações essenciais para a tomada de decisão (Título, Bairro e Data) são exibidas, evitando ruído visual. No cadastro de projetos, a hierarquia visual guia o usuário: o botão **"Tirar foto Agora"** é significativamente maior e mais colorido que as outras opções, comunicando a preferência do sistema pelo registro imediato e autêntico da obra.
+
+### Coerência Visual
+A identidade visual é mantida através da repetição consistente de componentes:
+* **Cards:** Todos os itens de lista (pedidos ou projetos) utilizam o mesmo contêiner com bordas arredondadas e sombra sutil.
+* **Cores:** A cor primária (Terracota #B84B55 aprox.) é usada exclusivamente para elementos interativos ativos e ícones de destaque.
+
+
+##  Acessibilidade e Inclusão
+
+O design considera as limitações contextuais e físicas do público-alvo:
+
+* **Tamanho de Toque:** Botões críticos como "Aceitar", "Recusar" e "Tirar Foto" ocupam toda a largura do contêiner e possuem altura generosa (>48dp), facilitando o acionamento por usuários com dificuldades motoras ou dedos largos.
+* **Entrada Multimodal:** A opção de **ditado por voz** no formulário de projetos remove a barreira da digitação para usuários com baixo letramento digital.
+* **Independência de Cor:** Os status de serviço utilizam cores (Verde/Azul), mas são sempre acompanhados de rótulos de texto ("Concluído"/"Em Andamento"), garantindo que daltônicos compreendam a informação.
+* **Seleção Simplificada:** O uso de *Chips* (botões de tag) para selecionar categorias ("Construção", "Elétrica") evita erros de ortografia e reduz o esforço motor de digitação.
+
+##  Signos Metalinguísticos
+
+Elementos visuais que reforçam a comunicação e fornecem feedback instantâneo:
+
+* **Ícones Semânticos:**
+    *  **Badge Numérico (2):** Signo universal de notificação/pendência.
+    *  **Logo WhatsApp:** Significa "Comunicação externa" (saída do app).
+    *  **Câmera:** Significa "Captura de imagem".
+    *  **Lápis /  Lixeira:** Signos padrão para "Editar" e "Destruir" conteúdo.
+* **Feedback de Navegação:** Na barra inferior (*Bottom Bar*), o ícone ativo (ex: Martelo ou Prancheta) torna-se preenchido e colorido, enquanto os inativos permanecem em linha cinza, indicando visualmente a localização do usuário na arquitetura do app.
+
+---
+## Tela de Perfil do Profissional
+
+ <p align="center">
+   <img width="413" height="1328" alt="image" src="https://github.com/user-attachments/assets/f5fa3599-929c-4170-8770-d7c4e0bb325f" />
+</p>
+
+| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
+| :--- | :--- | :--- |
+| **#3 Controle e liberdade do usuário** | Topo e Base da Tela | O usuário tem múltiplas rotas de saída: um botão "voltar" (seta), um botão "X" (fechar) no cabeçalho e um botão "Cancelar" na base, permitindo abandonar a tarefa sem erros. |
+| **#4 Consistência e Padrões** | Botões de Ação | A hierarquia visual é clara: o botão "Adicionar" (ação final) segue o padrão da marca (fundo vermelho), enquanto "Cancelar" é apenas contornado. Os ícones de Câmera e Galeria seguem padrões universais de UI. |
+| **#6 Reconhecimento em vez de memorização** | Botões de Categoria (Chips) | O uso de etiquetas selecionáveis ("Construção", "Elétrica", "Pintura") evita que o usuário precise lembrar ou digitar manualmente a categoria do serviço, reduzindo a carga cognitiva. |
+| **#7 Flexibilidade e eficiência de uso** | Campo de Detalhes | A presença do ícone de microfone dentro do campo de texto oferece um atalho para entrada de voz (*Speech-to-Text*), permitindo descrições mais ricas com menos esforço físico. |
+| **#8 Estética e design minimalista** | Layout Geral | O formulário é segmentado em blocos lógicos (Mídia > Dados Básicos > Categoria > Detalhes), com amplo espaçamento, evitando a sensação de "formulário burocrático". |
+
+## Análise de UX/UI
+Usabilidade e Hierarquia Visual
+O design utiliza a Lei de Fitts ao maximizar a área de toque do botão "Tirar foto Agora". Ele é significativamente maior e mais colorido que o botão de "Galeria", guiando o usuário para a ação preferencial do sistema: documentar a obra em tempo real para garantir autenticidade.
+
+## Comunicabilidade
+A interface utiliza perguntas diretas e informais ("Toque no que você fez:", "Em qual Bairro?") em vez de rótulos técnicos ("Categoria", "Localização"), adequando a linguagem ao perfil do usuário e tornando a interação mais conversacional.
+
+##  Acessibilidade
+- Tamanho de Toque: O botão principal de câmera ocupa quase 25% da área útil da tela, facilitando o acionamento por usuários em movimento ou utilizando luvas de proteção.
+- Entrada Multimodal: O suporte a ditado por voz (microfone) remove barreiras para usuários com dificuldades de letramento ou limitações motoras finas para digitação em teclados virtuais pequenos.
+
+- Contraste: Os botões de ação principal (Vermelho com texto Branco) possuem alto contraste, garantindo legibilidade.
+
+##  Signos Metalinguísticos
+Elementos visuais que comunicam função sem depender de texto:
+
+- Ícone de Câmera: Signo universal para "Captura de imagem imediata".
+
+- Ícone de Quadro: Signo para "Arquivo de imagem / Galeria".
+
+- Ícone de Microfone: Signo metalinguístico que instrui: "Você pode falar aqui em vez de digitar".
+
+- Ícone X: Signo de cancelamento/fechamento de modal.
+
+---
