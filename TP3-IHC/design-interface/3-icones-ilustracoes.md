@@ -15,3 +15,5 @@ Semanticamente, a identidade traduz os valores de conexão, confiança e funcion
 
 A paleta cromática em tom vermelho terroso foi selecionada por sua associação com materiais de construção, energia e ação, além de favorecer destaque visual e fácil reconhecimento em ambientes digitais.
 
+### Cor, Forma e Tipografia:
+A cor vermelho terroso foi escolhida por sua associação com materiais da construção civil, transmitindo solidez, energia e ação. As formas geométricas simplificadas, como os blocos e a casa, facilitam o reconhecimento visual e representam, respectivamente, a estrutura e o resultado final da obra. A tipografia sem serifa, clara e objetiva, reforça a proposta de acessibilidade, modernidade e facilidade de uso da plataforma.
