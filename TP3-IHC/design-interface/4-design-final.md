@@ -61,8 +61,49 @@ A tela de edição de perfil consolida a gestão de identidade e reputação em 
 2. Formulário de Dados Profissionais: A edição de informações utiliza componentes visuais interativos para agilizar o preenchimento. A seleção de "Especialidades" (ex: Pedreiro, Pintor) e "Disponibilidade" (dias da semana) é feita através de botões de alternância (toggle chips e botões circulares), onde o usuário apenas toca para ativar ou desativar, eliminando a necessidade de listas suspensas complexas ou digitação.
 3. Definição de Valor e Horário: Campos numéricos simples definem o intervalo de horário de trabalho ("Das" / "Até") e o "Valor da Diária", finalizando com um botão de ação persistente "Salvar Perfil" na base da tela.
 
-## Tela da Caixa de Mensagem
+## Tela da Caixa de Mensagem e CHAT entre Lojista e Clientes
 <img width="234" height="519" alt="image" src="https://github.com/user-attachments/assets/ecadb73c-3c33-4505-aca0-7a9d34513567" />
 <img width="237" height="521" alt="image" src="https://github.com/user-attachments/assets/d101f585-0b34-468e-84ab-fc0069b5da3b" />
+
+## Tela de Caixa de Mensagens
+
+A tela de Caixa de Mensagens foi projetada para oferecer uma visão clara e imediata das conversas ativas, priorizando rapidez de acesso e simplicidade visual.
+
+### 1. Estrutura e Navegação
+
+Cabeçalho (Header): Localizado no topo, apresenta o título “Caixa de Mensagem” em destaque, acompanhado de um botão de retorno (seta à esquerda), garantindo orientação espacial ao usuário dentro do fluxo do aplicativo.
+Lista de Conversas: O conteúdo principal é organizado em uma lista vertical limpa, com cada conversa representada por um item único. No estado atual, a conversa com “Cliente” aparece como elemento prioritário.
+Barra de Navegação Inferior: Mantém consistência com o restante do aplicativo, apresentando os ícones de Chat, Caixa (ativo) e Loja, reforçando a hierarquia e continuidade da navegação global.
+
+### 2. Design do Item de Conversa 
+
+Avatar do Usuário: Um ícone circular com silhueta padrão identifica visualmente o interlocutor.
+Nome e Ação: O nome “Cliente” aparece em tipografia de maior peso, acompanhado do texto auxiliar “Toque para conversar”, orientando claramente a ação esperada.
+Indicador de Mensagens Não Lidas: Um badge numérico discreto sinaliza a existência de novas mensagens, chamando atenção sem gerar poluição visual.
+
+
+### 3. Experiência do Usuário A tela funciona como um ponto de entrada direto para a comunicação, reduzindo fricção e permitindo que o profissional acesse rapidamente solicitações ou atualizações importantes.
+
+## Tela de Chat (Conversa Ativa)
+
+A tela de Chat individual foca na comunicação direta e contínua entre o profissional e o cliente, com ênfase na legibilidade e na facilidade de interação.
+
+### 1. Estrutura Geral
+
+Cabeçalho: Exibe o título “CHAT” de forma centralizada, com botão de retorno à esquerda, mantendo consistência com o padrão de navegação do aplicativo.
+Identificação do Interlocutor: Logo abaixo do cabeçalho, o avatar e o nome “Cliente” reforçam visualmente com quem a conversa está sendo realizada, evitando ambiguidades.
+
+### 2. Área de Conversação
+
+Plano de Fundo Suave: O fundo em tom claro e neutro reduz distrações e favorece a leitura das mensagens.
+Fluxo Vertical: As mensagens são organizadas em um fluxo vertical natural, preparado para crescimento conforme a conversa evolui.
+
+### 3. Campo de Entrada e Ações
+
+Input de Mensagem: Localizado na base da tela, com placeholder “Informar mensagem…”, claramente indicando o local de interação.
+Ações Complementares: Ícone de microfone permite entrada por voz, enquanto o botão de envio destacado garante rapidez no envio da mensagem, favorecendo comunicações dinâmicas.
+
+
+### 4. Usabilidade A disposição dos elementos prioriza o uso com uma mão, comum em dispositivos móveis, e assegura que a comunicação ocorra de maneira fluida, intuitiva e sem barreiras cognitivas.
 
 
