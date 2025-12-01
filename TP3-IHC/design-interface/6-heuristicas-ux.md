@@ -135,7 +135,7 @@ Elementos visuais que comunicam função sem depender de texto:
 
 # Telas de Caixa de Mensagem e CHAT entre Logista e Clientes
 
-<img width="234" height="519" alt="image" src="https://github.com/user-attachments/assets/ecadb73c-3c33-4505-aca0-7a9d34513567" />
+<img width="233" height="521" alt="image" src="https://github.com/user-attachments/assets/b03c05d7-8715-4dd1-9149-55d128420b83" />
 <img width="237" height="521" alt="image" src="https://github.com/user-attachments/assets/d101f585-0b34-468e-84ab-fc0069b5da3b" />
 
 ## Tela de Caixa de Mensagens — Avaliação por Heurísticas de Nielsen
