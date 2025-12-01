@@ -60,3 +60,5 @@ A tela de edição de perfil consolida a gestão de identidade e reputação em 
 1. Gestão de Imagem e Reputação: O topo apresenta a foto de perfil em destaque com um botão de edição direta. Logo abaixo, um cartão de destaque exibe a nota média (4.0) e as estrelas de avaliação, seguido por uma lista horizontal (carousel) de "Avaliações Recentes", permitindo que o profissional leia e responda ao feedback de clientes sem sair da tela de edição.
 2. Formulário de Dados Profissionais: A edição de informações utiliza componentes visuais interativos para agilizar o preenchimento. A seleção de "Especialidades" (ex: Pedreiro, Pintor) e "Disponibilidade" (dias da semana) é feita através de botões de alternância (toggle chips e botões circulares), onde o usuário apenas toca para ativar ou desativar, eliminando a necessidade de listas suspensas complexas ou digitação.
 3. Definição de Valor e Horário: Campos numéricos simples definem o intervalo de horário de trabalho ("Das" / "Até") e o "Valor da Diária", finalizando com um botão de ação persistente "Salvar Perfil" na base da tela.
+
+## Tela da Caixa de Mensagem
