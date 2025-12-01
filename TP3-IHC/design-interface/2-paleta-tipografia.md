@@ -1,1 +1,32 @@
+# PALETA DE CORES
+
+## PALETA 1: VERMELHO
+
+A paleta 1 consiste em tons de vermelho, juntamente com preto e branco, para o texto e o fundo respectivamente. Com isso, temos muito contraste e por consequência, muita legibilidade do texto preto com o fundo branco. Também temos o cinza, a cor das bordas de botões.
+
+<img width="3132" height="800" alt="paleta1" src="https://github.com/user-attachments/assets/78016075-49ff-4983-ba95-a57455070766" />
+
+
+O vermelho não contrasta muito bem com o branco e o preto, tendo 4.93 : 1 e 4,25 : 1, respectivamente. Porém, o vermelho não será utilizado em fundos pretos, e o texto em vermelho será sempre negrito quando for em um fundo branco, que aumente mais a sua legibilidade.
+
+
+O vermelho tijolo remete a construções, mais especificamente ao tijolo, que é muito relacionado ao nosso aplicativo, que será usado por profissionais autônomos que trabalham muito com esse material.
+O vermelho não é tão forte a ponto de ser o vermelho que transmite insegurança, ou erro. Ao invés disso, o vermelho, nesse contexto, remete a energia e movimento, ambos muito presentes no ramo dos profissionais do nosso aplicativo.
+
+
+No final, a paleta escolhida foi a vermelha, a primeira paleta.
+## PALETA 2: VERDE
+
+A segunda paleta tem como principal cor o verde. O cinza, o branco e o preto têm as mesmas funções da primeira paleta. O verde transmite a sensação de segurança, o que é bom quando a proposta do aplicativo inclui uma maior segurança e consistência de trabalho de profissionais autônomos.
+
+<img width="3132" height="800" alt="paleta2" src="https://github.com/user-attachments/assets/162be04e-60ae-439f-8f92-ec3e1b335f33" />
+
+O verde também transmite a sensação de dinheiro, além da de “certo” ou “correto”. Os dois significados também são muito bons, já que nosso aplicativo trabalha com serviços, que inclui dinheiro. Além de transmitir ao usuário, seja ele trabalhador ou cliente, que está no caminho correto.
+
+# TIPOGRAFIA
+
+Como tipografia, escolhemos open sans para o corpo do texto, e open sans novamente, porém com extra negrito para títulos do aplicativo. Isso se deve ao fato da cor ser amigável para pessoas com dislexia, ao mesmo tempo que existe muito espaço entre as letras para que uma pessoa desacostumada com tecnologia possa ler facilmente. Assim, é perfeito para os usuários do nosso aplicativo, já que a maioria não utiliza aplicativos com frequência. Foi utilizado o site Google Fonts para encontrar tal fonte.
+
+
+Texto de exemplo da fonte “Open Sans” no site de Google Fonts.
 
