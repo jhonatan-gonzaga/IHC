@@ -1,5 +1,8 @@
 # PALETA DE CORES
 
+A paleta de cores de um aplicativo é algo muito importante, e, como consequência, é preciso ter muito cuidado também. É a partir das cores que um aplicativo forma sua indentidade para as outras pessoas.
+Assim, é preciso escolher várias cores, sendo que elas pdoem ser constrastantes, semelhantes, ou tríades. No caso do nosso aplicativo, as cores são semelhantes. Foram feitas duas paletas, uma com cores majoritariamente vermelhas e outra com cores majoritariamente verdes. No final, foi feito uma votação para decidir a paleta que todos os membros iriam utilizar ao fazer as telas do aplicativo.
+
 ## PALETA 1: VERMELHO
 
 A paleta 1 consiste em tons de vermelho, juntamente com preto e branco, com preto sendo usado para a cor da fonte. O branco é utilizado para o fundo de botões ou caixa de texto. Também temos o cinza, a cor das bordas de botões, ou do texto em caixas de texto.
