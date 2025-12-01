@@ -2,6 +2,6 @@
 ### Conecta Obras Itacoatiara:
 Aplicativo voltado para conectar clientes, lojas e profissionais na area de construção.
 
-###Logotipo: 
+### Logotipo: 
 
 
