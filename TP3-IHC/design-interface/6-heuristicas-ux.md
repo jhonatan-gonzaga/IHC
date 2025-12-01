@@ -137,3 +137,60 @@ Elementos visuais que comunicam função sem depender de texto:
 
 <img width="234" height="519" alt="image" src="https://github.com/user-attachments/assets/ecadb73c-3c33-4505-aca0-7a9d34513567" />
 <img width="237" height="521" alt="image" src="https://github.com/user-attachments/assets/d101f585-0b34-468e-84ab-fc0069b5da3b" />
+
+## Tela de Caixa de Mensagens — Avaliação por Heurísticas de Nielsen
+
+| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
+| :--- | :--- | :--- |
+| **#1 Visibilidade do status do sistema** | Lista de Conversas | O badge numérico de mensagens não lidas informa imediatamente ao usuário que há novas interações pendentes, mantendo-o ciente do estado atual do sistema. |
+| **#3 Controle e liberdade do usuário** | Cabeçalho | O botão de voltar (seta à esquerda) possibilita que o usuário abandone a tela a qualquer momento, sem consequências negativas ou perda de progresso. |
+| **#4 Consistência e padrões** | Barra de Navegação Inferior | Os ícones e sua disposição seguem o mesmo padrão visual e funcional das demais telas do aplicativo, reduzindo a necessidade de reaprendizado. |
+| **#6 Reconhecimento em vez de memorização** | Item de Conversa | O texto “Toque para conversar” explicita a ação possível, evitando que o usuário tenha de lembrar como iniciar uma conversa. |
+| **#8 Estética e design minimalista** | Layout Geral | A tela apresenta apenas os elementos essenciais (conversa, avatar e navegação), eliminando ruídos visuais e facilitando a leitura e tomada de decisão. |
+
+### Análise de UX/UI — Caixa de Mensagens
+
+#### Usabilidade e Hierarquia Visual
+A hierarquia é clara e direta: o nome do contato aparece em maior destaque, seguido pelo texto de apoio e pelo indicador de mensagens. Isso permite que o usuário identifique rapidamente onde deve interagir, sem esforço cognitivo adicional.
+
+#### Comunicabilidade
+A interface utiliza linguagem simples e orientada à ação (“Toque para conversar”), comunicando de forma explícita a possibilidade de interação e reduzindo ambiguidades quanto à função da tela.
+
+#### Acessibilidade
+- **Área de toque:** O item de conversa ocupa uma faixa horizontal ampla, facilitando o toque preciso.  
+- **Contraste:** O uso de tons mais escuros para o nome e indicadores garante boa legibilidade sobre o fundo claro.
+
+#### Signos Metalinguísticos
+- **Avatar circular:** Signo universal de representação de usuário/pessoa.  
+- **Badge numérico:** Signo visual imediato para “há algo novo aqui”.  
+- **Ícone de chat na barra inferior:** Representação clara do contexto atual da navegação.
+
+---
+
+## Tela de Chat (Conversa Ativa) — Avaliação por Heurísticas de Nielsen
+
+| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
+| :--- | :--- | :--- |
+| **#1 Visibilidade do status do sistema** | Cabeçalho e Identificação do Contato | O nome “Cliente” e o avatar no topo deixam claro com quem o usuário está conversando no momento. |
+| **#2 Correspondência entre o sistema e o mundo real** | Estrutura da Conversa | A disposição vertical das mensagens segue o modelo mental comum de aplicativos de mensagens do cotidiano. |
+| **#3 Controle e liberdade do usuário** | Botão de Voltar e Campo de Entrada | O usuário pode sair da conversa a qualquer momento e escolher entre digitar, usar voz ou não enviar a mensagem. |
+| **#4 Consistência e padrões** | Campo de Mensagem e Ícones | Os elementos visuais seguem padrões amplamente reconhecidos em aplicativos de chat. |
+| **#6 Reconhecimento em vez de memorização** | Placeholder do Input | O texto “Informar mensagem…” orienta claramente o usuário sobre o que deve ser feito. |
+| **#8 Estética e design minimalista** | Tela como um todo | O uso de fundo neutro e poucos elementos visuais mantém o foco total na comunicação. |
+
+### Análise de UX/UI — Chat
+
+#### Usabilidade e Hierarquia Visual
+A posição fixa do campo de entrada na base da tela respeita a ergonomia do uso móvel, reduzindo deslocamentos e priorizando interações rápidas.
+
+#### Comunicabilidade
+A interface comunica suas funções por meio de ícones e textos curtos, eliminando a necessidade de instruções adicionais.
+
+#### Acessibilidade
+- **Entrada multimodal:** Presença de microfone para ditado por voz, reduzindo barreiras de digitação.  
+- **Elementos amplos:** Facilita o uso em telas pequenas ou em contextos de mobilidade.
+
+#### Signos Metalinguísticos
+- **Ícone de Microfone:** Indica entrada por voz.  
+- **Ícone de Enviar:** Representa a ação de despachar a mensagem.  
+- **Seta de Voltar:** Signo universal de retorno de navegação.
