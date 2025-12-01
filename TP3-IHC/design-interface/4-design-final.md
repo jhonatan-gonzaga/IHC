@@ -62,7 +62,7 @@ A tela de edição de perfil consolida a gestão de identidade e reputação em 
 3. Definição de Valor e Horário: Campos numéricos simples definem o intervalo de horário de trabalho ("Das" / "Até") e o "Valor da Diária", finalizando com um botão de ação persistente "Salvar Perfil" na base da tela.
 
 ## Tela da Caixa de Mensagem e CHAT entre Lojista e Clientes
-<img width="234" height="519" alt="image" src="https://github.com/user-attachments/assets/ecadb73c-3c33-4505-aca0-7a9d34513567" />
+<img width="233" height="521" alt="image" src="https://github.com/user-attachments/assets/19e8ba04-e6b9-404d-835f-dcd6a9759563" />
 <img width="237" height="521" alt="image" src="https://github.com/user-attachments/assets/d101f585-0b34-468e-84ab-fc0069b5da3b" />
 
 ## Tela de Caixa de Mensagens
