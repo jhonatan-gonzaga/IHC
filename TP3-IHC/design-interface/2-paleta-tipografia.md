@@ -1,2 +1,4 @@
 ## Nome e Logotipo: 
-O nome do nosso aplicativo é: **Conecta Obras Itacoatiara**
+### Conecta Obras Itacoatiara
+
+A logotipo do nosso aplica
