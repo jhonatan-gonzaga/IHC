@@ -82,7 +82,9 @@ Nome e Ação: O nome “Cliente” aparece em tipografia de maior peso, acompan
 Indicador de Mensagens Não Lidas: Um badge numérico discreto sinaliza a existência de novas mensagens, chamando atenção sem gerar poluição visual.
 
 
-### 3. Experiência do Usuário A tela funciona como um ponto de entrada direto para a comunicação, reduzindo fricção e permitindo que o profissional acesse rapidamente solicitações ou atualizações importantes.
+### 3. Experiência do Usuário 
+
+A tela funciona como um ponto de entrada direto para a comunicação, reduzindo fricção e permitindo que o profissional acesse rapidamente solicitações ou atualizações importantes.
 
 ## Tela de Chat (Conversa Ativa)
 
