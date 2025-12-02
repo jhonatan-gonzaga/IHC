@@ -140,6 +140,39 @@ Elementos visuais que comunicam função sem depender de texto:
 <img width="233" height="521" alt="image" src="https://github.com/user-attachments/assets/b03c05d7-8715-4dd1-9149-55d128420b83" />
 <img width="237" height="521" alt="image" src="https://github.com/user-attachments/assets/d101f585-0b34-468e-84ab-fc0069b5da3b" />
 
+# Tela do Lojista
+
+## Tela o Perfil da Loja
+| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
+| :--- | :--- | :--- |
+| **#1 Visibilidade do status do sistema** |Painel Geral | A tela oferece um resumo imediato da "saúde" da loja: dados de contato visíveis, prévia do estoque e promoções ativas. O usuário não precisa adivinhar o que está online; a interface mostra explicitamente o que o cliente final vê. |
+| **#4 Consistência e Padrões** | Botões e Cards | Segue o padrão estabelecido no restante do app: botões de ação primária em vermelho/terracota ("+ Adicionar", "Editar Perfil") e cartões brancos com sombra suave para agrupar conteúdo. A barra de navegação inferior mantém a consistência de navegação global. |
+| **#7 Flexibilidade e eficiência de uso** | Botões "Lista +" | Para usuários frequentes (lojistas), o sistema oferece atalhos de navegação. Ao invés de forçar o usuário a rolar infinitamente por todos os produtos nesta tela principal, o botão "Lista +" atua como um acelerador para ver o inventário completo apenas quando necessário. |
+| **#8 Estética e design minimalista** | Segmentação por Blocos | A interface combate a sobrecarga de informação dividindo o conteúdo em três blocos lógicos e isolados visualmente: "Informações", "Catálogo" e "Promoções". Isso permite que o cérebro processe uma categoria de dados por vez.|
+| **#2 Correspondência com o mundo real** | Ícones de Contato | O uso de metáforas visuais (Relógio para horário, Telefone para contato, Pin para endereço) mapeia objetos do mundo real para dados digitais, permitindo leitura rápida sem a necessidade de rótulos de texto explicativos ("Endereço:", "Telefone:"). |
+
+## Usabilidade, Comunicabilidade e Coerência Visual
+- Usabilidade (Arquitetura de Informação): A tela funciona como um Hub de Navegação. A hierarquia visual prioriza a "Identidade" (topo), seguida pelo "Core Business" (Catálogo) e "Estratégia de Venda" (Promoções). O botão "Editar Perfil" é destacado no topo, garantindo que a manutenção da conta seja uma ação de primeiro nível, fácil de encontrar.
+
+- Comunicabilidade (Síntese): A interface utiliza o princípio da Divulgação Progressiva (Progressive Disclosure). Ao mostrar apenas os primeiros itens de cada lista (Produto A, Produto B) e oferecer um botão "Lista +", o sistema comunica que "há mais conteúdo aqui", mantendo a tela inicial limpa e carregando rápido, sem sobrecarregar o usuário com dados excessivos de imediato.
+
+- Coerência Visual: A paleta de cores (fundo rosa claro, cartões brancos, elementos vermelhos) cria uma atmosfera de marca forte. A repetição do estilo dos botões "+ Adicionar Produto" e "+ Adicionar Promoção" cria uma simetria visual que torna a interface previsível e agradável.
+
+## Considerações de Acessibilidade
+- Agrupamento Semântico: Para leitores de tela, a estrutura de cabeçalhos (H1, H2) está clara ("Informações da Loja", "Catálogo", "Promoções"). Isso permite que usuários com deficiência visual saltem diretamente para a seção de interesse sem ouvir todo o conteúdo anterior.
+
+- Identificação de Ícones: É crucial que os ícones do bloco "Informações" (Relógio, Pin, Telefone) possuam etiquetas aria-label ou descrições alternativas no código, pois não há texto visível dizendo "Telefone" ao lado do número, confiando puramente na interpretação visual do ícone.
+
+- Contraste: O texto cinza escuro/preto sobre fundo branco nos cartões oferece excelente legibilidade. Os botões de ação (vermelhos) com texto branco passam nos testes de contraste WCAG AA, garantindo leitura sob diversas condições de iluminação.
+
+## Evidências de Signos Metalinguísticos
+- O ícone de Lápis no botão "Editar Perfil" é um signo universal de modificação.
+
+- O ícone de Carrinho de Compras na aba inferior ("Loja") indica o contexto atual do usuário (Visão do Lojista).
+
+- O ícone de Caixa Registradora na aba inferior ("Caixa") sugere o local onde as transações financeiras ocorrem.
+
+
 ## Tela de Caixa de Mensagens — Avaliação por Heurísticas de Nielsen
 
 | Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
