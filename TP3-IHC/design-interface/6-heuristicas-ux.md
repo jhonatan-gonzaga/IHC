@@ -14,13 +14,13 @@ Nesta seção, detalhamos como o design da interface do Conecta Obra Itacoatiara
 </p>
 </p>
 
-| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
-| :--- | :--- | :--- |
-| **#1 Visibilidade do estado do sistema** | **Tela: Novos Pedidos** e **Meus Serviços** | O **badge numérico "2"** na aba superior informa claramente quantas pendências existem. Nos cards, as etiquetas coloridas (**Verde** para "Concluído", **Azul** para "Em Andamento") mostram o status exato do serviço sem a necessidade de abrir detalhes. |
-| **#2 Correspondência entre o sistema e o mundo real** | **Tela: Meus Serviços** | O botão **"falar no WhatsApp"** utiliza o ícone e o nome oficial do aplicativo, conectando a interface à ferramenta de comunicação real que o profissional já utiliza no dia a dia. |
-| **#3 Controle e liberdade do usuário** | **Tela: Novos Pedidos** | O sistema oferece um botão **"Recusar"** claro e acessível nos cards de pedido, permitindo que o profissional tenha controle total para declinar trabalhos que não deseja ou não pode realizar. |
-| **#4 Consistência e Padrões** | **Todas as Telas de Pedidos** | Há um padrão visual rigoroso para botões: ações positivas/primárias ("Aceitar", "Salvar") são sempre **vermelhas e sólidas**. Ações negativas/secundárias ("Recusar", "Finalizar") são sempre **brancas com contorno**, facilitando a decisão rápida. |
-| **#6 Reconhecimento em vez de memorização** | **Tela: Novos Pedidos** | O uso de ícones universais nos cards (📍 **Pin** para localização e 📅 **Calendário** para data) permite que o usuário identifique o tipo de informação visualmente, sem precisar ler rótulos de texto repetitivos como "Endereço:" ou "Data:". |
+| Heurística de Nielsen                   | Localização na Interface    | Justificativa do Uso                                                                                                                                                                                            |
+| --------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #3 Controle e liberdade do usuário      | Topo e Base da Tela         | O usuário tem múltiplas rotas de saída: um botão "voltar" (seta), um botão "X" (fechar) no cabeçalho e um botão "Cancelar" na base, permitindo abandonar a tarefa sem erros.                                    |
+| #4 Consistência e Padrões               | Botões de Ação              | A hierarquia visual é clara: o botão "Adicionar" (ação final) segue o padrão da marca (fundo vermelho), enquanto "Cancelar" é apenas contornado. Os ícones de Câmera e Galeria seguem padrões universais de UI. |
+| #6 Reconhecimento em vez de memorização | Botões de Categoria (Chips) | O uso de etiquetas selecionáveis ("Construção", "Elétrica", "Pintura") evita que o usuário precise lembrar ou digitar manualmente a categoria do serviço, reduzindo a carga cognitiva.                          |
+| #7 Flexibilidade e eficiência de uso    | Campo de Detalhes           | A presença do ícone de microfone dentro do campo de texto oferece um atalho para entrada de voz (Speech-to-Text), permitindo descrições mais ricas com menos esforço físico.                                    |
+| #8 Estética e design minimalista        | Layout Geral                | O formulário é segmentado em blocos lógicos (Mídia > Dados Básicos > Categoria > Detalhes), com amplo espaçamento, evitando a sensação de "formulário burocrático".                                             |
 
 ---
 
@@ -132,147 +132,8 @@ Elementos visuais que comunicam função sem depender de texto:
 - Ícone X: Signo de cancelamento/fechamento de modal.
 
 ---
-#  Telas para a Persona Lojista
 
-## Tela do Perfil Loja
-
-<p align="center">
-   <img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/2d15e453-8439-465f-ab25-ece42befb61c" />
-</p>
-
-| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
-| :--- | :--- | :--- |
-| **#1 Visibilidade do status do sistema** | Painel Geral | A tela oferece um resumo imediato da "saúde" da loja: dados de contato visíveis, prévia do estoque e promoções ativas. O usuário não precisa adivinhar o que está online; a interface mostra explicitamente o que o cliente final vê. |
-| **#4 Consistência e Padrões** | Botões e Cards | Segue o padrão estabelecido no restante do app: botões de ação primária em vermelho/terracota ("+ Adicionar", "Editar Perfil") e cartões brancos com sombra suave para agrupar conteúdo. A barra de navegação inferior mantém a consistência de navegação global. |
-| **#7 Flexibilidade e eficiência de uso** | Botões "Lista +" | Para usuários frequentes (lojistas), o sistema oferece atalhos de navegação. Ao invés de forçar o usuário a rolar infinitamente por todos os produtos nesta tela principal, o botão "Lista +" atua como um acelerador para ver o inventário completo apenas quando necessário. |
-| **#8 Estética e design minimalista** | Segmentação por Blocos | A interface combate a sobrecarga de informação dividindo o conteúdo em três blocos lógicos e isolados visualmente: "Informações", "Catálogo" e "Promoções". Isso permite que o cérebro processe uma categoria de dados por vez. |
-| **#2 Correspondência com o mundo real** | Ícones de Contato | O uso de metáforas visuais (Relógio para horário, Telefone para contato, Pin para endereço) mapeia objetos do mundo real para dados digitais, permitindo leitura rápida sem a necessidade de rótulos de texto explicativos ("Endereço:", "Telefone:"). |
-
-## Análise de UX/UI: Usabilidade, Comunicabilidade e Coerência
-- Usabilidade (Arquitetura de Informação): A tela funciona como um Hub de Navegação. A hierarquia visual prioriza a "Identidade" (topo), seguida pelo "Core Business" (Catálogo) e "Estratégia de Venda" (Promoções). O botão "Editar Perfil" é destacado no topo, garantindo que a manutenção da conta seja uma ação de primeiro nível, fácil de encontrar.
-- Comunicabilidade (Síntese): A interface utiliza o princípio da Divulgação Progressiva (Progressive Disclosure). Ao mostrar apenas os primeiros itens de cada lista (Produto A, Produto B) e oferecer um botão "Lista +", o sistema comunica que "há mais conteúdo aqui", mantendo a tela inicial limpa e carregando rápido, sem sobrecarregar o usuário com dados excessivos de imediato.
-- A coerência visual é mantida pelo reuso estrito de componentes. O botão de ação primária (Adicionar/Salvar) sempre utiliza a cor sólida da marca (vermelho/terracota) e ocupa a largura total na base da tela, criando um padrão mental de "finalização de tarefa" consistente em todo o aplicativo.
--Coerência Visual: A paleta de cores (fundo rosa claro, cartões brancos, elementos vermelhos) cria uma atmosfera de marca forte. A repetição do estilo dos botões "+ Adicionar Produto" e "+ Adicionar Promoção" cria uma simetria visual que torna a interface previsível e agradável.
-
-## Acessibilidade
-- Agrupamento Semântico: Para leitores de tela, a estrutura de cabeçalhos (H1, H2) está clara ("Informações da Loja", "Catálogo", "Promoções"). Isso permite que usuários com deficiência visual saltem diretamente para a seção de interesse sem ouvir todo o conteúdo anterior.
-- Identificação de Ícones: É crucial que os ícones do bloco "Informações" (Relógio, Pin, Telefone) possuam etiquetas aria-label ou descrições alternativas no código, pois não há texto visível dizendo "Telefone" ao lado do número, confiando puramente na interpretação visual do ícone.
-- Contraste: O texto cinza escuro/preto sobre fundo branco nos cartões oferece excelente legibilidade. Os botões de ação (vermelhos) com texto branco passam nos testes de contraste WCAG AA, garantindo leitura sob diversas condições de iluminação.
-
-## Metalinguísticos
-- Ícones como Linguagem:
-  - O ícone de Lápis no botão "Editar Perfil" é um signo universal de modificação.
-  - O ícone de Carrinho de Compras na aba inferior ("Loja") indica o contexto atual do usuário (Visão do Lojista).
-  - O ícone de Caixa Registradora na aba inferior ("Caixa") sugere o local onde as transações financeiras ocorrem.
-- Cores de Status:
-  - O uso da cor vermelha nos botões de "Adicionar" sinaliza proatividade e inclusão de dados.
-  - A cor de fundo suave (rosa claro) atua como um "espaço negativo" passivo, que empurra o conteúdo (cartões brancos) para o primeiro plano da atenção do usuário.
-- Disposição Espacial: A colocação das "Informações da Loja" no topo absoluto reflete a importância da identidade corporativa — é a "fachada" digital da loja, a primeira coisa que deve ser vista, assim como no mundo físico.
-
-## Tela de Lista Catálogo e Lista Promoção
-
-<p float="left">
-<p align="center">
-<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/6e7106c6-5f4e-4651-8f90-acf4601a70c7" />
-<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/160b727a-3fbb-4f31-b47d-35ea88fb3268" />
-</p>
-</p>
-
-| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
-| :--- | :--- | :--- |
-| **#2 Correspondência com o mundo real** | Placeholders e Símbolos (R$ / %) | O sistema adota a linguagem nativa do varejo. Ao exibir "R$" para produtos e "%" para promoções como texto de exemplo, a interface conecta-se ao modelo mental do lojista: cadastro de estoque é valor monetário, oferta é valor percentual. |
-| **#4 Consistência e Padrões** | Espelhamento de Layout | Os formulários são estruturalmente idênticos. A manutenção rígida da grade (Grid) — "Nome" no topo, variáveis numéricas no meio, "Detalhes" abaixo — garante previsibilidade. O usuário aprende o fluxo uma vez e o aplica em ambos os cenários com carga cognitiva mínima. |
-| **#5 Prevenção de erros** | Restrição Visual de Campos | A separação explícita entre o campo de valor ("Preço" ou "Promoção") e o de "Quantidade", dispostos lado a lado, sugere visualmente a entrada de dados numéricos curtos, induzindo o usuário ao formato correto antes mesmo da digitação. |
-| **#6 Reconhecimento em vez de memorização** | Rótulos (Labels) Estáticos | A interface mantém os rótulos ("Nome Produto", "Preço") visíveis acima dos campos o tempo todo, evitando o padrão de floating labels que somem ao digitar. Isso permite a revisão dos dados a qualquer momento sem esforço de memória. |
-| **#8 Estética e design minimalista** | Área de Texto Limpa | O campo "Detalhes" é apresentado como uma área ampla e livre de ruídos visuais, focando inteiramente na redação das especificações técnicas do produto. |
-
-## Análise de UX/UI: Usabilidade, Comunicabilidade e Coerência
-- Usabilidade (Eficiência de Input): O layout aplica o princípio de agrupamento (Gestalt) na linha central. Ao posicionar as variáveis críticas ("Preço/Promoção" e "Quantidade") lado a lado, o design otimiza o espaço vertical, evitando a rolagem excessiva e mantendo o botão de ação "Adicionar" acessível na primeira dobra da tela (above the fold) na maioria dos dispositivos.
-- Comunicabilidade (Contexto Semântico): A interface comunica a mudança de contexto de forma sutil, mas vital. Embora visualmente semelhantes, a troca do rótulo e do placeholder altera o significado do dado:
-  - Tela Produto: Comunica "Definição de Valor" (R$).
-  - Tela Promoção: Comunica "Estratégia de Desconto" (%). Essa distinção semântica previne que o lojista cadastre acidentalmente um desconto de "90" como se fosse um preço de "R$ 90".
-- Coerência Visual: A identidade visual é preservada através do sistema de design: campos com bordas arredondadas e sombras suaves, tipografia consistente e o botão de ação primária em vermelho sólido, alinhado com o restante do aplicativo (Login, Perfil).
-
-## Acessibilidade
-- Lei de Fitts (Alvos de Toque): Os campos de input possuem altura generosa (padrão >48dp), facilitando a seleção precisa. O botão "Adicionar", ocupando largura isolada no rodapé, oferece um alvo de toque fácil e seguro, reduzindo erros motores.
-- Contraste e Legibilidade: O texto de placeholder ("Digite o nome...", "R$ 0") utiliza um cinza que garante contraste suficiente para leitura, mas se diferencia claramente do texto preto de entrada final, indicando o estado de "campo vazio".
-- Navegação Sequencial: A ordem lógica dos campos (Topo → Baixo, Esquerda → Direita) favorece a navegação por tecnologias assistivas (leitores de tela) e teclados, seguindo o fluxo natural de leitura.
-
-## Metalinguísticos
-- Simbologia Instrucional:
-  - O símbolo "R$" funciona como um signo imperativo: "Insira moeda corrente".
-  -O símbolo "%" funciona como um alerta matemático: "Insira uma fração de desconto".
-- Cor Semântica de Ação: A cor do botão "Adicionar" (Vermelho/Terracota) carrega o significado de "Commit" (Gravação/Comprometimento). Ela sinaliza que aquela interação resultará em uma alteração permanente no banco de dados, distinguindo-se de ações de navegação neutras.
-- Ícone de Cabeçalho: O ícone de "Caixa" (Product Box) ao lado do título reforça visualmente o contexto operacional da tela: gestão de estoque físico.
-
-## Tela de Adicionar Produto e Adicionar Promção
-
-<p float="left">
-<p align="center">
-<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/d983555a-0cb3-4beb-a81d-96a88a1e1278" />
-<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/e30f6e15-489b-4a68-8afa-4ba94e24fa7a" />
-</p>
-</p>
-
-| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
-| :--- | :--- | :--- |
-| **#2 Correspondência com o mundo real** | Placeholders (R$ 0 / % 0) | O sistema fala a linguagem do lojista: ao exibir "R$" para produtos e "%" para promoções dentro do campo de input, a interface reforça o modelo mental de varejo, onde o cadastro padrão é monetário e a oferta é relativa (desconto percentual). |
-| **#4 Consistência e Padrões** | Estrutura dos Formulários | Os dois formulários são espelhos um do outro. A manutenção da mesma grade (Grid) e posicionamento dos campos garante que o usuário não perca tempo reaprendendo a interface ao mudar de tarefa. |
-| **#5 Prevenção de erros** | Restrições de Input (Implícito) | A separação visual clara entre "Preço" e "Quantidade" lado a lado, com placeholders numéricos ("0"), sugere ao usuário o tipo de teclado que deve ser aberto (numérico vs. alfanumérico), prevenindo a inserção de texto em campos de cálculo. |
-| **#6 Reconhecimento em vez de memorização** | Labels (Rótulos) Externos | Os rótulos ("Nome Produto", "Detalhes") estão posicionados permanentemente fora dos campos de digitação. Isso garante que, mesmo após o usuário começar a digitar (e o placeholder sumir), ele ainda saiba a que se refere aquele campo, sem precisar apagar o texto para lembrar. |
-| **#8 Estética e design minimalista** | Área de "Detalhes" | O campo de descrição é amplo e limpo, sem ícones desnecessários ou formatação complexa, focando totalmente no conteúdo textual que descreve o item. |
-
-## Análise de UX/UI: Usabilidade, Comunicabilidade e Coerência
-- Usabilidade (Eficiência de Preenchimento): O design adota o agrupamento lógico (Gestalt) na linha intermediária dos formulários. Ao colocar as variáveis numéricas curtas ("Preço/Promoção" e "Quantidade") lado a lado, o sistema otimiza o espaço vertical da tela e reduz a necessidade de rolagem (scroll), permitindo que o botão de ação "Adicionar" esteja visível sem esforço na maioria dos dispositivos.
-- Comunicabilidade (Contexto da Ação): A distinção entre as telas é comunicada sutilmente, mas de forma eficaz, pela adaptação do primeiro campo numérico.
-  - Em Produto, o campo comunica "Valor Monetário" (R$).
-  - Em Promoção, o campo comunica "Fator de Desconto" (%). Isso assegura que o lojista entenda o impacto financeiro do dado que está inserindo (preço cheio vs. margem de desconto).
-- Coerência Visual: A consistência é mantida pelo uso rigoroso do sistema de design: inputs com bordas arredondadas na cor da marca (quando ativos ou focados), tipografia padronizada e o botão primário "Adicionar" com a mesma cor sólida e dimensões encontradas no restante do aplicativo.
-
-## Acessibilidade
-- Lei de Fitts (Alvos de Toque): Os campos de entrada de texto possuem altura generosa (> 48dp), facilitando a seleção precisa com o dedo. O botão "Adicionar" é largo e isolado, tornando-se um alvo fácil de atingir, o que é crucial para usuários com coordenação motora reduzida.
-- Contraste e Legibilidade: O texto de preenchimento ("Digite o nome...") utiliza um cinza claro que tem contraste suficiente para ser lido, mas é distinto o bastante do texto preto final, indicando seu estado provisório. As bordas dos inputs delimitam claramente a área interativa.
-- Navegação por Teclado (Foco): A ordem linear dos campos (Cima para Baixo, Esquerda para Direita) favorece a navegação lógica para quem utiliza leitores de tela ou teclados externos, seguindo o fluxo natural de leitura ocidental.
-
-## Metalinguísticos
-- Símbolos de Unidade como Signos:
-  - O símbolo "R$" (Real) não é apenas uma moeda, mas um signo que instrui o usuário: "Insira aqui o valor de venda".
-  - O símbolo "%" (Porcentagem) atua como um alerta metalinguístico: "Cuidado, este valor será subtraído do preço original".
-- Cores de Ação: O vermelho/terracota no botão "Adicionar" carrega o significado de "Commit" (Comprometimento). Ele sinaliza que aquela ação irá alterar o estado do banco de dados do sistema, diferenciando-se de botões de navegação neutros.
-- Ícone do Cabeçalho: A caixa aberta (logo) ao lado do título atua como um identificador visual da seção "Logística/Estoque", reforçando o contexto operacional da tela.
-
-## Tela de Edição
-
- <p align="center">
-   <img width="413" height="1328" alt="image" src="https://github.com/user-attachments/assets/3d39aa92-b4a2-4676-b2e9-13621f6f3ea4" />
-</p>
-
-| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
-| :--- | :--- | :--- |
-| **#3 Controle e liberdade do usuário** | Ícones de Lixeira e Voltar | O sistema oferece "saídas de emergência" e reversibilidade. O ícone de lixeira permite a remoção de itens indesejados, enquanto o botão de voltar garante que o usuário possa desistir da edição sem aplicar mudanças indesejadas. |
-| **#5 Prevenção de erros** | Botão "Salvar Alterações" | A interface adota um modelo de confirmação explícita. Ao invés de salvar cada caractere digitado em tempo real (o que poderia causar erros catastróficos em dados públicos), o sistema exige um clique final no botão "Salvar Alterações" para efetivar as mudanças no banco de dados. |
-| **#6 Reconhecimento em vez de memorização** | Ícones de Edição (Lápis) | O uso repetitivo do ícone de lápis ao lado de cada campo editável (Nome, Horário, Telefone) elimina a necessidade de o usuário adivinhar o que pode ser alterado. A interface sinaliza visualmente: "onde há lápis, há edição". |
-| **#7 Flexibilidade e eficiência de uso** | Ações Rápidas nos Cards | Para usuários experientes (lojistas), a interface oferece atalhos (aceleradores). Permitir a edição e exclusão direta no cartão do produto evita a necessidade de abrir a página de detalhes de cada item, agilizando a manutenção do estoque em massa. |
-| **#8 Estética e design minimalista** | Agrupamento de Seções | A tela organiza densas informações administrativas em blocos claros ("Informações", "Catálogo", "Promoções"), utilizando espaços em branco para reduzir a carga visual e permitir que o gestor foque em um grupo de dados por vez. |
-
-## Análise de UX/UI: Usabilidade, Comunicabilidade e Coerência
-- Usabilidade (Eficiência Operacional): A tela foi desenhada para o fluxo de trabalho de Manutenção (CRUD). A decisão de expor as ações de "Editar" e "Excluir" diretamente na lista (no canto superior direito dos cards) reduz drasticamente o número de cliques (interaction cost) necessários para gerenciar um estoque grande, comparado a fluxos que exigem entrar em cada item individualmente.
-- Comunicabilidade (Estado do Sistema): A interface comunica claramente que está em "Modo de Edição" através da mudança de affordance. Diferente da tela de visualização passiva, aqui todos os campos ganham ícones indicadores (lápis) e bordas de input, sinalizando interatividade.
-- Coerência Visual: A consistência é mantida pelo sistema de ícones (Iconography System). O estilo de linha (outlined) na cor da marca é aplicado uniformemente tanto nos ícones institucionais (relógio, loja) quanto nos funcionais (lápis, lixeira), criando uma harmonia visual que guia o olhar.
-  
-## Acessibilidade
-- Áreas de Toque (Touch Targets): Os ícones de ação nos cartões (Lápis e Lixeira) possuem um espaçamento horizontal crítico entre si. Isso é vital para evitar o "erro de toque vizinho", onde o usuário tenta editar mas acaba clicando em excluir.
-- Feedback de Estado: O botão "Salvar Alterações" no rodapé possui alta proeminência (cor sólida e largura total). Para acessibilidade, ele serve como um ponto de ancoragem visual e de navegação por teclado, indicando o fim do formulário.
-- Hierarquia de Leitura: O uso de títulos em negrito ("Informações da Loja", "Catálogo") permite que usuários de leitores de tela naveguem rapidamente entre as seções, pulando blocos de conteúdo que não desejam editar no momento.
-
-## Metalinguísticos
-- Metáforas Universais:
-  - Lápis: Signo metalinguístico universal para "reescrever" ou "alterar conteúdo".
-  - Lixeira: Signo icônico para "descarte" ou "destruição irreversível".
-- Cores Funcionais: Enquanto a cor vermelha/terracota é a cor da marca (branding), nos ícones de "Lixeira" ela assume uma conotação de alerta (Warning), sugerindo cuidado na interação.
-- Posicionamento Espacial: O posicionamento do botão "Salvar" flutuando ou fixo na base da tela cria uma metáfora de "rodapé de documento", indicando que aquela ação valida tudo o que está acima dela (herança de formulários de papel).
-
-## Telas de Caixa de Mensagem e CHAT entre Logista e Clientes
+# Telas de Caixa de Mensagem e CHAT entre Logista e Clientes
 
 <img width="233" height="521" alt="image" src="https://github.com/user-attachments/assets/b03c05d7-8715-4dd1-9149-55d128420b83" />
 <img width="237" height="521" alt="image" src="https://github.com/user-attachments/assets/d101f585-0b34-468e-84ab-fc0069b5da3b" />
@@ -333,75 +194,162 @@ A interface comunica suas funções por meio de ícones e textos curtos, elimina
 - **Ícone de Microfone:** Indica entrada por voz.  
 - **Ícone de Enviar:** Representa a ação de despachar a mensagem.  
 - **Seta de Voltar:** Signo universal de retorno de navegação.
----
 
-# Telas para a Persona de Cliente
 
-## TELA 1 - Listagem de Lojas e Serviços
+# Telas do Cliente
+
+##   Tela Inicial do cliente
+
 
  <p align="center">
-   <img width="1648" height="3668" alt="image" src="https://github.com/user-attachments/assets/ece7f919-1952-4ba5-9a80-ae101d061724" />
+   <img width="413" height="1328" alt="image" src="https://github.com/user-attachments/assets/641471ca-0ed7-4ab4-abc9-133cfab8abfc" />
 </p>
 
-É a tela principal de navegação para o cliente encontrar fornecedores. Temos o menu superior com a localização e botão de voltar, uma barra de busca e filtros de estado ("Abertas Agora" vs "Promoções"). Abaixo, uma lista vertical de "Cards" representando as lojas disponíveis, contendo informações resumidas para decisão rápida.
+É uma tela simples. Temos o menu superior, que é igual ao mesmo menu da tela 3, porém, não temos o menu inferior.
 
-### Heurísticas:
+O usuário precisa escolher entre duas opções: Loja de materiais ou profissionais
 
-| Heurística | Onde se aplica | Justificativa |
+Dependendo de qual o usuário escolher, será levado a uma tela com todas as funcionalidade que o cliente pode fazer com as personas do mesmo nome. Ou seja, se escolher lojas de materiais, será levado a tela 2, na qual poderá comprar coisas das lojas, bem como buscar por mais lojas, ver promoções, etc.
+
+### Heurísticas da Tela inicial do cliente
+
+| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
 | :--- | :--- | :--- |
-| **Visibilidade e status do sistema** | Menu inferior e Filtros | É mostrado onde o usuário está ao colocar o ícone "Início" em vermelho. O filtro "Abertas Agora" está preenchido, indicando o que está sendo exibido no momento. |
-| **Correspondência entre o sistema e o mundo real** | Linguagem e Ícones | Uso de termos coloquiais locais ("Lojão", "Comprinhas") e ícones universais (Carrinho, Lupa) que traduzem ações digitais para conceitos físicos conhecidos. |
-| **Reconhecimento em vez de memorização** | Cards das Lojas | O usuário vê todas as informações de decisão (taxa, tempo, distância) diretamente no card, sem precisar clicar e voltar (memorizar) para comparar lojas. |
-| **Consistência e padrões** | Layout da tela | Segue o padrão mental de apps de delivery (Busca no topo, lista vertical, navegação no rodapé), reduzindo a curva de aprendizado. |
-| **Controle e liberdade do usuário** | Menu superior -> Voltar | O usuário pode retornar ao menu anterior caso tenha entrado na seção de lojas por engano, indicado pela seta no canto superior esquerdo. |
+| Controle e liberdade do usuário<br><br>Consistência e padrões | Menu superior -> voltar | O usuário pode voltar rapidamente caso tenha se confundido e não seja do tipo "cliente", como indicado pela seta com o texto "voltar" |
+| Visibilidade e status do sistema                              | Menu inferior           | É mostrado onde o usuário está ao colocar o ícone e o texto da sua localização em vermelho                                            |
+| Design estático e minimalista                                 | Tela inteira            | Há poucos elementos, já que é uma tela "intermediária"                                                                                |
+| Compatibilidade entre o sistema e o mundo real                | Opções disponíveis      | É falado a linguagem do usuário ao colocar uma imagem que remete ao texto, e ao que aquela opção se refere.                           |
 
-### Signos:
+### Signos da Tela inicial do cliente
+- **Estáticos**
+  - A **logo do aplicativo** é um signo estático.
+  - O texto **"Selecione uma opção:"** é um símbolo estático.
 
-**Estáticos:**
-* A logo do aplicativo no topo;
-* O texto da localização ("Centro") atuando como rótulo fixo.
+- **Dinâmicos**
+  - O **botão de voltar** no menu superior.
+  - O **botão de perfil** no menu superior.
+  - As duas opções
 
-**Dinâmicos:**
-* Os botões de filtro ("Abertas Agora", "Promoções");
-* Os Cards das lojas (elementos clicáveis);
-* A barra de busca;
-* Os ícones do menu inferior.
 
-**Metalinguísticos:**
-* O texto "Buscar Lojas ou Produtos" dentro da barra (placeholder explaining function);
-* O texto "voltar" ao lado da seta.
+## Tela da listagem de Lojas e Serviços
 
----
 
-## TELA 2 - Seção de Promoções
-
+<p float="left">
 <p align="center">
-   <img width="1684" height="3668" alt="image" src="https://github.com/user-attachments/assets/6552508a-c3b7-4499-bcb0-958c6bedbb5d" />
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/680258a1-4ab5-4e0d-a474-0e93226a7da3" />
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/dab3db71-cb34-464a-8557-8702ba07770b" />
+</p>
 </p>
 
-Esta tela é acessada ao alternar o filtro superior para "Promoções". O layout muda para focar na vantagem econômica, priorizando a imagem do produto, o preço antigo (riscado) e o preço novo com destaque, além de etiquetas de desconto.
+É a tela principal de navegação para o cliente encontrar fornecedores. Temos o menu superior com a localização e botão de voltar, uma barra de busca e filtros de estado ("Abertas Agora" vs "Promoções").
+Abaixo, uma lista vertical de "Cards" representando as lojas disponíveis. Cada card contém informações resumidas cruciais para a decisão rápida (nome, categoria, distância, tempo e taxa). O menu inferior persiste para navegação global.
 
-### Heurísticas:
+A tela "Seção de promoções" é acessada ao alternar o filtro superior para "Promoções". O layout muda de lista de lojas para uma grade (grid) ou lista de produtos específicos em oferta.
+O foco visual é inteiramente na vantagem econômica. As informações de loja ficam em segundo plano ou implícitas, priorizando a imagem do produto, o preço antigo (riscado) e o preço novo com destaque, além de etiquetas de desconto.
 
-| Heurística | Onde se aplica | Justificativa |
+### Heurísticas da tela de listagem de Lojas e Serviços - Abertas Agora
+
+| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
 | :--- | :--- | :--- |
-| **Visibilidade e status do sistema** | Filtro Superior "Promoções" | O botão "Promoções" agora aparece preenchido (sólido) e "Abertas Agora" vazado, dando feedback visual imediato da mudança de modo de visualização. |
-| **Correspondência entre o sistema e o mundo real** | Preços "De/Por" e Tags | Uso da metáfora de varejo físico: preço antigo riscado e etiquetas vermelhas de porcentagem, símbolos universais de liquidação. |
-| **Reconhecimento em vez de memorização** | Fotos dos Produtos | Imagens fiéis das embalagens (ex: saco de cimento Votoran) permitem que o profissional identifique o material visualmente sem ler o nome técnico. |
-| **Estética e design minimalista** | Hierarquia Tipográfica | Redução de ruído visual. O destaque máximo é o preço novo (negrito, grande), facilitando o escaneamento rápido das ofertas. |
-| **Prevenção de erros** | Imagens de Alta Fidelidade | Ao mostrar a foto real do produto (ex: Makita), evita-se que o usuário compre o modelo errado por confusão apenas com o nome do item. |
+| Visibilidade e status do sistema | Menu inferior e Filtros | É mostrado onde o usuário está ao colocar o ícone "Início" em vermelho. O filtro "Abertas Agora" está preenchido, indicando o que está sendo exibido. |
+| Correspondência entre o sistema e o mundo real | Linguagem e Ícones | Uso de termos coloquiais ("Lojão", "Comprinhas") e ícones universais (Carrinho, Lupa) que traduzem ações digitais para conceitos físicos conhecidos. |
+| Reconhecimento em vez de memorização | Cards das Lojas | O usuário vê todas as informações de decisão (taxa, tempo, distância) no card, sem precisar clicar e voltar (memorizar) para comparar lojas. |
+| Consistência e padrões | Layout da tela | Segue o padrão mental de apps de delivery (Busca no topo, lista vertical, navegação no rodapé), reduzindo a curva de aprendizado. |
+| Controle e liberdade do usuário | Botão Voltar | O usuário pode retornar ao menu anterior caso tenha entrado na seção de lojas por engano, indicado pela seta no canto superior esquerdo. |
 
-### Signos:
+### Signos da tela de listagem de Lojas e Serviços - Abertas Agora
+- **Estáticos**
+  - A **logo do aplicativo** no topo é um signo estático.
+  - O texto da **localização ("Centro")** atua como rótulo fixo de estado atual.
 
-**Estáticos:**
-* Os nomes dos produtos (ex: "Cimento 50 KG");
-* A estrutura visual do card (bordas e fundo).
+- **Dinâmicos**
+  - Os **botões de filtro** ("Abertas Agora", "Promoções").
+  - Os **cards das lojas** (elementos clicáveis que levam ao detalhe).
+  - A **barra de busca**.
+  - Os **ícones do menu inferior**.
 
-**Dinâmicos:**
-* O botão de filtro "Promoções" (estado ativo);
-* Os cards de produtos (clicáveis para compra).
+- **Metalinguísticos**
+  - O texto dentro da barra de busca (**"Buscar Loja**
 
-**Metalinguísticos:**
-* O traço sobre o preço antigo (~~R$ 50,00~~) explicando a anulação do valor;
-* A etiqueta vermelha ("-70%") explicando o motivo da redução;
-* A inversão de cores nos botões de filtro, explicando a aba ativa.
+
+### Heurísticas da tela de listagem de Lojas e Serviços - Seção de promoções
+
+| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
+| :--- | :--- | :--- |
+| Visibilidade e status do sistema | Filtro Superior "Promoções" | O botão "Promoções" agora aparece preenchido (sólido) e "Abertas Agora" vazado, dando feedback visual imediato da mudança de modo de visualização. |
+| Correspondência entre o sistema e o mundo real | Preços "De/Por" e Tags | Uso da metáfora de varejo físico: preço antigo riscado e etiquetas vermelhas de porcentagem, símbolos universais de liquidação. |
+| Reconhecimento em vez de memorização | Fotos dos Produtos | Imagens fiéis das embalagens (ex: saco de cimento Votoran) permitem que o profissional identifique o material visualmente sem ler o nome técnico. |
+| Estética e design minimalista | Hierarquia Tipográfica | Redução de ruído visual. O destaque máximo é o preço novo (negrito, grande), facilitando o escaneamento rápido das ofertas. |
+| Prevenção de erros | Imagens de Alta Fidelidade | Ao mostrar a foto real do produto (ex: Makita), evita-se que o usuário compre o modelo errado por confusão apenas com o nome do item. |
+
+### Signos da tela de listagem de Lojas e Serviços - Seção de promoções
+
+- **Estáticos**
+  - Os nomes dos produtos (ex: **"Cimento 50 KG"**) funcionam como rótulos identificadores.
+  - A **estrutura do card** (bordas e fundo).
+
+- **Dinâmicos**
+  - O botão de filtro **"Promoções"** (estado ativo).
+  - Os **cards de produtos** (clicáveis para compra).
+  - O botão **"Adicionar"** (implícito ou ao clicar no card).
+
+- **Metalinguísticos**
+  - O **traço sobre o preço antigo** (~R$ 50,00~) explicando que aquele valor não é mais válido.
+  - A **etiqueta vermel**
+
+
+## Tela inicial da opção "Profissionais"
+
+
+ <p align="center">
+   <img width="413" height="1328" alt="image" src="https://github.com/user-attachments/assets/c2f7f6bd-109f-4d81-8615-e25b8159dafe" />
+</p>
+
+
+Menu superior<br>
+Temos quatro coisas no menu superior: a localização do cliente, a logo do aplicativo, o perfil, e voltar. O ícone de perfil manda o usuário a configurações da sua conta. A localização redireciona o usuário para trocar a sua localização. O botão de voltar retorna o usuário para escolher o tipo da usa conta.
+
+Menu inferior<br>
+Todas as opções disponíveis no menu inferior dessa tela está conforme o molic. Temos a tela inicial, que o usuário cliente sempre irá começar quando escolher a opção de profissionais. Também temos a opção de busca, uma tela (não feita) para buscar diversos tipos de profissionais, podendo ou não utilizar filtros. Finalmente, temos a opção de anunciar para colocar um anúncio para profissionais, com o intuito de achar alguém qualificado para aquele trabalho.
+
+Campo de busca<br>
+Na aba inicial, temos o campo de busca, onde o usuário pode buscar rapidamente o tipo de profissional que deseja contratar. É redirecionado automaticamente para a aba e tela "busca".
+
+Categorias<br>
+Na parte de categorias, temos várias categorias de profissionais, onde, ao usuário cliente clicar, será redirecionado para a tela (não feita) de "busca", com uma pesquisa utilizando o filtro da categoria que o usuário clicou. É possível "scrollar" verticalmente essa parte.
+
+Profissionais em destaque<br>
+A parte de profissionais em destaque coloca diversos tipos de profissionais que pagaram para serem anunciados para mais clientes, tanto na aba de busca como inicial, conforme o modelo de monetização do aplicativo.
+Assim, é mostrado a foto de perfil dos profissionais, suas profissões logo abaixo, bem como o preço de uma diária (preço de um dia inteiro) e a avaliação, representada por estrelas. É possível "scrollar" essa parte.
+
+### Heurísticas da tela inicial da opção "Profissionais"
+
+| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
+| :--- | :--- | :--- |
+| Visibilidade e status do sistema                                          | Menu inferior                          | É mostrado onde o usuário está ao colocar o ícone e o texto em vermelho                                                                                                                                                                 |
+| Visibilidade e status do sistema<br><br>Flexibilidade e eficiência de uso | Menu superior -> Localização       | O usuário pode ver a localização em que o sistema acha que ele está, mostrando o feedback o sistema. Para usuários mais experientes, é possível clicar na sua localização atual para mudar.                                             |
+| Controle e liberdade do usuário<br><br>Consistência e padrões             | Menu superior -> voltar                | O usuário pode voltar rapidamente, como indicado pela seta com o texto "voltar"                                                                                                                                                         |
+| Design estético e minimalista                                             | Tela inteira                           | No total, temos apenas três informações na tela, além do inferior e superior: Barra de busca, categorias, e profissionais em destaque.                                                                                                  |
+| Compatibilidade com o sistema e o mundo real                              | Profissionais em destaque -> avaliação | Ao utilizar um sistema de estrelas, o usuário consegue rapidamente entender que significam algo bom ou ruim, dependendo de quantas estrelas estão preenchidas.                                                                          |
+| Prevenção de erros<br><br>Flexibilidade e eficiência de uso               | Campo de busca                         | Há um texto bem como um ícone explicando ao usuário para que aquele campo serve, assim, prevenindo erros. O campo de busca está disponível para usuários que querem pesquisar logo quando entram no aplicativo, gerando uma eficiencia. |
+| Flexibilidade e eficiência de uso                                         | Categorias -> ícones                   | O usuário pode escolher logo uma categoria de profissional para pesquisar, sem ter que primeiro ir na tela de busca e colocar o filtro da categoria desejada, assim, é um atalho.      
+
+
+### Signos da tela inicial da opção "Profissionais"
+
+- **Estáticos**
+  - Os textos **Categorias** e **Profissionais em destaque** são signos estáticos.
+  - A **logo do aplicativo** é um signo estático.
+
+- **Dinâmicos**
+  - O **botão de voltar** no menu superior.
+  - O **botão de perfil** no menu superior.
+  - Os **ícones** na parte de categorias.
+  - Os **profissionais** na seção *Profissionais em destaque*.
+  - Todos os **ícones e textos** no menu inferior.
+
+- **Metalinguísticos**
+  - O **campo de busca**, ao explicar para que serve.
+  - O **botão e o texto de voltar**.
+
+
