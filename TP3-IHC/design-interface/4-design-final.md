@@ -176,6 +176,12 @@ A disposição dos elementos prioriza o uso com uma mão, comum em dispositivos 
 
 # Telas para a Persona de Cliente
 
+## Tela inicial do Cliente
+
+![Tela inicial - Cliente](https://github.com/user-attachments/assets/cbdc7615-1f20-4f23-99e8-13511925d067)
+
+A tela inicial do cliente é simples, temos duas opções, e o usuário precisa escolher entre elas para ser levado até as telas correspondentes da sua opção.
+
 ## Tela de Listagem de Lojas e Serviços 
 
 <p float="left">
@@ -215,3 +221,25 @@ A função principal desta tela é a economia. A interface exalta os descontos a
 ### 3. Acesso Direto à Compra:
 
 Diferente da tela anterior, que leva à loja, esta tela encurta o caminho para a aquisição do produto específico, agilizando o fluxo de compra para itens que estão em oferta relâmpago.
+
+
+## Tela inicial da opção profissional
+
+![Tela da Opção - Profissionais(1)](https://github.com/user-attachments/assets/99c8ce5d-e07d-473f-8f58-ae93ab5b403a)
+
+Menu superior
+Temos quatro coisas no menu superior: a localização do cliente, a logo do aplicativo, o perfil, e voltar. O ícone de perfil manda o usuário a configurações da sua conta. A localização redireciona o usuário para trocar a sua localização. O botão de voltar retorna o usuário para escolher o tipo da usa conta.
+
+Menu inferior
+Todas as opções disponíveis no menu inferior dessa tela está conforme o molic. Temos a tela inicial, que o usuário cliente sempre irá começar quando escolher a opção de profissionais. Também temos a opção de busca, uma tela (não feita) para buscar diversos tipos de profissionais, podendo ou não utilizar filtros. Finalmente, temos a opção de anunciar para colocar um anúncio para profissionais, com o intuito de achar alguém qualificado para aquele trabalho.
+
+Campo de busca
+Na aba inicial, temos o campo de busca, onde o usuário pode buscar rapidamente o tipo de profissional que deseja contratar. É redirecionado automaticamente para a aba e tela "busca".
+
+Categorias
+Na parte de categorias, temos várias categorias de profissionais, onde, ao usuário cliente clicar, será redirecionado para a tela (não feita) de "busca", com uma pesquisa utilizando o filtro da categoria que o usuário clicou. É possível "scrollar" verticalmente essa parte.
+
+
+Profissionais em destaque
+A parte de profissionais em destaque coloca diversos tipos de profissionais que pagaram para serem anunciados para mais clientes, tanto na aba de busca como inicial, conforme o modelo de monetização do aplicativo.
+Assim, é mostrado a foto de perfil dos profissionais, suas profissões logo abaixo, bem como o preço de uma diária (preço de um dia inteiro) e a avaliação, representada por estrelas. É possível "scrollar" essa parte.
