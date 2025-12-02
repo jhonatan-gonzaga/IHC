@@ -304,7 +304,7 @@ O foco visual é inteiramente na vantagem econômica. As informações de loja f
 
 
  <p align="center">
-   <img width="413" height="1328" alt="image" src="https://github.com/user-attachments/assets/c2f7f6bd-109f-4d81-8615-e25b8159dafe" />
+   <img width="413" height="1328" alt="image" src="https://github.com/user-attachments/assets/9d58f953-71f4-40ce-a813-ed32181fcafb" />
 </p>
 
 
