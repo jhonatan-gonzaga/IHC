@@ -182,6 +182,8 @@ A disposição dos elementos prioriza o uso com uma mão, comum em dispositivos 
 
 A tela inicial do cliente é simples, temos duas opções, e o usuário precisa escolher entre elas para ser levado até as telas correspondentes da sua opção.
 
+Assim, o cliente tem a liberdade de escolher aquilo que ele mais busca. Também há imagens nas opções de fundo para a opção que o cliente saiba do qua opção se trata com mais clareza.
+
 ## Tela de Listagem de Lojas e Serviços 
 
 <p float="left">
@@ -225,7 +227,10 @@ Diferente da tela anterior, que leva à loja, esta tela encurta o caminho para a
 
 ## Tela inicial da opção profissional
 
-![Tela da Opção - Profissionais(1)](https://github.com/user-attachments/assets/99c8ce5d-e07d-473f-8f58-ae93ab5b403a)
+
+ <p align="center">
+   <img width="413" height="1328" alt="image" src="https://github.com/user-attachments/assets/9d58f953-71f4-40ce-a813-ed32181fcafb" />
+</p>
 
 
 * *Navegação Intuitiva por Categorias:* Logo abaixo da busca, o carrossel de categorias visuais (Pintores, Eletricistas, Pedreiros) atua como um atalho cognitivo. O usuário pode filtrar listas inteiras de profissionais com um único toque, sem a necessidade de digitar, facilitando o acesso em situações de emergência (como um cano estourado ou falta de luz).
