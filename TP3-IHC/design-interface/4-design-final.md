@@ -172,4 +172,46 @@ Ações Complementares: Ícone de microfone permite entrada por voz, enquanto o 
 
 A disposição dos elementos prioriza o uso com uma mão, comum em dispositivos móveis, e assegura que a comunicação ocorra de maneira fluida, intuitiva e sem barreiras cognitivas.
 
+---
 
+# Telas para a Persona de Cliente
+
+## Tela de Listagem de Lojas e Serviços 
+
+<p float="left">
+<p align="center">
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/de945cba-c3bf-4028-8161-cf901e39cde1" />
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/771231f3-9990-44ff-8d4b-46a115e66827" />
+</p>
+</p>
+
+## Aba "Abertas Agora"
+
+Esta tela atua como a porta de entrada para o comércio local, funcionando como um catálogo centralizado de parceiros.
+
+### 1. Diretório Geolocalizado:
+
+No topo, a identificação do bairro ("Centro") assegura que o cliente está visualizando opções relevantes para a sua região, otimizando a logística de entrega.
+
+### 2. Busca e Filtragem Imediata:
+
+A barra de busca permite encontrar itens específicos rapidamente, enquanto o filtro "Abertas Agora" resolve uma necessidade crítica da obra: a urgência. O usuário consegue separar imediatamente quais fornecedores podem atender sua demanda naquele exato momento.
+
+### 3. Cards de Decisão Rápida:
+
+A listagem das lojas foi desenhada para fornecer todas as informações logísticas antes do clique. Cada card apresenta o nome do estabelecimento, a categoria (ex: Atacarejo, Loja de Bairro), a distância, o tempo estimado de entrega e a taxa. Isso permite que o cliente compare o custo-benefício entre diferentes fornecedores (como o "Lojão do João" versus o "Saldão do Ricardão") diretamente na listagem.
+
+## Aba "Promoções"
+Ao alternar para esta seção, a interface muda o foco do "fornecedor" para o "produto", facilitando a descoberta de oportunidades econômicas.
+
+### 1. Visualização de Produtos:
+
+O layout em grade destaca imagens de alta fidelidade dos materiais (cimento, ferramentas, tintas), permitindo que o usuário identifique visualmente o que precisa sem depender apenas de descrições textuais.
+
+### 2. Destaque Econômico:
+
+A função principal desta tela é a economia. A interface exalta os descontos através de etiquetas visuais e preços comparativos, incentivando a compra de insumos essenciais (como cimento e tinta) ou ferramentas de desejo (como a serra mármore).
+
+### 3. Acesso Direto à Compra:
+
+Diferente da tela anterior, que leva à loja, esta tela encurta o caminho para a aquisição do produto específico, agilizando o fluxo de compra para itens que estão em oferta relâmpago.
