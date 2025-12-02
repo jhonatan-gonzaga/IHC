@@ -218,6 +218,44 @@ Elementos visuais que comunicam função sem depender de texto:
 
 - Ícone de Cabeçalho: O ícone de "Caixa" (Product Box) ao lado do título reforça visualmente o contexto operacional da tela: gestão de estoque físico.
 
+## Tela Lista Catálago e Lista Promoção
+
+<p float="left">
+<p align="center">
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/6e7106c6-5f4e-4651-8f90-acf4601a70c7" />
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/160b727a-3fbb-4f31-b47d-35ea88fb3268" />
+</p>
+</p>
+
+| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
+| :--- | :--- | :--- |
+| **#1 Visibilidade do status do sistema** | Listagem Completa | A tela fornece feedback imediato sobre a extensão do inventário. Ao expandir a visão (ação oriunda do botão "Lista +"), o sistema confirma que todos os itens cadastrados estão carregados e visíveis, eliminando a incerteza de "onde estão meus outros produtos?". |
+| **#4 Consistência e Padrões** | Design dos Cartões (Cards) | O layout visual dos itens (Nome > Preço > Quantidade) mantém-se idêntico ao apresentado no Dashboard e na Edição. Essa consistência reduz a carga cognitiva, pois o usuário não precisa aprender uma nova forma de ler o produto só porque mudou de tela. |
+| **#6 Reconhecimento em vez de memorização** | Dados Expostos | Todas as variáveis críticas (Preço, Qtd, Descrição, Ano) estão visíveis no primeiro nível. O usuário não precisa clicar no item para lembrar "qual era a descrição deste produto?", facilitando a conferência rápida. |
+| **#8 Estética e design minimalista** | Ritmo Vertical | A repetição consistente dos blocos de cartões, com espaçamento uniforme, cria um ritmo visual agradável que facilita o "escaneamento" (skimming) da lista com os olhos, sem ruídos visuais ou botões flutuantes que distraiam a leitura.|
+
+## Usabilidade, Comunicabilidade e Coerência Visual
+- Usabilidade (Leiturabilidade e Escaneabilidade): O objetivo principal desta tela é o consumo de informação. O design favorece a leitura vertical rápida através de uma hierarquia tipográfica clara: o "Nome do Produto" possui o maior peso visual, servindo como âncora para o olhar. O alinhamento dos dados secundários (Preço à esquerda, Quantidade à direita) cria colunas visuais imaginárias que permitem ao lojista comparar valores rapidamente ao rolar a tela.
+
+- Comunicabilidade (Contexto de Leitura): A ausência de ícones de edição (lápis/lixeira) nesta visualização específica comunica um estado de "Modo de Leitura" (Read-Only). Isso transmite segurança ao usuário para navegar e rolar a lista livremente sem o medo de arrastar ou apagar algo acidentalmente (diferente da tela de Edição).
+
+- Coerência Visual: A interface mantém a integridade do Design System. O uso do cabeçalho com o ícone da loja e o título "Lista" reforça o local onde o usuário está na arquitetura do app. A borda vermelha e o fundo branco dos cartões destacam o conteúdo sobre o fundo rosa claro da página.
+
+## Considerações de Acessibilidade
+- Ordem de Leitura Linear: A estrutura de lista é ideal para tecnologias assistivas. Leitores de tela (Screen Readers) podem percorrer os itens sequencialmente (Item 1 > Detalhes > Item 2 > Detalhes) sem interrupções de navegação complexas.
+
+- Densidade de Informação: O espaçamento interno (padding) dentro dos cartões evita que o texto fique aglomerado, o que beneficia usuários com dificuldades de leitura ou dislexia, permitindo que cada bloco de informação seja processado individualmente.
+
+- Contraste Tipográfico: A diferenciação entre o rótulo (cinza/preto claro) e o dado (Preço/Quantidade em negrito) ajuda usuários com baixa visão a distinguirem rapidamente o que é título e o que é valor.
+
+## Evidências de Signos Metalinguísticos
+- Ausência de Signos de Ação: A falta deliberada de botões de ação (como "Adicionar" ou "Editar") dentro dos cards funciona como um signo negativo, indicando: "Esta é uma área de visualização, não de interação".
+
+- Seta de Retorno: O ícone de seta circulada no canto superior esquerdo é um signo universal de navegação que significa "Voltar ao nível superior" (o Dashboard), permitindo a saída segura da lista.
+
+- Ícone de Lista/Loja: O ícone no cabeçalho (fachada da loja) atua como um marcador de contexto, reafirmando que a lista visualizada pertence ao inventário do próprio estabelecimento.
+
+
 
 # Telas de Caixa de Mensagem e CHAT entre Logista e Clientes
 
