@@ -101,11 +101,13 @@ Elementos visuais que reforçam a comunicação e fornecem feedback instantâneo
 
 | Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
 | :--- | :--- | :--- |
-| **#3 Controle e liberdade do usuário** | Topo e Base da Tela | O usuário tem múltiplas rotas de saída: um botão "voltar" (seta), um botão "X" (fechar) no cabeçalho e um botão "Cancelar" na base, permitindo abandonar a tarefa sem erros. |
-| **#4 Consistência e Padrões** | Botões de Ação | A hierarquia visual é clara: o botão "Adicionar" (ação final) segue o padrão da marca (fundo vermelho), enquanto "Cancelar" é apenas contornado. Os ícones de Câmera e Galeria seguem padrões universais de UI. |
-| **#6 Reconhecimento em vez de memorização** | Botões de Categoria (Chips) | O uso de etiquetas selecionáveis ("Construção", "Elétrica", "Pintura") evita que o usuário precise lembrar ou digitar manualmente a categoria do serviço, reduzindo a carga cognitiva. |
-| **#7 Flexibilidade e eficiência de uso** | Campo de Detalhes | A presença do ícone de microfone dentro do campo de texto oferece um atalho para entrada de voz (*Speech-to-Text*), permitindo descrições mais ricas com menos esforço físico. |
-| **#8 Estética e design minimalista** | Layout Geral | O formulário é segmentado em blocos lógicos (Mídia > Dados Básicos > Categoria > Detalhes), com amplo espaçamento, evitando a sensação de "formulário burocrático". |
+| **1. Visibilidade do Status do Sistema** | Botões de seleção em **"Especialidades"** e **"Disponibilidade"** (Dias da semana). | O uso de cores distintas (fundo preenchido em vermelho para "selecionado" e fundo branco para "não selecionado") informa visualmente ao usuário, em tempo real, quais opções estão ativas. |
+| **2. Compatibilidade entre o Sistema e o Mundo Real** | Ícones de **Câmera** (na foto), **Estrelas** (avaliação) e **R$** (valor). | A interface utiliza metáforas visuais familiares ao cotidiano do usuário (câmera para tirar foto, estrelas para qualidade) e linguagem natural nas profissões ("Pedreiro", "Pintor"), facilitando o entendimento. |
+| **3. Controle e Liberdade do Usuário** | Ícone de **Seta para a esquerda** (canto superior esquerdo). | Oferece uma "saída de emergência" clara, permitindo que o usuário cancele a ação de edição e retorne à tela anterior sem frustração. |
+| **4. Consistência e Padrões** | Ícone de **Engrenagem** e posicionamento do **Botão Salvar**. | O ícone de engrenagem é um padrão universal para "Configurações", e o botão de ação principal ("salvar Perfil") está posicionado ao final do formulário, conforme a convenção da maioria dos aplicativos móveis. |
+| **6. Reconhecimento em vez de Memorização** | Lista de tags em **"Especialidades"**. | Ao invés de o usuário ter que digitar (lembrar) o nome da profissão, o sistema oferece opções visíveis para seleção, reduzindo a carga cognitiva e o esforço de digitação. |
+| **7. Flexibilidade e Eficiência de Uso** | Carrossel de **"Avaliações Recentes"**. | Permite que o usuário navegue rapidamente pelos feedbacks deslizando para o lado, vendo as informações mais relevantes sem precisar abrir uma nova tela imediatamente. |
+| **8. Estética e Design Minimalista** | Layout geral da tela. | A interface mantém o foco no essencial (edição de dados), com bom uso de espaço em branco e hierarquia visual clara, sem poluição visual ou informações irrelevantes para a tarefa de editar o perfil. |
 
 ## Análise de UX/UI
 Usabilidade e Hierarquia Visual
