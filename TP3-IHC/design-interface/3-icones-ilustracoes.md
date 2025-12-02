@@ -17,3 +17,18 @@ A paleta cromática em tom vermelho terroso foi selecionada por sua associação
 
 ### Cor, Forma e Tipografia:
 A cor vermelho terroso foi escolhida por sua associação com materiais da construção civil, transmitindo solidez, energia e ação. As formas geométricas simplificadas, como os blocos e a casa, facilitam o reconhecimento visual e representam, respectivamente, a estrutura e o resultado final da obra. A tipografia sem serifa, clara e objetiva, reforça a proposta de acessibilidade, modernidade e facilidade de uso da plataforma.
+
+### Ícones Utilizados
+
+<p align="center">
+   <img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/d0496c26-38d3-4761-ad68-53f9c561f1ba" />
+</p>
+
+### Justificativa para o uso do Phosphor Icons
+
+1. Adequação ao Perfil do Usuário (Comunicabilidade) Considerando que parte do público-alvo do Conecta Obra Itacoatiara possui baixa literacia digital e busca soluções práticas e diretas, a família Phosphor Icons foi escolhida por sua construção geométrica simples e alta legibilidade. Os ícones utilizam metáforas visuais claras e universais (ex: uma "Casa" simples para o menu principal, uma "Ferramenta" para serviços), reduzindo a carga cognitiva e facilitando a compreensão imediata das funções do sistema sem ambiguidades.
+2. Feedback Visual e Signos Metalinguísticos (Heurísticas de Nielsen) A biblioteca oferece variações de peso consistentes (como Regular e Fill). Utilizamos essa característica para criar signos metalinguísticos de estado:
+- Estado Inativo: Ícones em estilo Regular (contorno).
+- Estado Ativo/Selecionado: Ícones em estilo Fill (preenchido). Essa alternância visual reforça a visibilidade do estado do sistema (1ª Heurística de Nielsen), comunicando claramente ao usuário em qual seção do aplicativo ele se encontra (Cliente, Profissional, ou Loja).
+3. Consistência e Estética Minimalista O design dos ícones mantém a mesma espessura de traço e curvatura, garantindo uma harmonia visual em todas as telas. Isso transmite a sensação de organização e confiabilidade necessária para um aplicativo que lida com contratações e pagamentos, combatendo a "insegurança na contratação" identificada no problema inicial.
+4. Acessibilidade Os traços bem definidos do Phosphor garantem boa legibilidade mesmo em tamanhos reduzidos de telas móveis, e o estilo "vazado" vs "cheio" oferece contraste suficiente para distinção de elementos selecionáveis, apoiando os requisitos de acessibilidade do projeto
