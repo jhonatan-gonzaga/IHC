@@ -116,6 +116,12 @@ As telas de listagem foram construídas sobre um sistema de cartões (cards) pad
    <img width="413" height="1328" alt="image" src="https://github.com/user-attachments/assets/3d39aa92-b4a2-4676-b2e9-13621f6f3ea4" />
 </p>
 
+1. Ações Rápidas nos Cartões: A principal evolução de UX nesta tela é a introdução de ícones de ação no cabeçalho de cada cartão de produto.
+
+- Ícone Lápis (Editar): Permite o ajuste imediato de preços, quantidades ou descrições, ideal para correções rápidas de inventário.
+- Ícone Lixeira (Excluir): Oferece um caminho rápido para a descontinuação de produtos ou encerramento de ofertas, mantendo a lista sempre atualizada.
+2. Consistência entre Seções: A funcionalidade de edição é aplicada simetricamente tanto na seção "Catálogo" quanto em "Promoções". Isso cria um modelo mental consistente para o usuário: independentemente de estar gerenciando um produto regular ou uma oferta sazonal, as ferramentas de controle (editar/excluir) estão posicionadas no mesmo local visual (canto superior direito do card).
+3. Persistência Global: Diferente da visualização passiva, esta tela encerra-se com um botão de ação primária "Salvar Alterações" fixado no rodapé. Isso indica que as modificações (como alterações de telefone no topo ou exclusão de itens no meio) podem ser revisadas em lote antes da confirmação final, prevenindo erros operacionais acidentais.
 
 ## Tela da Caixa de Mensagem e CHAT entre Lojista e Clientes
 <img width="233" height="521" alt="image" src="https://github.com/user-attachments/assets/19e8ba04-e6b9-404d-835f-dcd6a9759563" />
