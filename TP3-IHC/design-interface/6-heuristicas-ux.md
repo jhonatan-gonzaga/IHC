@@ -135,14 +135,14 @@ Elementos visuais que comunicam função sem depender de texto:
 
 ---
 
-# Telas de Caixa de Mensagem e CHAT entre Logista e Clientes
-
-<img width="233" height="521" alt="image" src="https://github.com/user-attachments/assets/b03c05d7-8715-4dd1-9149-55d128420b83" />
-<img width="237" height="521" alt="image" src="https://github.com/user-attachments/assets/d101f585-0b34-468e-84ab-fc0069b5da3b" />
-
 # Tela do Lojista
 
 ## Tela o Perfil da Loja
+
+<p align="center">
+   <img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/2d15e453-8439-465f-ab25-ece42befb61c" />
+</p>
+
 | Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
 | :--- | :--- | :--- |
 | **#1 Visibilidade do status do sistema** |Painel Geral | A tela oferece um resumo imediato da "saúde" da loja: dados de contato visíveis, prévia do estoque e promoções ativas. O usuário não precisa adivinhar o que está online; a interface mostra explicitamente o que o cliente final vê. |
@@ -172,6 +172,57 @@ Elementos visuais que comunicam função sem depender de texto:
 
 - O ícone de Caixa Registradora na aba inferior ("Caixa") sugere o local onde as transações financeiras ocorrem.
 
+## Tela Adicionar Produto e Promoção
+
+<p float="left">
+<p align="center">
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/d983555a-0cb3-4beb-a81d-96a88a1e1278" />
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/e30f6e15-489b-4a68-8afa-4ba94e24fa7a" />
+</p>
+</p>
+
+| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
+| :--- | :--- | :--- |
+| **#2 Correspondência com o mundo real** | Placeholders e Símbolos (R$ / %) | O sistema adota a linguagem nativa do varejo. Ao exibir "R$" para produtos e "%" para promoções como texto de exemplo, a interface conecta-se ao modelo mental do lojista: cadastro de estoque é valor monetário, oferta é valor percentual. |
+| **#4 Consistência e Padrões** | Espelhamento de Layout | Os formulários são estruturalmente idênticos. A manutenção rígida da grade (Grid) — "Nome" no topo, variáveis numéricas no meio, "Detalhes" abaixo — garante previsibilidade. O usuário aprende o fluxo uma vez e o aplica em ambos os cenários com carga cognitiva mínima. |
+| **#5 Prevenção de erros** | Restrição Visual de Campos +" | A separação explícita entre o campo de valor ("Preço" ou "Promoção") e o de "Quantidade", dispostos lado a lado, sugere visualmente a entrada de dados numéricos curtos, induzindo o usuário ao formato correto antes mesmo da digitação. |
+| **#6 Reconhecimento em vez de memorização** | Rótulos (Labels) Estáticos | A interface mantém os rótulos ("Nome Produto", "Preço") visíveis acima dos campos o tempo todo, evitando o padrão de floating labels que somem ao digitar. Isso permite a revisão dos dados a qualquer momento sem esforço de memória.|
+| **#8 Estética e design minimalista** | Área de Texto Limpa | O campo "Detalhes" é apresentado como uma área ampla e livre de ruídos visuais, focando inteiramente na redação das especificações técnicas do produto. |
+
+## Usabilidade, Comunicabilidade e Coerência Visual
+- Usabilidade (Eficiência de Input): O layout aplica o princípio de agrupamento (Gestalt) na linha central. Ao posicionar as variáveis críticas ("Preço/Promoção" e "Quantidade") lado a lado, o design otimiza o espaço vertical, evitando a rolagem excessiva e mantendo o botão de ação "Adicionar" acessível na primeira dobra da tela (above the fold) na maioria dos dispositivos.
+
+- Comunicabilidade (Contexto Semântico): A interface comunica a mudança de contexto de forma sutil, mas vital. Embora visualmente semelhantes, a troca do rótulo e do placeholder altera o significado do dado:
+
+    - Tela Produto: Comunica "Definição de Valor" (R$).
+
+    - Tela Promoção: Comunica "Estratégia de Desconto" (%). Essa distinção semântica previne que o lojista cadastre acidentalmente um desconto de "90" como se fosse um preço de "R$ 90".
+
+- Coerência Visual: A identidade visual é preservada através do sistema de design: campos com bordas arredondadas e sombras suaves, tipografia consistente e o botão de ação primária em vermelho sólido, alinhado com o restante do aplicativo (Login, Perfil).
+
+## Considerações de Acessibilidade
+- Lei de Fitts (Alvos de Toque): Os campos de input possuem altura generosa (padrão >48dp), facilitando a seleção precisa. O botão "Adicionar", ocupando largura isolada no rodapé, oferece um alvo de toque fácil e seguro, reduzindo erros motores.
+
+- Contraste e Legibilidade: O texto de placeholder ("Digite o nome...", "R$ 0") utiliza um cinza que garante contraste suficiente para leitura, mas se diferencia claramente do texto preto de entrada final, indicando o estado de "campo vazio".
+
+- Navegação Sequencial: A ordem lógica dos campos (Topo → Baixo, Esquerda → Direita) favorece a navegação por tecnologias assistivas (leitores de tela) e teclados, seguindo o fluxo natural de leitura.
+
+##  Evidências de Signos Metalinguísticos
+- Simbologia Instrucional:
+
+    - O símbolo "R$" funciona como um signo imperativo: "Insira moeda corrente".
+
+    - O símbolo "%" funciona como um alerta matemático: "Insira uma fração de desconto".
+
+- Cor Semântica de Ação: A cor do botão "Adicionar" (Vermelho/Terracota) carrega o significado de "Commit" (Gravação/Comprometimento). Ela sinaliza que aquela interação resultará em uma alteração permanente no banco de dados, distinguindo-se de ações de navegação neutras.
+
+- Ícone de Cabeçalho: O ícone de "Caixa" (Product Box) ao lado do título reforça visualmente o contexto operacional da tela: gestão de estoque físico.
+
+
+# Telas de Caixa de Mensagem e CHAT entre Logista e Clientes
+
+<img width="233" height="521" alt="image" src="https://github.com/user-attachments/assets/b03c05d7-8715-4dd1-9149-55d128420b83" />
+<img width="237" height="521" alt="image" src="https://github.com/user-attachments/assets/d101f585-0b34-468e-84ab-fc0069b5da3b" />
 
 ## Tela de Caixa de Mensagens — Avaliação por Heurísticas de Nielsen
 
