@@ -330,3 +330,76 @@ A interface comunica suas funções por meio de ícones e textos curtos, elimina
 - **Ícone de Microfone:** Indica entrada por voz.  
 - **Ícone de Enviar:** Representa a ação de despachar a mensagem.  
 - **Seta de Voltar:** Signo universal de retorno de navegação.
+
+---
+
+# Telas para a Persona de Cliente
+
+## TELA 1 - Listagem de Lojas e Serviços
+
+ <p align="center">
+   <img width="1648" height="3668" alt="image" src="https://github.com/user-attachments/assets/ece7f919-1952-4ba5-9a80-ae101d061724" />
+</p>
+
+É a tela principal de navegação para o cliente encontrar fornecedores. Temos o menu superior com a localização e botão de voltar, uma barra de busca e filtros de estado ("Abertas Agora" vs "Promoções"). Abaixo, uma lista vertical de "Cards" representando as lojas disponíveis, contendo informações resumidas para decisão rápida.
+
+### Heurísticas:
+
+| Heurística | Onde se aplica | Justificativa |
+| :--- | :--- | :--- |
+| **Visibilidade e status do sistema** | Menu inferior e Filtros | É mostrado onde o usuário está ao colocar o ícone "Início" em vermelho. O filtro "Abertas Agora" está preenchido, indicando o que está sendo exibido no momento. |
+| **Correspondência entre o sistema e o mundo real** | Linguagem e Ícones | Uso de termos coloquiais locais ("Lojão", "Comprinhas") e ícones universais (Carrinho, Lupa) que traduzem ações digitais para conceitos físicos conhecidos. |
+| **Reconhecimento em vez de memorização** | Cards das Lojas | O usuário vê todas as informações de decisão (taxa, tempo, distância) diretamente no card, sem precisar clicar e voltar (memorizar) para comparar lojas. |
+| **Consistência e padrões** | Layout da tela | Segue o padrão mental de apps de delivery (Busca no topo, lista vertical, navegação no rodapé), reduzindo a curva de aprendizado. |
+| **Controle e liberdade do usuário** | Menu superior -> Voltar | O usuário pode retornar ao menu anterior caso tenha entrado na seção de lojas por engano, indicado pela seta no canto superior esquerdo. |
+
+### Signos:
+
+**Estáticos:**
+* A logo do aplicativo no topo;
+* O texto da localização ("Centro") atuando como rótulo fixo.
+
+**Dinâmicos:**
+* Os botões de filtro ("Abertas Agora", "Promoções");
+* Os Cards das lojas (elementos clicáveis);
+* A barra de busca;
+* Os ícones do menu inferior.
+
+**Metalinguísticos:**
+* O texto "Buscar Lojas ou Produtos" dentro da barra (placeholder explaining function);
+* O texto "voltar" ao lado da seta.
+
+---
+
+## TELA 2 - Seção de Promoções
+
+<p align="center">
+   <img width="1684" height="3668" alt="image" src="https://github.com/user-attachments/assets/6552508a-c3b7-4499-bcb0-958c6bedbb5d" />
+</p>
+
+Esta tela é acessada ao alternar o filtro superior para "Promoções". O layout muda para focar na vantagem econômica, priorizando a imagem do produto, o preço antigo (riscado) e o preço novo com destaque, além de etiquetas de desconto.
+
+### Heurísticas:
+
+| Heurística | Onde se aplica | Justificativa |
+| :--- | :--- | :--- |
+| **Visibilidade e status do sistema** | Filtro Superior "Promoções" | O botão "Promoções" agora aparece preenchido (sólido) e "Abertas Agora" vazado, dando feedback visual imediato da mudança de modo de visualização. |
+| **Correspondência entre o sistema e o mundo real** | Preços "De/Por" e Tags | Uso da metáfora de varejo físico: preço antigo riscado e etiquetas vermelhas de porcentagem, símbolos universais de liquidação. |
+| **Reconhecimento em vez de memorização** | Fotos dos Produtos | Imagens fiéis das embalagens (ex: saco de cimento Votoran) permitem que o profissional identifique o material visualmente sem ler o nome técnico. |
+| **Estética e design minimalista** | Hierarquia Tipográfica | Redução de ruído visual. O destaque máximo é o preço novo (negrito, grande), facilitando o escaneamento rápido das ofertas. |
+| **Prevenção de erros** | Imagens de Alta Fidelidade | Ao mostrar a foto real do produto (ex: Makita), evita-se que o usuário compre o modelo errado por confusão apenas com o nome do item. |
+
+### Signos:
+
+**Estáticos:**
+* Os nomes dos produtos (ex: "Cimento 50 KG");
+* A estrutura visual do card (bordas e fundo).
+
+**Dinâmicos:**
+* O botão de filtro "Promoções" (estado ativo);
+* Os cards de produtos (clicáveis para compra).
+
+**Metalinguísticos:**
+* O traço sobre o preço antigo (~~R$ 50,00~~) explicando a anulação do valor;
+* A etiqueta vermelha ("-70%") explicando o motivo da redução;
+* A inversão de cores nos botões de filtro, explicando a aba ativa.
