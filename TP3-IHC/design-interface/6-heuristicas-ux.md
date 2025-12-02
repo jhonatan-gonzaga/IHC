@@ -255,6 +255,44 @@ Elementos visuais que comunicam função sem depender de texto:
 
 - Ícone de Lista/Loja: O ícone no cabeçalho (fachada da loja) atua como um marcador de contexto, reafirmando que a lista visualizada pertence ao inventário do próprio estabelecimento.
 
+## Tela Edição
+
+ <p align="center">
+   <img width="413" height="1328" alt="image" src="https://github.com/user-attachments/assets/3d39aa92-b4a2-4676-b2e9-13621f6f3ea4" />
+</p>
+
+| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
+| :--- | :--- | :--- |
+| **#3 Controle e liberdade do usuário** | Ícones de Lixeira e Voltar | O sistema oferece "saídas de emergência" e reversibilidade. O ícone de lixeira permite a remoção de itens indesejados, enquanto o botão de voltar garante que o usuário possa desistir da edição sem aplicar mudanças indesejadas. |
+| **#5 Prevenção de erros** | Botão "Salvar Alterações" | A interface adota um modelo de confirmação explícita. Ao invés de salvar cada caractere digitado em tempo real (o que poderia causar erros catastróficos em dados públicos), o sistema exige um clique final no botão "Salvar Alterações" para efetivar as mudanças no banco de dados. |
+| **#6 Reconhecimento em vez de memorização** | Ícones de Edição (Lápis) | O uso repetitivo do ícone de lápis ao lado de cada campo editável (Nome, Horário, Telefone) elimina a necessidade de o usuário adivinhar o que pode ser alterado. A interface sinaliza visualmente: "onde há lápis, há edição". |
+| **##8 Estética e design minimalista** | Agrupamento de Seções | A tela organiza densas informações administrativas em blocos claros ("Informações", "Catálogo", "Promoções"), utilizando espaços em branco para reduzir a carga visual e permitir que o gestor foque em um grupo de dados por vez.|
+
+## Usabilidade, Comunicabilidade e Coerência Visual
+- Usabilidade (Eficiência Operacional): A tela foi desenhada para o fluxo de trabalho de Manutenção (CRUD). A decisão de expor as ações de "Editar" e "Excluir" diretamente na lista (no canto superior direito dos cards) reduz drasticamente o número de cliques (interaction cost) necessários para gerenciar um estoque grande, comparado a fluxos que exigem entrar em cada item individualmente.
+
+- Comunicabilidade (Estado do Sistema): A interface comunica claramente que está em "Modo de Edição" através da mudança de affordance. Diferente da tela de visualização passiva, aqui todos os campos ganham ícones indicadores (lápis) e bordas de input, sinalizando interatividade.
+
+- Coerência Visual: A consistência é mantida pelo sistema de ícones (Iconography System). O estilo de linha (outlined) na cor da marca é aplicado uniformemente tanto nos ícones institucionais (relógio, loja) quanto nos funcionais (lápis, lixeira), criando uma harmonia visual que guia o olhar.
+
+## Considerações de Acessibilidade
+- Áreas de Toque (Touch Targets): Os ícones de ação nos cartões (Lápis e Lixeira) possuem um espaçamento horizontal crítico entre si. Isso é vital para evitar o "erro de toque vizinho", onde o usuário tenta editar mas acaba clicando em excluir.
+
+- Feedback de Estado: O botão "Salvar Alterações" no rodapé possui alta proeminência (cor sólida e largura total). Para acessibilidade, ele serve como um ponto de ancoragem visual e de navegação por teclado, indicando o fim do formulário.
+
+- Hierarquia de Leitura: O uso de títulos em negrito ("Informações da Loja", "Catálogo") permite que usuários de leitores de tela naveguem rapidamente entre as seções, pulando blocos de conteúdo que não desejam editar no momento.
+
+## Evidências de Signos Metalinguísticos
+- Metáforas Universais:
+
+    - Lápis: Signo metalinguístico universal para "reescrever" ou "alterar conteúdo".
+
+    - Lixeira: Signo icônico para "descarte" ou "destruição irreversível".
+
+- Cores Funcionais: Enquanto a cor vermelha/terracota é a cor da marca (branding), nos ícones de "Lixeira" ela assume uma conotação de alerta (Warning), sugerindo cuidado na interação.
+
+- Posicionamento Espacial: O posicionamento do botão "Salvar" flutuando ou fixo na base da tela cria uma metáfora de "rodapé de documento", indicando que aquela ação valida tudo o que está acima dela (herança de formulários de papel).
+
 
 
 # Telas de Caixa de Mensagem e CHAT entre Logista e Clientes
