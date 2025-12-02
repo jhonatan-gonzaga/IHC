@@ -14,13 +14,13 @@ Nesta seção, detalhamos como o design da interface do Conecta Obra Itacoatiara
 </p>
 </p>
 
-| Heurística de Nielsen                   | Localização na Interface    | Justificativa do Uso                                                                                                                                                                                            |
-| --------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #3 Controle e liberdade do usuário      | Topo e Base da Tela         | O usuário tem múltiplas rotas de saída: um botão "voltar" (seta), um botão "X" (fechar) no cabeçalho e um botão "Cancelar" na base, permitindo abandonar a tarefa sem erros.                                    |
-| #4 Consistência e Padrões               | Botões de Ação              | A hierarquia visual é clara: o botão "Adicionar" (ação final) segue o padrão da marca (fundo vermelho), enquanto "Cancelar" é apenas contornado. Os ícones de Câmera e Galeria seguem padrões universais de UI. |
-| #6 Reconhecimento em vez de memorização | Botões de Categoria (Chips) | O uso de etiquetas selecionáveis ("Construção", "Elétrica", "Pintura") evita que o usuário precise lembrar ou digitar manualmente a categoria do serviço, reduzindo a carga cognitiva.                          |
-| #7 Flexibilidade e eficiência de uso    | Campo de Detalhes           | A presença do ícone de microfone dentro do campo de texto oferece um atalho para entrada de voz (Speech-to-Text), permitindo descrições mais ricas com menos esforço físico.                                    |
-| #8 Estética e design minimalista        | Layout Geral                | O formulário é segmentado em blocos lógicos (Mídia > Dados Básicos > Categoria > Detalhes), com amplo espaçamento, evitando a sensação de "formulário burocrático".                                             |
+| Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
+| :--- | :--- | :--- |
+| **#1 Visibilidade do estado do sistema** | **Tela: Novos Pedidos** e **Meus Serviços** | O **badge numérico "2"** na aba superior informa claramente quantas pendências existem. Nos cards, as etiquetas coloridas (**Verde** para "Concluído", **Azul** para "Em Andamento") mostram o status exato do serviço sem a necessidade de abrir detalhes. |
+| **#2 Correspondência entre o sistema e o mundo real** | **Tela: Meus Serviços** | O botão **"falar no WhatsApp"** utiliza o ícone e o nome oficial do aplicativo, conectando a interface à ferramenta de comunicação real que o profissional já utiliza no dia a dia. |
+| **#3 Controle e liberdade do usuário** | **Tela: Novos Pedidos** | O sistema oferece um botão **"Recusar"** claro e acessível nos cards de pedido, permitindo que o profissional tenha controle total para declinar trabalhos que não deseja ou não pode realizar. |
+| **#4 Consistência e Padrões** | **Todas as Telas de Pedidos** | Há um padrão visual rigoroso para botões: ações positivas/primárias ("Aceitar", "Salvar") são sempre **vermelhas e sólidas**. Ações negativas/secundárias ("Recusar", "Finalizar") são sempre **brancas com contorno**, facilitando a decisão rápida. |
+| **#6 Reconhecimento em vez de memorização** | **Tela: Novos Pedidos** | O uso de ícones universais nos cards (📍 **Pin** para localização e 📅 **Calendário** para data) permite que o usuário identifique o tipo de informação visualmente, sem precisar ler rótulos de texto repetitivos como "Endereço:" ou "Data:". |
 
 ---
 
