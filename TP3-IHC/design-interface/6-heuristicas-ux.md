@@ -142,36 +142,39 @@ Elementos visuais que comunicam função sem depender de texto:
 
 | Heurística de Nielsen | Localização na Interface | Justificativa do Uso |
 | :--- | :--- | :--- |
-| **#3 Controle e liberdade do usuário** | Botões de "Lixeira" e "Voltar"" | O sistema oferece saídas claras: o ícone de lixeira nos cartões permite a exclusão imediata de itens obsoletos, e a seta de "voltar" no topo garante a navegação reversa sem travar o usuário em fluxos de cadastro. |
-| **#4 Consistência e Padrões** | Cards de Listagem | A estrutura visual dos cartões de "Produto" e "Promoção" é idêntica (Nome no topo, valores à esquerda, quantidade à direita), variando apenas o dado crítico (R$ vs %). Isso reduz a curva de aprendizado ao alternar entre abas. |
-| **#6 Reconhecimento em vez de memorização** | Placeholders e Rótulos | Os campos de formulário possuem rótulos claros ("Preço", "Promoção") e placeholders ("R$ 0", "% 0", "Digite o nome") que exemplificam o formato esperado, eliminando a dúvida sobre como inserir os dados. |
-| **#5 Prevenção de erros** | Botão "Salvar Alterações" | Na tela de edição de perfil, as mudanças não são aplicadas instantaneamente. O botão persistente no rodapé atua como uma barreira de confirmação, prevenindo que toques acidentais alterem dados críticos da loja. |
-| **#8 Estética e design minimalista** | Formulários de Cadastro | A tela de "Adicionar" remove qualquer elemento desnecessário, focando apenas nos inputs essenciais. O uso de espaço em branco generoso entre os campos ("Nome", "Preço/Qtd", "Detalhes") evita a poluição visual. |
+| **#1 Visibilidade do status do sistema** | Painel Geral | A tela oferece um resumo imediato da "saúde" da loja: dados de contato visíveis, prévia do estoque e promoções ativas. O usuário não precisa adivinhar o que está online; a interface mostra explicitamente o que o cliente final vê. |
+| **#4 Consistência e Padrões** | Botões e Cards | Segue o padrão estabelecido no restante do app: botões de ação primária em vermelho/terracota ("+ Adicionar", "Editar Perfil") e cartões brancos com sombra suave para agrupar conteúdo. A barra de navegação inferior mantém a consistência de navegação global. |
+| **#7 Flexibilidade e eficiência de uso** | Botões "Lista +" | Para usuários frequentes (lojistas), o sistema oferece atalhos de navegação. Ao invés de forçar o usuário a rolar infinitamente por todos os produtos nesta tela principal, o botão "Lista +" atua como um acelerador para ver o inventário completo apenas quando necessário. |
+| **#8 Estética e design minimalista** | Segmentação por Blocos | A interface combate a sobrecarga de informação dividindo o conteúdo em três blocos lógicos e isolados visualmente: "Informações", "Catálogo" e "Promoções". Isso permite que o cérebro processe uma categoria de dados por vez. |
+| **#2 Correspondência com o mundo real** | Ícones de Contato | O uso de metáforas visuais (Relógio para horário, Telefone para contato, Pin para endereço) mapeia objetos do mundo real para dados digitais, permitindo leitura rápida sem a necessidade de rótulos de texto explicativos ("Endereço:", "Telefone:"). |
 
 ## Análise de UX/UI: Usabilidade, Comunicabilidade e Coerência
-- O design do módulo lojista prioriza a usabilidade através da eficiência nas tarefas de manutenção (CRUD). A decisão de colocar os ícones de ação rápida (Edição/Lápis e Exclusão/Lixeira) diretamente no cabeçalho dos cartões, na tela de perfil, reduz o número de cliques necessários para gerenciar o inventário, dispensando menus de contexto ocultos que dificultariam a operação rápida.
-- A comunicabilidade é reforçada pela clareza dos rótulos e distinção contextual. Ao separar "Catálogo" de "Promoções", a interface comunica que, embora sejam itens de estoque, possuem comportamentos de venda diferentes. O uso de prefixos como "R$" para produtos e "%" para promoções informa visualmente a natureza do valor numérico antes mesmo da leitura do rótulo.
+- Usabilidade (Arquitetura de Informação): A tela funciona como um Hub de Navegação. A hierarquia visual prioriza a "Identidade" (topo), seguida pelo "Core Business" (Catálogo) e "Estratégia de Venda" (Promoções). O botão "Editar Perfil" é destacado no topo, garantindo que a manutenção da conta seja uma ação de primeiro nível, fácil de encontrar.
+- Comunicabilidade (Síntese): A interface utiliza o princípio da Divulgação Progressiva (Progressive Disclosure). Ao mostrar apenas os primeiros itens de cada lista (Produto A, Produto B) e oferecer um botão "Lista +", o sistema comunica que "há mais conteúdo aqui", mantendo a tela inicial limpa e carregando rápido, sem sobrecarregar o usuário com dados excessivos de imediato.
 - A coerência visual é mantida pelo reuso estrito de componentes. O botão de ação primária (Adicionar/Salvar) sempre utiliza a cor sólida da marca (vermelho/terracota) e ocupa a largura total na base da tela, criando um padrão mental de "finalização de tarefa" consistente em todo o aplicativo.
--A coerência visual é mantida pelo reuso estrito de componentes. O botão de ação primária (Adicionar/Salvar) sempre utiliza a cor sólida da marca (vermelho/terracota) e ocupa a largura total na base da tela, criando um padrão mental de "finalização de tarefa" consistente em todo o aplicativo.
+-Coerência Visual: A paleta de cores (fundo rosa claro, cartões brancos, elementos vermelhos) cria uma atmosfera de marca forte. A repetição do estilo dos botões "+ Adicionar Produto" e "+ Adicionar Promoção" cria uma simetria visual que torna a interface previsível e agradável.
 
 ## Acessibilidade
-- Áreas de Toque: Os ícones de interação crítica na lista editável (Lápis e Lixeira) foram posicionados com espaçamento suficiente entre si e das bordas do cartão, visando acomodar o "dedo gordo" (fat finger) e prevenir toques acidentais, crucial para uso em dispositivos móveis em movimento.
-- Contraste e Leitura: Os formulários utilizam bordas bem definidas e alto contraste entre o texto (preto/cinza escuro) e o fundo (branco/rosa claro), garantindo que os campos de entrada sejam facilmente identificáveis por usuários com baixa visão.
-- Hierarquia de Foco: O título da tela ("Adicionar Produto", "Perfil Loja") é o elemento de maior peso visual, seguido pelos rótulos dos campos, orientando a ordem de leitura natural de cima para baixo.
+- Agrupamento Semântico: Para leitores de tela, a estrutura de cabeçalhos (H1, H2) está clara ("Informações da Loja", "Catálogo", "Promoções"). Isso permite que usuários com deficiência visual saltem diretamente para a seção de interesse sem ouvir todo o conteúdo anterior.
+- Identificação de Ícones: É crucial que os ícones do bloco "Informações" (Relógio, Pin, Telefone) possuam etiquetas aria-label ou descrições alternativas no código, pois não há texto visível dizendo "Telefone" ao lado do número, confiando puramente na interpretação visual do ícone.
+- Contraste: O texto cinza escuro/preto sobre fundo branco nos cartões oferece excelente legibilidade. Os botões de ação (vermelhos) com texto branco passam nos testes de contraste WCAG AA, garantindo leitura sob diversas condições de iluminação.
 
 ## Metalinguísticos
-- Ícones Universais:
-  - O ícone de Lápis é um signo metalinguístico universal para "modificação de conteúdo existente".
-  - O ícone de Lixeira comunica inequivocamente a ação destrutiva de "remoção permanente".
-  - O ícone de Loja (fachada) e Relógio na edição de perfil agem como metáforas visuais que substituem a necessidade de ler os rótulos "Endereço" ou "Horário", acelerando o reconhecimento cognitivo.
-- Cores Semânticas: O uso da cor vermelha nos botões principais não é apenas estética, mas um signo que indica "Ação Prioritária" ou "Conclusão". Já o contorno vermelho nos campos de input ativos (foco) indica ao usuário "você está editando este campo agora".
+- Ícones como Linguagem:
+  - O ícone de Lápis no botão "Editar Perfil" é um signo universal de modificação.
+  - O ícone de Carrinho de Compras na aba inferior ("Loja") indica o contexto atual do usuário (Visão do Lojista).
+  - O ícone de Caixa Registradora na aba inferior ("Caixa") sugere o local onde as transações financeiras ocorrem.
+- Cores de Status:
+  - O uso da cor vermelha nos botões de "Adicionar" sinaliza proatividade e inclusão de dados.
+  - A cor de fundo suave (rosa claro) atua como um "espaço negativo" passivo, que empurra o conteúdo (cartões brancos) para o primeiro plano da atenção do usuário.
+- Disposição Espacial: A colocação das "Informações da Loja" no topo absoluto reflete a importância da identidade corporativa — é a "fachada" digital da loja, a primeira coisa que deve ser vista, assim como no mundo físico.
 
-## Tela de Adicionar Produto e Adicionar Promção
+## Tela de Lista Catálogo e Lista Promoção
 
 <p float="left">
 <p align="center">
-<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/d983555a-0cb3-4beb-a81d-96a88a1e1278" />
-<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/e30f6e15-489b-4a68-8afa-4ba94e24fa7a" />
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/6e7106c6-5f4e-4651-8f90-acf4601a70c7" />
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/160b727a-3fbb-4f31-b47d-35ea88fb3268" />
 </p>
 </p>
 
@@ -202,12 +205,12 @@ Elementos visuais que comunicam função sem depender de texto:
 - Cor Semântica de Ação: A cor do botão "Adicionar" (Vermelho/Terracota) carrega o significado de "Commit" (Gravação/Comprometimento). Ela sinaliza que aquela interação resultará em uma alteração permanente no banco de dados, distinguindo-se de ações de navegação neutras.
 - Ícone de Cabeçalho: O ícone de "Caixa" (Product Box) ao lado do título reforça visualmente o contexto operacional da tela: gestão de estoque físico.
 
-## Tela de Lista Catálogo e Lista Promoção
+## Tela de Adicionar Produto e Adicionar Promção
 
 <p float="left">
 <p align="center">
-<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/6e7106c6-5f4e-4651-8f90-acf4601a70c7" />
-<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/160b727a-3fbb-4f31-b47d-35ea88fb3268" />
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/d983555a-0cb3-4beb-a81d-96a88a1e1278" />
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/e30f6e15-489b-4a68-8afa-4ba94e24fa7a" />
 </p>
 </p>
 
@@ -330,7 +333,6 @@ A interface comunica suas funções por meio de ícones e textos curtos, elimina
 - **Ícone de Microfone:** Indica entrada por voz.  
 - **Ícone de Enviar:** Representa a ação de despachar a mensagem.  
 - **Seta de Voltar:** Signo universal de retorno de navegação.
-
 ---
 
 # Telas para a Persona de Cliente
