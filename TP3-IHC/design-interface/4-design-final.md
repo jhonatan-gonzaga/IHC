@@ -61,6 +61,62 @@ A tela de edição de perfil consolida a gestão de identidade e reputação em 
 2. Formulário de Dados Profissionais: A edição de informações utiliza componentes visuais interativos para agilizar o preenchimento. A seleção de "Especialidades" (ex: Pedreiro, Pintor) e "Disponibilidade" (dias da semana) é feita através de botões de alternância (toggle chips e botões circulares), onde o usuário apenas toca para ativar ou desativar, eliminando a necessidade de listas suspensas complexas ou digitação.
 3. Definição de Valor e Horário: Campos numéricos simples definem o intervalo de horário de trabalho ("Das" / "Até") e o "Valor da Diária", finalizando com um botão de ação persistente "Salvar Perfil" na base da tela.
 
+# Telas para a Persona de Lojista
+
+## Tela do Perfil Loja
+
+<p align="center">
+   <img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/2d15e453-8439-465f-ab25-ece42befb61c" />
+</p>
+
+A tela de "Perfil Loja" atua como um painel de controle administrativo (dashboard) para o parceiro comercial, consolidando a edição de dados institucionais e o gerenciamento ativo de estoque e ofertas em uma interface centralizada.
+
+1. Gestão Institucional: O topo da tela oferece acesso direto à manutenção da identidade da loja através do botão "Editar Perfil". Logo abaixo, os campos informativos (horário, segmento, localização e contato) servem como um resumo visual dos dados cadastrados, permitindo ao lojista conferir rapidamente as informações que estão visíveis para o cliente final.
+2. Administração do Catálogo: A seção central facilita a expansão e o controle do mix de produtos. O botão de destaque "+ Adicionar Produto" agiliza a inserção de novos itens, enquanto a listagem em cartões (cards) apresenta o preço e a quantidade atual, permitindo o monitoramento do estoque disponível.
+3. Controle de Promoções: A seção inferior é dedicada à estratégia de vendas, com um botão específico "+ Adicionar Promoção" para criar ofertas rapidamente. Os cartões diferenciam-se visualmente ao destacar o percentual de desconto (ex: "20% OFF") em vez do preço cheio, permitindo ao gestor administrar separadamente o inventário destinado a campanhas promocionais.
+
+## Tela de Adicionar Produto e Adicionar Promção
+
+<p float="left">
+<p align="center">
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/d983555a-0cb3-4beb-a81d-96a88a1e1278" />
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/e30f6e15-489b-4a68-8afa-4ba94e24fa7a" />
+</p>
+</p>
+
+As interfaces de entrada de dados foram projetadas com um padrão de design unificado, garantindo que o lojista tenha uma experiência familiar tanto ao cadastrar um novo item quanto ao criar uma oferta relâmpago. A consistência visual reduz a carga cognitiva e agiliza a operação.
+
+1. Padronização de Formulários: Ambas as telas priorizam a legibilidade com o campo "Nome Produto" em destaque no topo, seguido por uma grande área de texto para "Detalhes". Essa estrutura mantida assegura que o usuário não precise reaprender a interface ao alternar entre tarefas de estoque e marketing.
+
+2. Adaptação Contextual de Campos: A diferenciação funcional ocorre na segunda linha de inputs. Enquanto a tela de Produto solicita o valor monetário absoluto ("Preço"), a tela de Promoção adapta-se para capturar a estratégia de desconto ("Promoção %"), mantendo o campo "Quantidade" inalterado para controle de estoque em ambos os cenários.
+
+3. Foco na Ação: O layout limpo direciona o olhar para o botão de ação primária "Adicionar" (em vermelho). O posicionamento isolado na base da tela evita cliques acidentais e fornece um encerramento claro para o fluxo de cadastro.
+
+## Tela de Lista Catálogo e Lista Promoção
+
+<p float="left">
+<p align="center">
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/6e7106c6-5f4e-4651-8f90-acf4601a70c7" />
+<img width="412" height="917" alt="image" src="https://github.com/user-attachments/assets/160b727a-3fbb-4f31-b47d-35ea88fb3268" />
+</p>
+</p>
+
+As telas de listagem foram construídas sobre um sistema de cartões (cards) padronizado, permitindo que o lojista navegue por grandes volumes de itens (seja do catálogo regular ou de ofertas) com a mesma fluidez e carga cognitiva reduzida.
+
+1. Arquitetura de Informação em Cards: A escolha por cartões individuais, delimitados por bordas sutis e espaçamento generoso, melhora a "escaneabilidade" da tela. Cada unidade de informação é isolada, evitando que os dados de um produto se confundam visualmente com o próximo, o que é essencial em listas longas de rolagem vertical.
+2. Hierarquia de Dados: Em ambas as variações, o "Nome do Produto" recebe o peso visual primário no topo do cartão. Logo abaixo, a interface divide a atenção entre o atributo financeiro (esquerda) e logístico (direita - "Quantidade"), finalizando com metadados de descrição (ex: "Marca Leopoldo, 2025") no rodapé do cartão para contexto adicional.
+3. Variação Funcional de Atributos: A distinção entre as telas ocorre no dado crítico de decisão:
+
+- Catálogo Padrão: Exibe o campo "Preço" (R$), permitindo a conferência do valor de venda regular.
+- Lista Promocional: Substitui o preço pelo campo "Desconto/Promoção" (%), destacando o impacto da oferta em vez do valor monetário final, facilitando a gestão da agressividade das campanhas de marketing.
+
+## Tela de Edição
+
+ <p align="center">
+   <img width="413" height="1328" alt="image" src="https://github.com/user-attachments/assets/3d39aa92-b4a2-4676-b2e9-13621f6f3ea4" />
+</p>
+
+
 ## Tela da Caixa de Mensagem e CHAT entre Lojista e Clientes
 <img width="233" height="521" alt="image" src="https://github.com/user-attachments/assets/19e8ba04-e6b9-404d-835f-dcd6a9759563" />
 <img width="237" height="521" alt="image" src="https://github.com/user-attachments/assets/d101f585-0b34-468e-84ab-fc0069b5da3b" />
